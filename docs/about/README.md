@@ -20,7 +20,7 @@ Ultimately I'm just trying to balance being a father, husband, son, web professi
 
 ## Résumé
 
-<a href="/Brian-Hamburg-resume.pdf" target="_blank">Download PDF</a>
+<a href="/Brian-Hamburg-resume.pdf" target="_blank">Download PDF</a> :inbox_tray:
 
 ### Summary
 
@@ -72,7 +72,7 @@ Graduated 2006
 
 ## Music and Mummery
 
-#### Oh, the places you’ll go... with a banjo!
+#### Oh, the places you’ll go... with a banjo! :banjo:
 
 ***Brian Plays Banjo* YouTube Playlist:**
 <div class="video-container">
