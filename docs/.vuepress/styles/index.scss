@@ -1,0 +1,77 @@
+@import "/node_modules/typeface-inter/inter.css";
+@import "/node_modules/typeface-jetbrains-mono/dist/index.css";
+
+:root {
+  scroll-behavior: smooth;
+
+  h1, h2, h3, .black {
+    font-weight: 900;
+  }
+  h4 {
+    font-weight: 800;
+  }
+
+  --c-brand: #e30613;
+  --c-brand-light: #92040c;
+
+  // font vars
+  --font-family: 'Inter', sans-serif;
+  --font-family-code: 'JetBrains Mono', monospace;
+
+  // layout vars
+  --navbar-height: 3.6rem;
+  --navbar-padding-v: 0.7rem;
+  --navbar-padding-h: 1.5rem;
+  --sidebar-width: 20rem;
+  --sidebar-width-mobile: calc(var(--sidebar-width) * 0.82);
+  --content-width: 740px;
+  --homepage-width: 960px;
+}
+
+html.dark {
+  --c-brand: #9660cf;
+  --c-brand-light: #7738bb;
+  .logo {
+    filter: invert(1);
+  }
+}
+
+.site-name {
+  font-family: var(--font-family-code);
+}
+
+.home {
+  .hero {
+    img {
+      border-radius: 50%;
+      border: 0.5rem solid #fff;
+      box-shadow: 0 0 1.5rem rgb(34,39,46, 25%);
+      max-width: 50vw;
+    }
+    #main-title {
+      font-weight: 900;
+    }
+    .description {
+      font-weight: 500;
+    }
+  }
+  .footer {
+    padding: 2.5rem 0;
+  }
+}
+
+.video-container { 
+  position: relative; 
+  padding-bottom: 56.25%; 
+  height: 0; 
+  overflow: hidden; 
+  iframe, object, embed {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+  }
+}
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
