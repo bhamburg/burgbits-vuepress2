@@ -35,8 +35,8 @@
 
 ### Games Finished
 ::: tip LEGEND
-✅ &nbsp; First time having played the game through to the credits  
-💯 &nbsp; Completed 100%, indicated by in-game achievements or PSN trophies
+:white_check_mark: &nbsp;First playthrough  
+:100: &nbsp;Completed 100%
 :::
 
 #### 2021

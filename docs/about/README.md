@@ -72,7 +72,7 @@ Graduated 2006
 
 ## Music and Mummery
 
-#### Oh, the places you’ll go... with a banjo! :banjo:
+#### Oh, the places you’ll go... with a banjo!
 
 ***Brian Plays Banjo* YouTube Playlist:**
 <div class="video-container">
@@ -87,7 +87,7 @@ The banjo has been a huge part of my life since the summer of 1999. It all start
 With the Fralinger band, I’ve literally traveled around the world, performing in myriad parades and festivals including the International Chinese New Year Parade in Hong Kong and the Mardi Gras parades in New Orleans. As a member of Fralinger since April of 2001, I was fortunate enough to be a part of our record-setting, eight consecutive Mummers Parade championships. It’s an honor to perform with such talented musicians and represent the United States and the City of Philadelphia while entertaining people with this traditional American instrument.
 
 ### Latest Performance
-**Fralinger String Band's 2020 theme, *Lunar Effect*:**
+**Fralinger's 2020 theme, *Lunar Effect*:**
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/cquBEImdPsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
