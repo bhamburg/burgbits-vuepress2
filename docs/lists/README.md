@@ -6,18 +6,21 @@
   *—Mark Twain*
 
 ### Currently Reading
-
+<List-Reading />
 
 ### Books Read
 **Sorted by Year Finished, then Author**
-
 #### 2021
+<List-Reading />
 
 #### 2020
+<List-Reading />
 
 #### 2019
+<List-Reading />
 
 #### Earlier
+<List-Reading />
 
 ## Running
 
@@ -25,6 +28,7 @@
   *—The Oatmeal*
 
 ### Official Races
+<List-Running />
 
 ## Gaming
 
@@ -32,6 +36,7 @@
   *—Shigeru Miyamoto*
 
 ### Currently Playing
+<List-Gaming currently />
 
 ### Games Finished
 ::: tip LEGEND
@@ -40,9 +45,19 @@
 :::
 
 #### 2021
+<List-Gaming year="2021" />
 
 #### 2020
+<List-Gaming year="2020" />
 
 #### 2019
+<List-Gaming year="2019" />
 
-#### Earlier
+#### 2018
+<List-Gaming year="2018" />
+
+#### 2017
+<List-Gaming year="2017" />
+
+#### 2016
+<List-Gaming year="2016" />

@@ -8,8 +8,8 @@ actions:
   - text: Learn More
     link: /about/
     type: primary
-  - text: Blog Posts
-    link: /blog/
+  - text: Tech I'm Using
+    link: /Uses/
     type: secondary
 features: 
   - title: Developer

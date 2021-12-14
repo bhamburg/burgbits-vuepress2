@@ -1,0 +1,842 @@
+[
+  {
+    "title": "Demon's Souls",
+    "platform": "PS5",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Doom (2016)",
+    "platform": "PS4"
+  },
+  {
+    "title": "Doom Eternal",
+    "platform": "PS5",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Metroid: Zero Mission",
+    "platform": "GBA",
+    "firstTime": "yes",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "Bloodborne",
+    "platform": "PS4",
+    "yearFinished": "2021",
+    "dateFinished": "11-08",
+    "completed": "yes",
+    "notes": "\"The Old Hunters\" DLC, completed on PS5"
+  },
+  {
+    "title": "Metroid: Dread",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "10-16",
+    "firstTime": "yes",
+    "notes": "11:49:59 for 45% completion"
+  },
+  {
+    "title": "Deltarune: Chapter 2",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "09-29",
+    "firstTime": "yes",
+    "notes": "pacifist run"
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "platform": "SNES",
+    "yearFinished": "2021",
+    "dateFinished": "08-22",
+    "completed": "yes",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "The Legend of Zelda: Skyward Sword HD",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "08-22",
+    "firstTime": "yes",
+    "notes": "button controls"
+  },
+  {
+    "title": "Contra (NES version, Contra Anniversary Collection)",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "06-20",
+    "firstTime": "yes",
+    "notes": "used Konami code (30 lives)"
+  },
+  {
+    "title": "Bloodborne",
+    "platform": "PS4",
+    "yearFinished": "2021",
+    "dateFinished": "06-16",
+    "completed": "yes",
+    "notes": "platinum trophy, completed on PS5"
+  },
+  {
+    "title": "Battle Circuit (Capcom Beat 'Em Ups Bundle)",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "05-30",
+    "firstTime": "yes",
+    "notes": "with both Lizzy and Lou"
+  },
+  {
+    "title": "Street Fighter Alpha 2",
+    "platform": "SNES",
+    "yearFinished": "2021",
+    "dateFinished": "05-30",
+    "firstTime": "yes",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "Bloodborne",
+    "platform": "PS4",
+    "yearFinished": "2021",
+    "dateFinished": "05-16",
+    "notes": "Honoring Wishes\" ending on NG+"
+  },
+  {
+    "title": "SteamWorld Dig",
+    "platform": "3DS",
+    "yearFinished": "2021",
+    "dateFinished": "05-15",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Marvel's Spider-Man Remastered",
+    "platform": "PS5",
+    "yearFinished": "2021",
+    "dateFinished": "05-12",
+    "completed": "yes",
+    "notes": "platinum trophy"
+  },
+  {
+    "title": "Limbo",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "05-05",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Super Mario Bros. 3 (Super Mario All-Stars)",
+    "platform": "SNES",
+    "yearFinished": "2021",
+    "dateFinished": "04-25",
+    "notes": "Super Nt, with Nintendo Power Strategy Guide"
+  },
+  {
+    "title": "Mega Man X",
+    "platform": "SNES",
+    "yearFinished": "2021",
+    "dateFinished": "04-15",
+    "completed": "yes",
+    "notes": "Super Nt"
+  },
+  {
+    "title": "Maquette",
+    "platform": "PS5",
+    "yearFinished": "2021",
+    "dateFinished": "04-13",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Mortal Kombat 11 Ultimate",
+    "platform": "PS5",
+    "yearFinished": "2021",
+    "dateFinished": "04-12",
+    "firstTime": "yes",
+    "notes": "story mode"
+  },
+  {
+    "title": "Super Mario 3D World + Bowser's Fury",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "03-19",
+    "firstTime": "yes",
+    "notes": "finished Bowser's Fury story"
+  },
+  {
+    "title": "Double Dragon II: The Revenge",
+    "platform": "Arcade",
+    "yearFinished": "2021",
+    "dateFinished": "02-28",
+    "firstTime": "yes",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "Super Mario 3D World + Bowser's Fury",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "02-26",
+    "notes": "finished base game story"
+  },
+  {
+    "title": "Cadillacs and Dinosaurs",
+    "platform": "Arcade",
+    "yearFinished": "2021",
+    "dateFinished": "01-30",
+    "firstTime": "yes",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "New Super Mario Bros. U Deluxe",
+    "platform": "Switch",
+    "yearFinished": "2021",
+    "dateFinished": "01-19",
+    "firstTime": "yes",
+    "notes": "with Lizzy as Toadette (2P)"
+  },
+  {
+    "title": "Marvel's Spider-Man Remastered",
+    "platform": "PS5",
+    "yearFinished": "2021",
+    "dateFinished": "01-16",
+    "firstTime": "yes",
+    "notes": "main story"
+  },
+  {
+    "title": "DoDonPachi",
+    "platform": "Arcade",
+    "yearFinished": "2021",
+    "dateFinished": "01-13",
+    "firstTime": "yes",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "The Legend of Zelda",
+    "platform": "NES",
+    "yearFinished": "2021",
+    "dateFinished": "01-11",
+    "notes": "MiSTer, with Phil Summers' hand-drawn guide"
+  },
+  {
+    "title": "Super Mario 64 (Super Mario 3D All-Stars)",
+    "platform": "Switch",
+    "yearFinished": "2020",
+    "dateFinished": "12-31"
+  },
+  {
+    "title": "Street Fighter Zero",
+    "platform": "Arcade",
+    "yearFinished": "2020",
+    "dateFinished": "12-24",
+    "firstTime": "yes",
+    "notes": "Ken, MiSTer"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Switch",
+    "yearFinished": "2020",
+    "dateFinished": "12-21",
+    "notes": "Master Mode, true ending"
+  },
+  {
+    "title": "Super Mario Bros.",
+    "platform": "NES",
+    "yearFinished": "2020",
+    "dateFinished": "12-11",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "Mother 3",
+    "platform": "GBA",
+    "yearFinished": "2020",
+    "dateFinished": "12-08",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "Astro's Playroom",
+    "platform": "PS5",
+    "yearFinished": "2020",
+    "dateFinished": "11-21",
+    "firstTime": "yes",
+    "completed": "yes",
+    "notes": "first PSN platinum trophy"
+  },
+  {
+    "title": "The Legend of Zelda: Link's Awakening",
+    "platform": "Switch",
+    "yearFinished": "2020",
+    "dateFinished": "10-25"
+  },
+  {
+    "title": "Super Mario World 2: Yoshi's Island",
+    "platform": "SNES",
+    "yearFinished": "2020",
+    "dateFinished": "08-24",
+    "firstTime": "yes",
+    "notes": "Super Nt"
+  },
+  {
+    "title": "Final Fight (Capcom Beat 'Em Ups Bundle)",
+    "platform": "Switch",
+    "yearFinished": "2020",
+    "dateFinished": "07-25"
+  },
+  {
+    "title": "Streets of Rage 4",
+    "platform": "PS4",
+    "yearFinished": "2020",
+    "dateFinished": "07-18",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Dark Souls: Remastered",
+    "platform": "PS4",
+    "yearFinished": "2020",
+    "dateFinished": "05-02",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "platform": "SNES",
+    "yearFinished": "2020",
+    "dateFinished": "04-15",
+    "notes": "MiSTer"
+  },
+  {
+    "title": "Super Punch-Out!!",
+    "platform": "SNES",
+    "yearFinished": "2020",
+    "dateFinished": "03-13",
+    "notes": "Nintendo Switch Online"
+  },
+  {
+    "title": "Super Mario World",
+    "platform": "SNES",
+    "yearFinished": "2020",
+    "dateFinished": "01-10",
+    "notes": "Nintendo Switch Online"
+  },
+  {
+    "title": "Gris",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "12-20",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Mario + Rabbids: Kingdom Battle",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "12-12",
+    "notes": "Donkey Kong Adventure DLC"
+  },
+  {
+    "title": "Untitled Goose Game",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "10-05",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Katamari Damacy Reroll",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "09-29",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: Link's Awakening",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "09-28",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Katana Zero",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "09-04",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Messenger",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "08-28",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Super Mario Maker 2",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "07-28",
+    "firstTime": "yes"
+  },
+  {
+    "title": "What Remains of Edith Finch",
+    "platform": "PS4",
+    "yearFinished": "2019",
+    "dateFinished": "07-18",
+    "firstTime": "yes",
+    "completed": "yes"
+  },
+  {
+    "title": "Cuphead",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "06-18",
+    "firstTime": "yes",
+    "completed": "yes"
+  },
+  {
+    "title": "Gato Roboto",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "06-13",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Minit",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "06-11",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Blaster Master Zero 2",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "04-20",
+    "firstTime": "yes",
+    "completed": "yes"
+  },
+  {
+    "title": "ToeJam & Earl: Back in the Groove!",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "04-01",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: The Minish Cap",
+    "platform": "GBA",
+    "yearFinished": "2019",
+    "dateFinished": "03-23",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Sonic Mania",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "03-22",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Bloodborne",
+    "platform": "PS4",
+    "yearFinished": "2019",
+    "dateFinished": "03-18",
+    "firstTime": "yes",
+    "notes": "Childhood's Beginning\" ending"
+  },
+  {
+    "title": "Disney's Aladdin",
+    "platform": "SNES",
+    "yearFinished": "2019",
+    "dateFinished": "03-04",
+    "notes": "Super Nt"
+  },
+  {
+    "title": "Doom (2016)",
+    "platform": "PC",
+    "yearFinished": "2019",
+    "dateFinished": "01-19",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Golf Story",
+    "platform": "Switch",
+    "yearFinished": "2019",
+    "dateFinished": "01-16",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Deltarune: Chapter 1",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "11-09",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Undertale",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "11-02",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Octopath Traveler",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "10-14",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Mortal Kombat X",
+    "platform": "PS4",
+    "yearFinished": "2018",
+    "dateFinished": "08-28",
+    "firstTime": "yes",
+    "notes": "Scorpion"
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "07-26",
+    "completed": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "platform": "SNES",
+    "yearFinished": "2018",
+    "dateFinished": "07-21",
+    "completed": "yes",
+    "notes": "Super Nt"
+  },
+  {
+    "title": "God of War (2018)",
+    "platform": "PS4",
+    "yearFinished": "2018",
+    "dateFinished": "07-14",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Mega Man (Mega Man Legacy Collection)",
+    "platform": "PS4",
+    "yearFinished": "2018",
+    "dateFinished": "06-10"
+  },
+  {
+    "title": "Mega Man 3 (Mega Man Legacy Collection)",
+    "platform": "3DS",
+    "yearFinished": "2018",
+    "dateFinished": "06-03"
+  },
+  {
+    "title": "Bloodstained: Curse of the Moon",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "05-25",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Axiom Verge",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "05-13",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Blossom Tales: The Sleeping King",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "04-29",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Donkey Kong Country",
+    "platform": "SNES",
+    "yearFinished": "2018",
+    "dateFinished": "04-29",
+    "notes": "Super Nt"
+  },
+  {
+    "title": "Uncharted: Drake's Fortune",
+    "platform": "PS3",
+    "yearFinished": "2018",
+    "dateFinished": "04-25",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Mario + Rabbids: Kingdom Battle",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "04-17",
+    "firstTime": "yes"
+  },
+  {
+    "title": "God of War III",
+    "platform": "PS3",
+    "yearFinished": "2018",
+    "dateFinished": "04-11",
+    "firstTime": "yes"
+  },
+  {
+    "title": "EarthBound",
+    "platform": "SNES",
+    "yearFinished": "2018",
+    "dateFinished": "03-23",
+    "notes": "Super Nt"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "03-18",
+    "notes": "DLC, all shrines, memories, weapons upgraded"
+  },
+  {
+    "title": "Super Mario Land",
+    "platform": "GB",
+    "yearFinished": "2018",
+    "dateFinished": "03-16"
+  },
+  {
+    "title": "Super Punch-Out!!",
+    "platform": "SNES",
+    "yearFinished": "2018",
+    "dateFinished": "02-17"
+  },
+  {
+    "title": "Super Mario Bros.",
+    "platform": "NES",
+    "yearFinished": "2018",
+    "dateFinished": "02-14"
+  },
+  {
+    "title": "Celeste",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "02-10",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Chrono Trigger",
+    "platform": "DS",
+    "yearFinished": "2018",
+    "dateFinished": "02-05",
+    "firstTime": "yes"
+  },
+  {
+    "title": "SteamWorld Dig 2",
+    "platform": "Switch",
+    "yearFinished": "2018",
+    "dateFinished": "01-18",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "platform": "Switch",
+    "yearFinished": "2017",
+    "dateFinished": "12-01",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Street Fighter IV",
+    "platform": "Xbox 360",
+    "yearFinished": "2017",
+    "dateFinished": "11-13"
+  },
+  {
+    "title": "Mega Man X",
+    "platform": "SNES",
+    "yearFinished": "2017",
+    "dateFinished": "11-08",
+    "completed": "yes"
+  },
+  {
+    "title": "Shantae: 1/2 Genie Hero",
+    "platform": "Switch",
+    "yearFinished": "2017",
+    "dateFinished": "10-04",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Mother 3",
+    "platform": "GBA",
+    "yearFinished": "2017",
+    "dateFinished": "09-28",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Disney's Aladdin",
+    "platform": "SNES",
+    "yearFinished": "2017",
+    "dateFinished": "09-06"
+  },
+  {
+    "title": "Super Mario Galaxy",
+    "platform": "Wii",
+    "yearFinished": "2017",
+    "dateFinished": "09-06",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Super Mario World",
+    "platform": "SNES",
+    "yearFinished": "2017",
+    "dateFinished": "07-14",
+    "completed": "yes"
+  },
+  {
+    "title": "Super Metroid",
+    "platform": "SNES",
+    "yearFinished": "2017",
+    "dateFinished": "07-07",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Kamiko",
+    "platform": "Switch",
+    "yearFinished": "2017",
+    "dateFinished": "06-30",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Mega Man 2 (Mega Man Legacy Collection)",
+    "platform": "3DS",
+    "yearFinished": "2017",
+    "dateFinished": "06-22"
+  },
+  {
+    "title": "Shantae and the Pirate's Curse",
+    "platform": "3DS",
+    "yearFinished": "2017",
+    "dateFinished": "06-14",
+    "firstTime": "yes",
+    "completed": "yes"
+  },
+  {
+    "title": "Street Fighter II' Turbo: Hyper Fighting",
+    "platform": "SNES",
+    "yearFinished": "2017",
+    "dateFinished": "06-08",
+    "notes": "Ken"
+  },
+  {
+    "title": "Journey",
+    "platform": "PS3",
+    "yearFinished": "2017",
+    "dateFinished": "06-03",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Mega Man (Mega Man Legacy Collection)",
+    "platform": "3DS",
+    "yearFinished": "2017",
+    "dateFinished": "05-29"
+  },
+  {
+    "title": "Shovel Knight",
+    "platform": "Switch",
+    "yearFinished": "2017",
+    "dateFinished": "05-29",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Blaster Master Zero",
+    "platform": "Switch",
+    "yearFinished": "2017",
+    "dateFinished": "05-25",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Switch",
+    "yearFinished": "2017",
+    "dateFinished": "04-19",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: Twilight Princess HD",
+    "platform": "Wii U",
+    "yearFinished": "2017",
+    "dateFinished": "03-01",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: A Link Between Worlds",
+    "platform": "3DS",
+    "yearFinished": "2017",
+    "dateFinished": "02-27"
+  },
+  {
+    "title": "The Legend of Zelda: Link's Awakening DX",
+    "platform": "GBC",
+    "yearFinished": "2017",
+    "dateFinished": "02-11",
+    "firstTime": "yes",
+    "notes": "3DS Virtual Console"
+  },
+  {
+    "title": "New Super Mario Bros.",
+    "platform": "DS",
+    "yearFinished": "2017",
+    "dateFinished": "01-25",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: The Wind Waker HD",
+    "platform": "Wii U",
+    "yearFinished": "2017",
+    "dateFinished": "01-09",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "platform": "SNES",
+    "yearFinished": "2016",
+    "dateFinished": "10-31",
+    "notes": "3DS Virtual Console"
+  },
+  {
+    "title": "Super Mario 3D Land",
+    "platform": "3DS",
+    "yearFinished": "2016",
+    "dateFinished": "10-27",
+    "firstTime": "yes"
+  },
+  {
+    "title": "The Legend of Zelda",
+    "platform": "NES",
+    "yearFinished": "2016",
+    "dateFinished": "10-08",
+    "notes": "3DS Virtual Console"
+  },
+  {
+    "title": "EarthBound",
+    "platform": "SNES",
+    "yearFinished": "2016",
+    "dateFinished": "09-18",
+    "notes": "3DS Virtual Console"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time 3D",
+    "platform": "3DS",
+    "yearFinished": "2016",
+    "dateFinished": "06-21",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Super Mario 3D World",
+    "platform": "Wii U",
+    "yearFinished": "2016",
+    "dateFinished": "06-01",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Super Mario Bros. 3",
+    "platform": "NES",
+    "yearFinished": "2016",
+    "dateFinished": "05-29"
+  },
+  {
+    "title": "Super Mario Bros. 3: Super Mario Advance 4",
+    "platform": "GBA",
+    "yearFinished": "2016",
+    "dateFinished": "05-05",
+    "firstTime": "yes"
+  },
+  {
+    "title": "Super Mario Bros.",
+    "platform": "NES",
+    "yearFinished": "2016",
+    "dateFinished": "04-22"
+  }
+]

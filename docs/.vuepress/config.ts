@@ -19,10 +19,10 @@ export default defineUserConfig<DefaultThemeOptions>({
       //   text: 'Blog',
       //   link: '/blog/',
       // },
-      {
-        text: 'Lists',
-        link: '/lists/',
-      },
+      // {
+      //   text: 'Lists',
+      //   link: '/lists/',
+      // },
       {
         text: 'Uses',
         link: '/uses/',
@@ -49,6 +49,9 @@ export default defineUserConfig<DefaultThemeOptions>({
         ],
       },
     ],
+    docsRepo: 'bhamburg/burgbits-vuepress2',
+    docsDir: 'docs',
+    contributors: false,
   },
 
   plugins: [
@@ -56,7 +59,13 @@ export default defineUserConfig<DefaultThemeOptions>({
       '@vuepress/register-components',
       {
         componentsDir: path.resolve(__dirname, './components'),
-      },
+      }
     ],
-  ],
+    [
+      '@vuepress/plugin-google-analytics',
+      {
+        id: 'G-30HMKNVJE0',
+      },
+    ]
+  ]
 })

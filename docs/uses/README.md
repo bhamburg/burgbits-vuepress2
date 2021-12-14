@@ -2,7 +2,7 @@
 
 #### Tools and tech I use on a regular basis
 
-[What is a `/uses` page?](https://github.com/wesbos/awesome-uses/)
+[What is a /uses page?](https://github.com/wesbos/awesome-uses/)
 
 ## Hardware
 - [MacBook Air (M1, 2020)](https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon))

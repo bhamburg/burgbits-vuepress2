@@ -1,14 +1,14 @@
 <template>
-  <p class="demo">
+  <table class="list">
     {{ msg }}
-  </p>
+  </table>
 </template>
 
 <script>
   export default {
     data () {
       return {
-        msg: 'Hello this is <Foo-Bar>'
+        msg: 'Hello this is <List-Running>'
       }
     }
   }
