@@ -84,7 +84,7 @@ I've been fortunate enough to play with some great trad jazz groups in the Phila
 
 ## Other Hobbies
 
-Besides keeping this site up-to-date using the latest tech, I also helped build the [String Band Database](https://stringbanddatabase.com), which is a searchable listing of string band themes from the Mummers Parade with videos and parade data. It was a good exercise in using a Google Sheet as a RESTful backend.
+Besides keeping this site up-to-date using the latest tech, I also helped build the [String Band Database](http://stringbanddatabase.com), which is a searchable listing of string band themes from the Mummers Parade with videos and parade data. It was a good exercise in using a Google Sheet as a RESTful backend.
 
 I'm always trying to read more. Mostly sci-fi, pop-sci, philosophy, and self-help books, but I'm open to anything. It's hard to find the time, but I've been doing a pretty good job of keeping up with my reading list. Ryan Holiday and Robert Greene are two of my more recent favorite authors.
 
