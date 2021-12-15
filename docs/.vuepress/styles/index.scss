@@ -13,24 +13,17 @@
 
   --c-brand: #e30613;
   --c-brand-light: #92040c;
+  --c-tip: var(--c-text-quote);
 
   // font vars
   --font-family: 'Inter', sans-serif;
   --font-family-code: 'JetBrains Mono', monospace;
-
-  // layout vars
-  --navbar-height: 3.6rem;
-  --navbar-padding-v: 0.7rem;
-  --navbar-padding-h: 1.5rem;
-  --sidebar-width: 20rem;
-  --sidebar-width-mobile: calc(var(--sidebar-width) * 0.82);
-  --content-width: 740px;
-  --homepage-width: 960px;
 }
 
 html.dark {
   --c-brand: #9660cf;
   --c-brand-light: #7738bb;
+  --c-tip: var(--c-text-quote);
   .logo {
     filter: invert(1);
   }

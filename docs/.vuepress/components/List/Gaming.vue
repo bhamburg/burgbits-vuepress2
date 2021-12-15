@@ -8,9 +8,9 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-bind:key="i" v-for="i in items">
+      <tr :key="i" v-for="i in items">
         <td>{{ i.title }}</td>
-        <td>{{ i.platform }}</td>
+        <td style="text-align:center">{{ i.platform }}</td>
         <td>{{ i.notes }}</td>
       </tr>
     </tbody>
@@ -27,12 +27,12 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-bind:key="i" v-for="i in items">
+      <tr :key="i" v-for="i in items">
         <td>{{ i.title }}</td>
-        <td>{{ i.platform }}</td>
-        <td>{{}}</td>
-        <td>{{}}</td>
-        <td>{{ i.dateFinished }}</td>
+        <td style="text-align:center">{{ i.platform }}</td>
+        <td><span v-if="i.firstTime">✅</span></td>
+        <td><span v-if="i.completed">💯</span></td>
+        <td style="text-align:center">{{ i.dateFinished }}</td>
         <td>{{ i.notes }}</td>
       </tr>
     </tbody>
@@ -47,21 +47,23 @@
       year: Number
     },
     data () {
+      let sortedList = list
+      .sort((a, b) => {
+        if (a.dateFinished && b.dateFinished) {
+          return a.dateFinished.localeCompare(b.dateFinished)
+        }
+      })
       if (this.currently) {
         return {
-          items: list.filter((game) => {
+          items: sortedList.filter((game) => {
             return !game.yearFinished
           })
         }
       } else if (this.year) {
         return {
-          items: list.filter((game) => {
+          items: sortedList.filter((game) => {
             return game.yearFinished == this.year
           })
-        }
-      } else {
-        return {
-          items: list
         }
       }
     }
