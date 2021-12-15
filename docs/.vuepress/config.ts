@@ -19,10 +19,10 @@ export default defineUserConfig<DefaultThemeOptions>({
       //   text: 'Blog',
       //   link: '/blog/',
       // },
-      // {
-      //   text: 'Lists',
-      //   link: '/lists/',
-      // },
+      {
+        text: 'Lists',
+        link: '/lists/',
+      },
       {
         text: 'Uses',
         link: '/uses/',

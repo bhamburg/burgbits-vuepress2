@@ -6,21 +6,12 @@
   *—Mark Twain*
 
 ### Currently Reading
-<List-Reading />
+<List-Reading currently />
 
-### Books Read
-**Sorted by Year Finished, then Author**
-#### 2021
-<List-Reading />
+### Books Read in 2021
+<List-Reading :year="2021" />
 
-#### 2020
-<List-Reading />
-
-#### 2019
-<List-Reading />
-
-#### Earlier
-<List-Reading />
+[View More at Goodreads](https://www.goodreads.com/user/show/4284038-brian-hamburg)
 
 ## Running
 
@@ -38,26 +29,11 @@
 ### Currently Playing
 <List-Gaming currently />
 
-### Games Finished
-::: tip LEGEND
+### Games Finished in 2021
+::: tip KEY
 :white_check_mark: &nbsp;First playthrough  
 :100: &nbsp;Completed 100%
 :::
+<List-Gaming :year="2021" />
 
-#### 2021
-<List-Gaming year="2021" />
-
-#### 2020
-<List-Gaming year="2020" />
-
-#### 2019
-<List-Gaming year="2019" />
-
-#### 2018
-<List-Gaming year="2018" />
-
-#### 2017
-<List-Gaming year="2017" />
-
-#### 2016
-<List-Gaming year="2016" />
+[View More at Grouvee](https://www.grouvee.com/user/burgbits/shelves/148221-finished/)

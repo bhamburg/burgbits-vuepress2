@@ -45,6 +45,6 @@
 
 ## This Site
 - [VuePress](https://v2.vuepress.vuejs.org/) <Badge type="tip" text="v2" vertical="top" />
-- [Google Sheets API](https://developers.google.com/sheets/api/) <Badge type="tip" text="v4" vertical="top" />
 - [GitHub](https://github.com/bhamburg/burgbits/)
 - [Netlify](https://netlify.com/)
+- [Google Analytics 4](https://support.google.com/analytics/answer/10089681?hl=en)
