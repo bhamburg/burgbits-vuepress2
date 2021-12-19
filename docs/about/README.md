@@ -37,7 +37,7 @@ Key technologies include Adobe Experience Manager (AEM) running on Amazon Web Se
 ##### Web Developer
 **July 2015 – February 2021**  
 As a member of Jefferson’s IS&T department, created and maintained editable web templates and components for [public-facing websites](https://jeffersonhealth.org) built within AEM with HTL (Sightly), server-side JavaScript, and Java. Often contributed to the development of other front-end web applications as needed, utilizing vanilla JS and React, Sass/CSS, and HTML.
-##### Front-End Web Developer
+##### Front-end Web Developer
 **September 2012 – July 2015**  
 As a member of Jefferson's marketing team, created landing pages, microsites, WordPress themes, banner ads, and email campaigns for clinical and university clients. Updated existing Sitecore templates for the main hospital website. Redesigned the hospital "JEFF NOW" appointment request form with a responsive layout, enhancing usability and decreasing the abandonment rate. Administered and trained users in WordPress, SurveyGizmo, and MailChimp.
 
@@ -80,7 +80,7 @@ When I'm not behind my laptop, you can often find me behind my four-string, plec
 
 Some of the great artists who have inspired my playing and interest in the instrument include but are certainly not limited to [Eddie Peabody](https://en.wikipedia.org/wiki/Eddie_Peabody), [Harry Reser](https://en.wikipedia.org/wiki/Harry_Reser), and [Buddy Wachter](https://www.youtube.com/watch?v=pAViBbCtmoI).
 
-I've been fortunate enough to play with some great trad jazz groups in the Philadelphia area such as [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4) and the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc).
+I've been fortunate enough to play with great musicians in the Philadelphia area as a member of performing groups such as [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4), the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc), and the world-renowned [Fralinger String Band](https://www.fralinger.org) of the [Philadelphia Mummers](https://www.fralinger.org/mummers-history).
 
 ## Other Hobbies
 
@@ -90,7 +90,7 @@ I'm always trying to read more. Mostly sci-fi, pop-sci, philosophy, and self-hel
 
 Taking a proactive approach with my health and running when I can has become a priority, with a target goal of running a half marathon (13.1 miles) before my 40th birthday.
 
-Playing video games has been one of my favorite pastimes since I first made Mario take a shortcut through a green pipe in the late 80s. I like to think it's what drove my interest in technology, and specifically interactive digital experiences. My tastes gravitate towards games from and inspired by that 8- and 16-bit age of pixel art. Kids can keep their battle royales and their other MMOs. Give me the “NES Hard” platformers, run-and-guns, and RPGs. I love CRT scan lines in 240p RGB, and keeping up with the latest advances in FPGA-based systems with near-perfect accuracy and zero-to-low input latency, particularly the [MiSTer FPGA](https://github.com/MiSTer-devel/Main_MiSTer/wiki) project. I've also more recently become a huge fan of the [*Soulsborne*](https://en.wikipedia.org/wiki/Souls_(series)) lineage of games by FromSoftware, mostly playing them on PlayStation 5.
+Playing video games has been one of my favorite pastimes since I first made Mario take a shortcut through a green pipe in the late 80s. I like to think it's what drove my interest in technology, and specifically interactive digital experiences. My tastes gravitate towards games from and inspired by that 8- and 16-bit age of pixel art. Also, the heavily-syncopated, early-jazz-inspired soundtracks of the games from the NES/SNES era definitely affected my musical taste in a positive way. I love cathode-ray tube scan lines in 240p RGB, and keeping up with the latest advances in FPGA-based systems with near-perfect accuracy and zero-to-low input latency, particularly the [MiSTer FPGA](https://github.com/MiSTer-devel/Main_MiSTer/wiki) project. I've also more recently become a huge fan of the [*Soulsborne*](https://en.wikipedia.org/wiki/Souls_(series)) lineage of games by FromSoftware, mostly playing them on PlayStation 5.
 
 ![Zelda on PVM via MiSTer FPGA](/images/mister-zelda.jpeg)
 *The Legend of Zelda on my PVM via MiSTer FPGA*
