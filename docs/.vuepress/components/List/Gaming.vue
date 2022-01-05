@@ -47,22 +47,20 @@
       year: Number
     },
     data () {
-      let sortedList = list
-      .sort((a, b) => {
-        if (a.dateFinished && b.dateFinished) {
-          return a.dateFinished.localeCompare(b.dateFinished)
-        }
-      })
       if (this.currently) {
         return {
-          items: sortedList.filter((game) => {
+          items: list.filter((game) => {
             return !game.yearFinished
           })
         }
       } else if (this.year) {
         return {
-          items: sortedList.filter((game) => {
+          items: list.filter((game) => {
             return game.yearFinished == this.year
+          }).sort((a, b) => {
+            if (a.dateFinished && b.dateFinished) {
+              return a.dateFinished.localeCompare(b.dateFinished);
+            }
           })
         }
       }

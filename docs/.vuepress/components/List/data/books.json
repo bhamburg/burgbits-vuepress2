@@ -1,4 +1,4 @@
-[
+[ 
   {
     "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
     "authorLastFirst": "Adams, Douglas",
@@ -178,24 +178,6 @@
     "dateRead": "11-29"
   },
   {
-    "title": "An Absolutely Remarkable Thing (The Carls #1)",
-    "authorLastFirst": "Green, Hank",
-    "author": "Hank Green",
-    "isbn": 1524743461,
-    "isbn13": 9781524743468,
-    "yearRead": 2021,
-    "dateRead": "11-27"
-  },
-  {
-    "title": "A Beautifully Foolish Endeavor (The Carls #2)",
-    "authorLastFirst": "Green, Hank",
-    "author": "Hank Green",
-    "isbn": 1524743496,
-    "isbn13": 9781524743499,
-    "yearRead": 2021,
-    "dateRead": "12-06"
-  },
-  {
     "title": "The Laws of Human Nature",
     "authorLastFirst": "Greene, Robert",
     "author": "Robert Greene",
@@ -222,16 +204,6 @@
     "isbn13": 9780735224896,
     "yearRead": 2021,
     "dateRead": "01-19"
-  },
-  {
-    "title": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom",
-    "authorLastFirst": "Haidt, Jonathan",
-    "author": "Jonathan Haidt",
-    "asin": "B003E749TE",
-    "isbn": 0,
-    "isbn13": 0,
-    "yearRead": 2021,
-    "dateRead": "10-29"
   },
   {
     "title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
@@ -693,5 +665,48 @@
     "isbn13": 9780316414241,
     "yearRead": 2019,
     "dateRead": "09-11"
+  },
+  {
+    "title": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom",
+    "authorLastFirst": "Haidt, Jonathan",
+    "author": "Jonathan Haidt",
+    "asin": "B003E749TE",
+    "isbn": 0,
+    "isbn13": 0,
+    "yearRead": 2021,
+    "dateRead": "10-29"
+  },
+  {
+    "title": "An Absolutely Remarkable Thing (The Carls #1)",
+    "authorLastFirst": "Green, Hank",
+    "author": "Hank Green",
+    "isbn": 1524743461,
+    "isbn13": 9781524743468,
+    "yearRead": 2021,
+    "dateRead": "11-27"
+  },
+  {
+    "title": "A Beautifully Foolish Endeavor (The Carls #2)",
+    "authorLastFirst": "Green, Hank",
+    "author": "Hank Green",
+    "isbn": 1524743496,
+    "isbn13": 9781524743499,
+    "yearRead": 2021,
+    "dateRead": "12-06"
+  },
+  {
+    "title": "The Boy Who Would Be King: A Fable About Marcus Aurelius",
+    "authorLastFirst": "Holiday, Ryan",
+    "author": "Ryan Holiday",
+    "addAuthors": "Victor Juhasz (Illustrator)",
+    "yearRead": 2021,
+    "dateRead": "12-16"
+  },
+  {
+    "title": "Courage Is Calling: Fortune Favors the Brave",
+    "authorLastFirst": "Holiday, Ryan",
+    "author": "Ryan Holiday",
+    "yearRead": 2022,
+    "dateRead": "01-05"
   }
 ]

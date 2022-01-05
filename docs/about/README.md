@@ -82,6 +82,10 @@ Some of the great artists who have inspired my playing and interest in the instr
 
 I've been fortunate enough to play with great musicians in the Philadelphia area as a member of performing groups such as [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4), the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc), and the world-renowned [Fralinger String Band](https://www.fralinger.org) of the [Philadelphia Mummers](https://www.fralinger.org/mummers-history).
 
+<instagram-embed
+  :url="'https://www.instagram.com/p/CXjW5Gyj4Vs/'"
+/>
+
 ## Other Hobbies
 
 Besides keeping this site up-to-date using the latest tech, I also helped build the [String Band Database](https://stringbanddatabase.com), which is a searchable listing of string band themes from the Mummers Parade with videos and parade data. It was a good exercise in using a Google Sheet as a RESTful backend.

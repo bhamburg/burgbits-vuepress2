@@ -45,24 +45,35 @@
       year: Number
     },
     data () {
-      let sortedList = list.sort((a, b) => {
-        if (a.dateRead && b.dateRead) {
-          return a.dateRead.localeCompare(b.dateRead)
-        }
-      })
+      // first sort by yearRead
+      // let sortedList = list.sort((a, b) => {
+      //   if (a.yearRead && b.yearRead) {
+      //     return a.yearRead < b.yearRead;
+      //   }
+      // });
+      // then sort by dateRead
+      // let sortedList = list.sort((a, b) => {
+      //   if (a.dateRead && b.dateRead) {
+      //     return a.dateRead.localeCompare(b.dateRead);
+      //   }
+      // });
       if (this.currently) {
         return {
-          items: sortedList.filter((book) => {
-            return !book.yearRead
+          items: list.filter((book) => {
+            return !book.yearRead;
           })
-        }
+        };
       } else if (this.year) {
         return {
-          items: sortedList.filter((book) => {
-            return book.yearRead == this.year
+          items: list.filter((book) => {
+            return book.yearRead == this.year;
+          }).sort((a, b) => {
+            if (a.dateRead && b.dateRead) {
+              return a.dateRead.localeCompare(b.dateRead);
+            }
           })
         }
-      }
+      };
     }
   }
 </script>

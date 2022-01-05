@@ -2,7 +2,7 @@
   {
     "title": "Demon's Souls",
     "platform": "PS5",
-    "firstTime": "yes"
+    "firstTime": "no"
   },
   {
     "title": "Doom (2016)",
@@ -838,5 +838,12 @@
     "platform": "NES",
     "yearFinished": 2016,
     "dateFinished": "04-22"
+  },
+  {
+    "title": "Demon's Souls",
+    "platform": "PS5",
+    "firstTime": "yes",
+    "yearFinished": 2021,
+    "dateFinished": "12-17"
   }
 ]

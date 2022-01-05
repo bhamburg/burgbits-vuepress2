@@ -7,7 +7,21 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: 'en-US',
   title: 'BurgBits',
   description: 'Brian Hamburg: Web Developer, Designer, and Musician',
-
+  extendsPageOptions: ({ filePath }, app) => {
+    if (!filePath?.endsWith('README.md') && filePath?.startsWith(app.dir.source('blog/'))) {
+        return {
+            frontmatter: {
+                permalinkPattern: 'blog/:year/:month/:slug.html',
+                sidebar: false,
+                layout: 'BlogLayout',
+            },
+        }
+    }
+    return {}
+  },
+  head: [
+    ['script', { src: `https://www.instagram.com/embed.js` }], // for Instagram Embed
+  ],
   themeConfig: {
     logo: '/images/burgbits-logo.svg',
     navbar: [
@@ -15,10 +29,6 @@ export default defineUserConfig<DefaultThemeOptions>({
         text: 'About',
         link: '/about/',
       },
-      // {
-      //   text: 'Blog',
-      //   link: '/blog/',
-      // },
       {
         text: 'Lists',
         link: '/lists/',
