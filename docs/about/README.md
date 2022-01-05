@@ -80,7 +80,7 @@ When I'm not behind my laptop, you can often find me behind my four-string, plec
 
 Some of the great artists who have inspired my playing and interest in the instrument include but are certainly not limited to [Eddie Peabody](https://en.wikipedia.org/wiki/Eddie_Peabody), [Harry Reser](https://en.wikipedia.org/wiki/Harry_Reser), and [Buddy Wachter](https://www.youtube.com/watch?v=pAViBbCtmoI).
 
-I've been fortunate enough to play with great musicians in the Philadelphia area as a member of performing groups such as [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4), the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc), and the world-renowned [Fralinger String Band](https://www.fralinger.org) of the [Philadelphia Mummers](https://www.fralinger.org/mummers-history).
+I've been fortunate enough to play with great musicians in the Philadelphia area as a member of performing groups such as [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4) and the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc).
 
 ## Other Hobbies
 
