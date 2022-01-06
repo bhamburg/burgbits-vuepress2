@@ -18,5 +18,5 @@ features:
     details: My background in graphic design gives me a strong appreciation for both accessibility and aesthetics. I'm a big fan of clean layouts and clean code. Design is how it works!
   - title: Musician
     details: When I'm not behind my laptop, you can often find me behind my four-string, plectrum banjo, plunking out traditional jazz favorites written circa a century ago.
-footer: Copyright © 2021 Brian Hamburg
+footer: Copyright © 2022 Brian Hamburg
 ---

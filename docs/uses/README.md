@@ -33,7 +33,7 @@
 - [Adobe Experience Manager 6.5](https://www.adobe.io/apis/experiencecloud/aem.html)
 - [Apache Maven](https://maven.apache.org/)
 - [OpenJDK](https://openjdk.java.net/)
-- [Adobe Experience Cloud](https://business.adobe.com/products/experience-platform) (Launch, Target, Analytics)
+- [Adobe Experience Cloud](https://business.adobe.com/products/adobe-experience-cloud-products.html) (Launch, Target, Analytics)
 - [Jira](https://www.atlassian.com/software/jira)
 - [Bitbucket](https://bitbucket.org/)
 - [Jenkins](https://www.jenkins.io/)
