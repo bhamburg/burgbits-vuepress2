@@ -34,11 +34,11 @@
 
 ### Games Finished in 2021
 
-<List-Gaming :year="2021" sortable />
-
 ::: tip KEY
 :white_check_mark: &nbsp;First playthrough  
 :100: &nbsp;Completed 100%
 :::
+
+<List-Gaming :year="2021" sortable />
 
 [View More at Grouvee](https://www.grouvee.com/user/burgbits/shelves/148221-finished/)
