@@ -12,7 +12,7 @@
 <List-Reading :year="2022" />
 
 ### Books Read in 2021
-<List-Reading :year="2021" />
+<List-Reading :year="2021" sortable />
 
 [View More at Goodreads](https://www.goodreads.com/user/show/4284038-brian-hamburg)
 
@@ -30,13 +30,15 @@
   *—Shigeru Miyamoto*
 
 ### Currently Playing
-<List-Gaming currently />
+<List-Gaming currently sortable />
 
 ### Games Finished in 2021
+
+<List-Gaming :year="2021" sortable />
+
 ::: tip KEY
 :white_check_mark: &nbsp;First playthrough  
 :100: &nbsp;Completed 100%
 :::
-<List-Gaming :year="2021" />
 
 [View More at Grouvee](https://www.grouvee.com/user/burgbits/shelves/148221-finished/)

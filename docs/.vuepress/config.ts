@@ -6,7 +6,7 @@ const { path } = require('@vuepress/utils')
 export default defineUserConfig<DefaultThemeOptions>({
   lang: 'en-US',
   title: 'BurgBits',
-  description: 'Brian Hamburg: Web Developer, Designer, and Musician',
+  description: 'Brian Hamburg: Software Engineer, Designer, and Musician',
   extendsPageOptions: ({ filePath }, app) => {
     if (!filePath?.endsWith('README.md') && filePath?.startsWith(app.dir.source('blog/'))) {
         return {
