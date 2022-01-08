@@ -45,8 +45,8 @@
           </a>
         </td>
         <td style="text-align:center">{{ i.platform }}</td>
-        <td><span v-if="i.firstTime">✅</span></td>
-        <td><span v-if="i.completed">💯</span></td>
+        <td><span v-if="i.firstTime" title="First playthrough">✅</span></td>
+        <td><span v-if="i.completed" title="Completed 100%">💯</span></td>
         <td style="text-align:center">{{ i.dateFinished }}</td>
         <td>{{ i.notes }}</td>
       </tr>
