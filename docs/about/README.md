@@ -12,7 +12,7 @@
 ![Hamburg Family](/images/pluto-polynesian.jpg)
 *The Hamburgs in Walt Disney World*
 
-I’m a web developer, designer, and musician. Most of my days are spent working and playing in Philadelphia where I live with my wife, Andrea, and twin daughters, Elizabeth and Louise. We have a young Australian Cattle Dog mix named Ludwig, and an old rabbit named Java. But this is just the tip of the Brian Hamburg iceberg. Within these pages you can learn more about what's going on in my life professionally and recreationally.
+I’m a software engineer, designer, and musician. Most of my days are spent working and playing in Philadelphia where I live with my wife, Andrea, and twin daughters, Elizabeth and Louise. We have a young Australian Cattle Dog mix named Ludwig, and an old rabbit named Java. But this is just the tip of the Brian Hamburg iceberg. Within these pages you can learn more about what's going on in my life professionally and recreationally.
 
 Ultimately I'm just trying to balance being a father, husband, son, web professional, musician, nerd, colleague, friend, and decent human being in the crazy world we currently live in.
 
@@ -80,7 +80,7 @@ When I'm not behind my laptop, you can often find me behind my four-string, plec
 
 Some of the great artists who have inspired my playing and interest in the instrument include but are certainly not limited to [Eddie Peabody](https://en.wikipedia.org/wiki/Eddie_Peabody), [Harry Reser](https://en.wikipedia.org/wiki/Harry_Reser), and [Buddy Wachter](https://www.youtube.com/watch?v=pAViBbCtmoI).
 
-I've been fortunate enough to play with great musicians in the Philadelphia area as a member of performing groups such as [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4) and the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc).
+I've been fortunate enough to play with great musicians in the Philadelphia area while gigging with [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4) and the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc).
 
 ## Other Hobbies
 
