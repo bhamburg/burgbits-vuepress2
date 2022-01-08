@@ -67,4 +67,36 @@ html.dark {
   }
 }
 
-.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.video-container iframe, .video-container object, .video-container embed { 
+  position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+}
+
+// sortable tables
+th.sortable {
+  cursor: pointer;
+  &.active {
+    span {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      text-align: left;
+      &:after {
+        font-size: 10px;
+        padding-left: 10px;
+      }
+    }
+    &.asc span {
+      &:after {
+        content: '▼';
+      }
+    }
+    &.desc span {
+      &:after {
+        content: '▲';
+      }
+    }
+  }
+  &:hover {
+    background-color: var(--c-tip-bg);
+  }
+}
