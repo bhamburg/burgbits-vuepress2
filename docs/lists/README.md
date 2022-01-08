@@ -6,7 +6,7 @@
   *—Mark Twain*
 
 ### Currently Reading
-<List-Reading currently />
+<List-Reading currently sortable />
 
 ### Books Read in 2022
 <List-Reading :year="2022" />

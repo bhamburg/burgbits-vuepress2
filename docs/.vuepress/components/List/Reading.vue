@@ -13,7 +13,10 @@
     </thead>
     <tbody>
       <tr v-bind:key="i" v-for="i in itemsSorted">
-        <td>{{ i.title }}</td>
+        <td>
+          <span v-if="!i.url">{{ i.title }}</span>
+          <a v-if="i.url" :href="i.url" target="_blank" rel="noopener noreferrer">{{ i.title }}</a>
+        </td>
         <td>
           {{ i.author }}<span v-if="i.addAuthors">, {{ i.addAuthors }}</span>
         </td>
@@ -34,7 +37,10 @@
     </thead>
     <tbody>
       <tr v-bind:key="i" v-for="i in itemsSorted">
-        <td>{{ i.title }}</td>
+        <td>
+          <span v-if="!i.url">{{ i.title }}</span>
+          <a v-if="i.url" :href="i.url" target="_blank" rel="noopener noreferrer">{{ i.title }}</a>
+        </td>
         <td>
           {{ i.author }}<span v-if="i.addAuthors">, {{ i.addAuthors }}</span>
         </td>
@@ -61,7 +67,7 @@
           sortOrder: ['asc'],
           columns: [
             {key: 'title', name: 'Title'},
-            {key: 'authorlastFirst', name: 'Author(s)'},
+            {key: 'authorLastFirst', name: 'Author(s)'},
           ],
           items: list.filter((book) => {
             return !book.dateRead;
@@ -78,10 +84,6 @@
           ],
           items: list.filter((book) => {
             return book.yearRead == this.year;
-          }).sort((a, b) => {
-            if (a.dateRead && b.dateRead) {
-              return a.dateRead.localeCompare(b.dateRead);
-            }
           })
         }
       };
