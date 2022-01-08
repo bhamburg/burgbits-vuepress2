@@ -13,7 +13,10 @@
     </thead>
     <tbody>
       <tr :key="i" v-for="i in itemsSorted">
-        <td>{{ i.title }}</td>
+        <td>
+          <span v-if="!i.url">{{ i.title }}</span>
+          <a v-if="i.url" :href="i.url" target="_blank" rel="noopener noreferrer">{{ i.title }}</a>
+        </td>
         <td style="text-align:center">{{ i.platform }}</td>
         <td>{{ i.notes }}</td>
       </tr>
@@ -33,7 +36,10 @@
     </thead>
     <tbody>
       <tr :key="i" v-for="i in itemsSorted">
-        <td>{{ i.title }}</td>
+        <td>
+          <span v-if="!i.url">{{ i.title }}</span>
+          <a v-if="i.url" :href="i.url" target="_blank" rel="noopener noreferrer">{{ i.title }}</a>
+        </td>
         <td style="text-align:center">{{ i.platform }}</td>
         <td><span v-if="i.firstTime">✅</span></td>
         <td><span v-if="i.completed">💯</span></td>

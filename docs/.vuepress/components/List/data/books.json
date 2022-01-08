@@ -1,712 +1,721 @@
-[ 
-  {
-    "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
-    "authorLastFirst": "Adams, Douglas",
-    "author": "Douglas Adams",
-    "yearRead": 2016,
-    "dateRead": "01-09"
-  },
-  {
-    "title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)",
-    "authorLastFirst": "Adams, Douglas",
-    "author": "Douglas Adams",
-    "yearRead": 2016,
-    "dateRead": "01-13"
-  },
-  {
-    "title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy, #3)",
-    "authorLastFirst": "Adams, Douglas",
-    "author": "Douglas Adams",
-    "isbn": 345418905,
-    "isbn13": 9780345418906,
-    "yearRead": 2016,
-    "dateRead": "02-11"
-  },
-  {
-    "title": "Introduction to Android Application Development: Android Essentials (Developer's Library)",
-    "authorLastFirst": "Annuzzi, Joseph, Jr.",
-    "author": "Joseph Annuzzi Jr.",
-    "addAuthors": "Lauren Darcey, Shane Conder",
-    "yearRead": 2016,
-    "dateRead": "01-01"
-  },
-  {
-    "title": "Meditations",
-    "authorLastFirst": "Aurelius, Marcus",
-    "author": "Marcus Aurelius",
-    "addAuthors": "Gregory Hays",
-    "isbn": 812968255,
-    "isbn13": 9780812968255,
-    "yearRead": 2018,
-    "dateRead": "06-11"
-  },
-  {
-    "title": "Kids Beyond Limits: The Anat Baniel Method for Awakening the Brain and Transforming the Life of Your  Child With Special Needs",
-    "authorLastFirst": "Baniel, Anat",
-    "author": "Anat Baniel",
-    "isbn": 399537368,
-    "isbn13": 9780399537363,
-    "yearRead": 2019,
-    "dateRead": "10-04"
-  },
-  {
-    "title": "Unfu*k Yourself: Get Out of Your Head and Into Your Life",
-    "authorLastFirst": "Bishop, Gary John",
-    "author": "Gary John Bishop",
-    "yearRead": 2018,
-    "dateRead": "07-20"
-  },
-  {
-    "title": "The SNES Pixel Book",
-    "authorLastFirst": "Bitmap Books",
-    "author": "Bitmap Books",
-    "isbn": "199935334X",
-    "isbn13": 9781999353346,
-    "yearRead": 2021,
-    "dateRead": "09-05"
-  },
-  {
-    "title": "Fahrenheit 451",
-    "authorLastFirst": "Bradbury, Ray",
-    "author": "Ray Bradbury",
-    "yearRead": 2020,
-    "dateRead": "07-31"
-  },
-  {
-    "title": "The Myth of Sisyphus and Other Essays",
-    "authorLastFirst": "Camus, Albert",
-    "author": "Albert Camus",
-    "addAuthors": "Justin O'Brien",
-    "yearRead": 2015,
-    "dateRead": "09-10"
-  },
-  {
-    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-    "authorLastFirst": "Clear, James",
-    "author": "James Clear",
-    "isbn": 735211299,
-    "isbn13": 9780735211292,
-    "yearRead": 2019,
-    "dateRead": "05-24"
-  },
-  {
-    "title": "Ready Player One (Ready Player One, #1)",
-    "authorLastFirst": "Cline, Ernest",
-    "author": "Ernest Cline",
-    "isbn": 307887448,
-    "isbn13": 9780307887443,
-    "yearRead": 2018,
-    "dateRead": "05-03"
-  },
-  {
-    "title": "Enchiridion",
-    "authorLastFirst": "Epictetus, Epictetus",
-    "author": "Epictetus",
-    "addAuthors": "George Long",
-    "isbn": 486433595,
-    "isbn13": 9780486433592,
-    "yearRead": 2016,
-    "dateRead": "12-13"
-  },
-  {
-    "title": "Logic Beach: Part I",
-    "authorLastFirst": "Exurb1a",
-    "author": "Exurb1a",
-    "yearRead": 2018,
-    "dateRead": "07-13"
-  },
-  {
-    "title": "The Bridge to Lucy Dunne",
-    "authorLastFirst": "Exurb1a",
-    "author": "Exurb1a",
-    "yearRead": 2016,
-    "dateRead": "07-12"
-  },
-  {
-    "title": "The Fifth Science",
-    "authorLastFirst": "Exurb1a",
-    "author": "Exurb1a",
-    "yearRead": 2018,
-    "dateRead": "12-19"
-  },
-  {
-    "title": "The Prince of Milk",
-    "authorLastFirst": "Exurb1a",
-    "author": "Exurb1a",
-    "yearRead": 2017,
-    "dateRead": "12-18"
-  },
-  {
-    "title": "Atomic Design",
-    "authorLastFirst": "Frost, Brad",
-    "author": "Brad Frost",
-    "isbn": 998296600,
-    "isbn13": 9780998296609,
-    "yearRead": 2019,
-    "dateRead": "10-04"
-  },
-  {
-    "title": "Dad Is Fat",
-    "authorLastFirst": "Gaffigan, Jim",
-    "author": "Jim Gaffigan",
-    "yearRead": 2019,
-    "dateRead": "02-08"
-  },
-  {
-    "title": "Talking to Strangers: What We Should Know About the People We Don't Know",
-    "authorLastFirst": "Gladwell, Malcolm",
-    "author": "Malcolm Gladwell",
-    "yearRead": 2020,
-    "dateRead": "06-16"
-  },
-  {
-    "title": "The Dip: A Little Book That Teaches You When to Quit (and When to Stick)",
-    "authorLastFirst": "Godin, Seth",
-    "author": "Seth Godin",
-    "isbn": 1591841666,
-    "isbn13": 9781591841661,
-    "yearRead": 2021,
-    "dateRead": "06-13"
-  },
-  {
-    "title": "What Got You Here Won't Get You There: How Successful People Become Even More Successful",
-    "authorLastFirst": "Goldsmith, Marshall",
-    "author": "Marshall Goldsmith",
-    "addAuthors": "Mark Reiter",
-    "isbn13": 9781781251560,
-    "yearRead": 2018,
-    "dateRead": "11-29"
-  },
-  {
-    "title": "The Laws of Human Nature",
-    "authorLastFirst": "Greene, Robert",
-    "author": "Robert Greene",
-    "isbn": 525428143,
-    "isbn13": 9780525428145,
-    "yearRead": 2020,
-    "dateRead": "01-23"
-  },
-  {
-    "title": "The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated, Chronically Inflexible Children",
-    "authorLastFirst": "Greene, Ross W.",
-    "author": "Ross W. Greene",
-    "isbn": 62270451,
-    "isbn13": 9780062270450,
-    "yearRead": 2021,
-    "dateRead": "06-10"
-  },
-  {
-    "title": "The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure",
-    "authorLastFirst": "Haidt, Jonathan",
-    "author": "Jonathan Haidt",
-    "addAuthors": "Greg Lukianoff",
-    "isbn": 735224897,
-    "isbn13": 9780735224896,
-    "yearRead": 2021,
-    "dateRead": "01-19"
-  },
-  {
-    "title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
-    "authorLastFirst": "Haidt, Jonathan",
-    "author": "Jonathan Haidt",
-    "yearRead": 2019,
-    "dateRead": "09-07"
-  },
-  {
-    "title": "21 Lessons for the 21st Century",
-    "authorLastFirst": "Harari, Yuval Noah",
-    "author": "Yuval Noah Harari",
-    "isbn": 525512179,
-    "isbn13": 9780525512172,
-    "yearRead": 2019,
-    "dateRead": "12-06"
-  },
-  {
-    "title": "Homo Deus: A History of Tomorrow",
-    "authorLastFirst": "Harari, Yuval Noah",
-    "author": "Yuval Noah Harari",
-    "yearRead": 2019,
-    "dateRead": "10-25"
-  },
-  {
-    "title": "Sapiens: A Brief History of Humankind",
-    "authorLastFirst": "Harari, Yuval Noah",
-    "author": "Yuval Noah Harari",
-    "yearRead": 2019,
-    "dateRead": "09-23"
-  },
-  {
-    "title": "Free Will",
-    "authorLastFirst": "Harris, Sam",
-    "author": "Sam Harris",
-    "yearRead": 2016,
-    "dateRead": "04-04"
-  },
-  {
-    "title": "Lying",
-    "authorLastFirst": "Harris, Sam",
-    "author": "Sam Harris",
-    "yearRead": 2012,
-    "dateRead": "03-01"
-  },
-  {
-    "title": "Ego Is the Enemy",
-    "authorLastFirst": "Holiday, Ryan",
-    "author": "Ryan Holiday",
-    "isbn": 1591847818,
-    "isbn13": 9781591847816,
-    "yearRead": 2018,
-    "dateRead": "01-31"
-  },
-  {
-    "title": "Stillness Is the Key",
-    "authorLastFirst": "Holiday, Ryan",
-    "author": "Ryan Holiday",
-    "isbn": 525538585,
-    "isbn13": 9780525538585,
-    "yearRead": 2019,
-    "dateRead": "11-04"
-  },
-  {
-    "title": "The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph",
-    "authorLastFirst": "Holiday, Ryan",
-    "author": "Ryan Holiday",
-    "isbn": 1591846358,
-    "isbn13": 9781591846352,
-    "yearRead": 2016,
-    "dateRead": "05-20"
-  },
-  {
-    "title": "Brave New World / Brave New World Revisited",
-    "authorLastFirst": "Huxley, Aldous",
-    "author": "Aldous Huxley",
-    "addAuthors": "Christopher Hitchens",
-    "isbn": 60776099,
-    "isbn13": 9780060776091,
-    "yearRead": 2020,
-    "dateRead": "11-28"
-  },
-  {
-    "title": "How to Be Perfectly Unhappy",
-    "authorLastFirst": "Inman, Matthew",
-    "author": "Matthew Inman",
-    "isbn": 1449433537,
-    "isbn13": 9781449433536,
-    "yearRead": 2021,
-    "dateRead": "05-05"
-  },
-  {
-    "title": "My Dog: The Paradox: A Lovable Discourse about Man's Best Friend",
-    "authorLastFirst": "Inman, Matthew",
-    "author": "Matthew Inman",
-    "isbn": 1449437524,
-    "isbn13": 9781449437527,
-    "yearRead": 2016,
-    "dateRead": "01-01"
-  },
-  {
-    "title": "The Terrible and Wonderful Reasons Why I Run Long Distances",
-    "authorLastFirst": "Inman, Matthew",
-    "author": "Matthew Inman",
-    "isbn": 1449459951,
-    "isbn13": 9781449459956,
-    "yearRead": 2015,
-    "dateRead": "08-31"
-  },
-  {
-    "title": "Steve Jobs",
-    "authorLastFirst": "Isaacson, Walter",
-    "author": "Walter Isaacson",
-    "isbn": 1451648537,
-    "isbn13": 9781451648539,
-    "yearRead": 2015,
-    "dateRead": "09-08"
-  },
-  {
-    "title": "Ask Iwata: Words of Wisdom from Satoru Iwata, Nintendo's Legendary CEO",
-    "authorLastFirst": "Iwata, Satoru",
-    "author": "Satoru Iwata",
-    "addAuthors": "Hobonichi",
-    "isbn": "197472154X",
-    "isbn13": 9781974721542,
-    "yearRead": 2021,
-    "dateRead": "04-19"
-  },
-  {
-    "title": "Who Moved My Cheese?",
-    "authorLastFirst": "Johnson, Spencer",
-    "author": "Spencer Johnson",
-    "addAuthors": "Kenneth H. Blanchard",
-    "isbn": 399144463,
-    "isbn13": 9780399144462,
-    "yearRead": 2018,
-    "dateRead": "11-29"
-  },
-  {
-    "title": "Thinking, Fast and Slow",
-    "authorLastFirst": "Kahneman, Daniel",
-    "author": "Daniel Kahneman",
-    "asin": "B00555X8OA",
-    "isbn": 0,
-    "isbn13": 0,
-    "dateRead": ""
-  },
-  {
-    "title": "Urban Mindfulness: Cultivating Peace, Presence, and Purpose in the Middle of It All",
-    "authorLastFirst": "Kaplan, Jonathan",
-    "author": "Jonathan Kaplan",
-    "isbn": 1572247495,
-    "isbn13": 9781572247499,
-    "yearRead": 2019,
-    "dateRead": "01-17"
-  },
-  {
-    "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
-    "authorLastFirst": "Krug, Steve",
-    "author": "Steve Krug",
-    "isbn": 321965515,
-    "isbn13": 9780321965516,
-    "yearRead": 2020,
-    "dateRead": "01-30"
-  },
-  {
-    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
-    "authorLastFirst": "Levitt, Steven D.",
-    "author": "Steven D. Levitt",
-    "addAuthors": "Stephen J. Dubner",
-    "isbn": 61234001,
-    "isbn13": 9780061234002,
-    "yearRead": 2012,
-    "dateRead": "12-03"
-  },
-  {
-    "title": "The Paper Menagerie and Other Stories",
-    "authorLastFirst": "Liu, Ken",
-    "author": "Ken Liu",
-    "yearRead": 2018,
-    "dateRead": "01-15"
-  },
-  {
-    "title": "You Died: The Dark Souls Companion",
-    "authorLastFirst": "MacDonald, Keza",
-    "author": "Keza MacDonald",
-    "addAuthors": "Jason Killingsworth",
-    "isbn": 1909430226,
-    "isbn13": 9781909430228,
-    "yearRead": 2021,
-    "dateRead": "11-20"
-  },
-  {
-    "title": "Reality Is Broken",
-    "authorLastFirst": "McGonigal, Jane",
-    "author": "Jane McGonigal",
-    "isbn13": 9780143120612,
-    "yearRead": 2021,
-    "dateRead": "09-02"
-  },
-  {
-    "title": "Conquer the Day: A Book of Affirmations",
-    "authorLastFirst": "Mecouch, Josh",
-    "author": "Josh Mecouch",
-    "isbn": 63016494,
-    "isbn13": 9780063016491,
-    "yearRead": 2021,
-    "dateRead": "05-05"
-  },
-  {
-    "title": "Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It",
-    "authorLastFirst": "Monteiro, Mike",
-    "author": "Mike Monteiro",
-    "asin": "B07PS16XY9",
-    "isbn": 0,
-    "isbn13": 0,
-    "yearRead": 2021,
-    "dateRead": "03-07"
-  },
-  {
-    "title": "Beyond Good and Evil",
-    "authorLastFirst": "Nietzsche, Friedrich",
-    "author": "Friedrich Nietzsche",
-    "addAuthors": "R.J. Hollingdale, Michael Tanner",
-    "isbn": "014044923X",
-    "isbn13": 9780140449235,
-    "yearRead": 2015,
-    "dateRead": "10-21"
-  },
-  {
-    "title": "Bad Advice: Or Why Celebrities, Politicians, and Activists Aren't Your Best Source of Health Information",
-    "authorLastFirst": "Offit, Paul A.",
-    "author": "Paul A. Offit",
-    "isbn": 231186983,
-    "isbn13": 9780231186988,
-    "yearRead": 2018,
-    "dateRead": "12-03"
-  },
-  {
-    "title": 1984,
-    "authorLastFirst": "Orwell, George",
-    "author": "George Orwell",
-    "yearRead": 2020,
-    "dateRead": "10-18"
-  },
-  {
-    "title": "12 Rules for Life: An Antidote to Chaos",
-    "authorLastFirst": "Peterson, Jordan B.",
-    "author": "Jordan B. Peterson",
-    "addAuthors": "Norman Doidge, Ethan Van Sciver",
-    "isbn": 345816021,
-    "isbn13": 9780345816023,
-    "yearRead": 2018,
-    "dateRead": "03-15"
-  },
-  {
-    "title": "Amusing Ourselves to Death: Public Discourse in the Age of Show Business",
-    "authorLastFirst": "Postman, Neil",
-    "author": "Neil Postman",
-    "addAuthors": "Andrew Postman",
-    "isbn": "014303653X",
-    "isbn13": 9780143036531,
-    "yearRead": 2020,
-    "dateRead": "07-26"
-  },
-  {
-    "title": "The War of Art: Break Through the Blocks and Win Your Inner Creative Battles",
-    "authorLastFirst": "Pressfield, Steven",
-    "author": "Steven Pressfield",
-    "isbn": 1936891026,
-    "isbn13": 9781936891023,
-    "yearRead": 2021,
-    "dateRead": "04-22"
-  },
-  {
-    "title": "Strange Planet (Strange Planet #1)",
-    "authorLastFirst": "Pyle, Nathan W.",
-    "author": "Nathan W. Pyle",
-    "isbn": 62970690,
-    "isbn13": 9780062970695,
-    "yearRead": 2019,
-    "dateRead": "12-02"
-  },
-  {
-    "title": "Strange Planet: The Sneaking, Hiding, Vibrating Creature",
-    "authorLastFirst": "Pyle, Nathan W.",
-    "author": "Nathan W. Pyle",
-    "isbn": 63049740,
-    "isbn13": 9780063049741,
-    "yearRead": 2021,
-    "dateRead": "06-08"
-  },
-  {
-    "title": "Stranger Planet (Strange Planet, #2)",
-    "authorLastFirst": "Pyle, Nathan W.",
-    "author": "Nathan W. Pyle",
-    "isbn": 63022605,
-    "isbn13": 9780063022607,
-    "yearRead": 2020,
-    "dateRead": "06-24"
-  },
-  {
-    "title": "How Full Is Your Bucket?",
-    "authorLastFirst": "Rath, Tom",
-    "author": "Tom Rath",
-    "addAuthors": "Donald O. Clifton",
-    "isbn": 1595620036,
-    "isbn13": 9781595620033,
-    "yearRead": 2018,
-    "dateRead": "12-20"
-  },
-  {
-    "title": "Dad's Guide to Twins: How to Survive the Twin Pregnancy and Prepare for Your Twins",
-    "authorLastFirst": "Rawlinson, Joe",
-    "author": "Joe Rawlinson",
-    "yearRead": 2016,
-    "dateRead": "01-11"
-  },
-  {
-    "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
-    "authorLastFirst": "Rowling, J.K.",
-    "author": "J.K. Rowling",
-    "yearRead": 2016,
-    "dateRead": "02-25"
-  },
-  {
-    "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
-    "authorLastFirst": "Rowling, J.K.",
-    "author": "J.K. Rowling",
-    "yearRead": 2016,
-    "dateRead": "02-29"
-  },
-  {
-    "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
-    "authorLastFirst": "Rowling, J.K.",
-    "author": "J.K. Rowling",
-    "isbn": "043965548X",
-    "isbn13": 9780439655484,
-    "yearRead": 2016,
-    "dateRead": "03-05"
-  },
-  {
-    "title": "Don't Burn This Book: Thinking for Yourself in the Age of Unreason",
-    "authorLastFirst": "Rubin, Dave",
-    "author": "Dave Rubin",
-    "addAuthors": "Jordan B. Peterson",
-    "yearRead": 2020,
-    "dateRead": "07-08"
-  },
-  {
-    "title": "That One Should Disdain Hardships: The Teachings of a Roman Stoic",
-    "authorLastFirst": "Rufus, Musonius",
-    "author": "Musonius Rufus",
-    "addAuthors": "Cora E. Lutz, Gretchen Reydams-Schils",
-    "isbn": 300226039,
-    "isbn13": 9780300226034,
-    "yearRead": 2021,
-    "dateRead": "08-01"
-  },
-  {
-    "title": "The Demon-Haunted World: Science as a Candle in the Dark",
-    "authorLastFirst": "Sagan, Carl",
-    "author": "Carl Sagan",
-    "addAuthors": "Ann Druyan",
-    "isbn": 345409469,
-    "isbn13": 9780345409461,
-    "yearRead": 2011,
-    "dateRead": "01-14"
-  },
-  {
-    "title": "Letters from a Stoic: Epistulae Morales Ad Lucilium",
-    "authorLastFirst": "Seneca",
-    "author": "Seneca",
-    "addAuthors": "Robin Campbell",
-    "isbn": "0141395850",
-    "isbn13": 9780141395852,
-    "yearRead": 2021,
-    "dateRead": "11-22"
-  },
-  {
-    "title": "Oh, the Places You'll Go!",
-    "authorLastFirst": "Seuss, Dr.",
-    "author": "Dr. Seuss",
-    "isbn": 679805273,
-    "isbn13": 9780679805274,
-    "yearRead": 2016,
-    "dateRead": "03-21"
-  },
-  {
-    "title": "Permanent Record",
-    "authorLastFirst": "Snowden, Edward",
-    "author": "Edward Snowden",
-    "isbn": 1250237238,
-    "isbn13": 9781250237231,
-    "yearRead": 2020,
-    "dateRead": "06-14"
-  },
-  {
-    "title": "UnHealthcare",
-    "authorLastFirst": "Taneja, Hemant",
-    "author": "Hemant Taneja",
-    "addAuthors": "Stephen Klasko, Kevin Maney",
-    "isbn13": 9781716996511,
-    "yearRead": 2020,
-    "dateRead": "11-26"
-  },
-  {
-    "title": "Astrophysics for People in a Hurry",
-    "authorLastFirst": "Tyson, Neil deGrasse",
-    "author": "Neil deGrasse Tyson",
-    "yearRead": 2018,
-    "dateRead": "07-06"
-  },
-  {
-    "title": "Twenty Thousand Leagues Under the Sea (Extraordinary Voyages, #6)",
-    "authorLastFirst": "Verne, Jules",
-    "author": "Jules Verne",
-    "addAuthors": "Anthony Bonner",
-    "isbn": "076072850X",
-    "isbn13": 9780760728505,
-    "yearRead": 2011,
-    "dateRead": "07-17"
-  },
-  {
-    "title": "Cat's Cradle",
-    "authorLastFirst": "Vonnegut, Kurt, Jr.",
-    "author": "Kurt Vonnegut Jr.",
-    "yearRead": 2018,
-    "dateRead": "01-27"
-  },
-  {
-    "title": "Slaughterhouse-Five",
-    "authorLastFirst": "Vonnegut, Kurt, Jr.",
-    "author": "Kurt Vonnegut Jr.",
-    "yearRead": 2018,
-    "dateRead": "01-19"
-  },
-  {
-    "title": "The Book: On the Taboo Against Knowing Who You Are",
-    "authorLastFirst": "Watts, Alan W.",
-    "author": "Alan W. Watts",
-    "asin": "B08V51PF91",
-    "yearRead": 2021,
-    "dateRead": "10-03"
-  },
-  {
-    "title": "The Way of Zen",
-    "authorLastFirst": "Watts, Alan W.",
-    "author": "Alan W. Watts",
-    "isbn": 9780375705,
-    "isbn13": 0,
-    "dateRead": ""
-  },
-  {
-    "title": "The War on Normal People: The Truth About America's Disappearing Jobs and Why Universal Basic Income Is Our Future",
-    "authorLastFirst": "Yang, Andrew",
-    "author": "Andrew  Yang",
-    "isbn": 316414247,
-    "isbn13": 9780316414241,
-    "yearRead": 2019,
-    "dateRead": "09-11"
-  },
-  {
-    "title": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom",
-    "authorLastFirst": "Haidt, Jonathan",
-    "author": "Jonathan Haidt",
-    "asin": "B003E749TE",
-    "isbn": 0,
-    "isbn13": 0,
-    "yearRead": 2021,
-    "dateRead": "10-29"
-  },
-  {
-    "title": "An Absolutely Remarkable Thing (The Carls #1)",
-    "authorLastFirst": "Green, Hank",
-    "author": "Hank Green",
-    "isbn": 1524743461,
-    "isbn13": 9781524743468,
-    "yearRead": 2021,
-    "dateRead": "11-27"
-  },
-  {
-    "title": "A Beautifully Foolish Endeavor (The Carls #2)",
-    "authorLastFirst": "Green, Hank",
-    "author": "Hank Green",
-    "isbn": 1524743496,
-    "isbn13": 9781524743499,
-    "yearRead": 2021,
-    "dateRead": "12-06"
-  },
-  {
-    "title": "The Boy Who Would Be King: A Fable About Marcus Aurelius",
-    "authorLastFirst": "Holiday, Ryan",
-    "author": "Ryan Holiday",
-    "addAuthors": "Victor Juhasz (Illustrator)",
-    "yearRead": 2021,
-    "dateRead": "12-16"
-  },
-  {
-    "title": "Courage Is Calling: Fortune Favors the Brave",
-    "authorLastFirst": "Holiday, Ryan",
-    "author": "Ryan Holiday",
-    "yearRead": 2022,
-    "dateRead": "01-07"
-  }
+[
+	{
+		"author": "Ryan Holiday",
+		"authorLastFirst": "Holiday, Ryan",
+		"title": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
+		"url": "https://www.goodreads.com/book/show/31200948-the-daily-stoic"
+	},
+	{
+		"asin": "B00555X8OA",
+		"author": "Daniel Kahneman",
+		"authorLastFirst": "Kahneman, Daniel",
+		"dateRead": "",
+		"isbn": 0,
+		"isbn13": 0,
+		"title": "Thinking, Fast and Slow",
+		"url": "https://www.goodreads.com/book/show/12385458-thinking-fast-and-slow"
+	},
+	{
+		"author": "Alan W. Watts",
+		"authorLastFirst": "Watts, Alan W.",
+		"dateRead": "",
+		"isbn": 9780375705,
+		"isbn13": 0,
+		"title": "The Way of Zen",
+		"url": "https://www.goodreads.com/book/show/50233662-the-way-of-zen"
+	},
+	{
+		"author": "Ryan Holiday",
+		"authorLastFirst": "Holiday, Ryan",
+		"dateRead": "01-07",
+		"title": "Courage Is Calling: Fortune Favors the Brave",
+		"url": "https://www.goodreads.com/book/show/58145670-courage-is-calling",
+		"yearRead": 2022
+	},
+	{
+		"author": "Hank Green",
+		"authorLastFirst": "Green, Hank",
+		"dateRead": "12-06",
+		"isbn": 1524743496,
+		"isbn13": 9781524743499,
+		"title": "A Beautifully Foolish Endeavor (The Carls #2)",
+		"yearRead": 2021
+	},
+	{
+		"author": "Hank Green",
+		"authorLastFirst": "Green, Hank",
+		"dateRead": "11-27",
+		"isbn": 1524743461,
+		"isbn13": 9781524743468,
+		"title": "An Absolutely Remarkable Thing (The Carls #1)",
+		"yearRead": 2021
+	},
+	{
+		"asin": "B003E749TE",
+		"author": "Jonathan Haidt",
+		"authorLastFirst": "Haidt, Jonathan",
+		"dateRead": "10-29",
+		"isbn": 0,
+		"isbn13": 0,
+		"title": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom",
+		"yearRead": 2021
+	},
+	{
+		"author": "Bitmap Books",
+		"authorLastFirst": "Bitmap Books",
+		"dateRead": "09-05",
+		"isbn": "199935334X",
+		"isbn13": 9781999353346,
+		"title": "The SNES Pixel Book",
+		"yearRead": 2021
+	},
+	{
+		"author": "Seth Godin",
+		"authorLastFirst": "Godin, Seth",
+		"dateRead": "06-13",
+		"isbn": 1591841666,
+		"isbn13": 9781591841661,
+		"title": "The Dip: A Little Book That Teaches You When to Quit (and When to Stick)",
+		"yearRead": 2021
+	},
+	{
+		"author": "Ross W. Greene",
+		"authorLastFirst": "Greene, Ross W.",
+		"dateRead": "06-10",
+		"isbn": 62270451,
+		"isbn13": 9780062270450,
+		"title": "The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated, Chronically Inflexible Children",
+		"yearRead": 2021
+	},
+	{
+		"addAuthors": "Greg Lukianoff",
+		"author": "Jonathan Haidt",
+		"authorLastFirst": "Haidt, Jonathan",
+		"dateRead": "01-19",
+		"isbn": 735224897,
+		"isbn13": 9780735224896,
+		"title": "The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure",
+		"yearRead": 2021
+	},
+	{
+		"addAuthors": "Victor Juhasz (Illustrator)",
+		"author": "Ryan Holiday",
+		"authorLastFirst": "Holiday, Ryan",
+		"dateRead": "12-16",
+		"title": "The Boy Who Would Be King: A Fable About Marcus Aurelius",
+		"yearRead": 2021
+	},
+	{
+		"addAuthors": "Robin Campbell",
+		"author": "Seneca",
+		"authorLastFirst": "Seneca",
+		"dateRead": "11-22",
+		"isbn": "0141395850",
+		"isbn13": 9780141395852,
+		"title": "Letters from a Stoic: Epistulae Morales Ad Lucilium",
+		"yearRead": 2021
+	},
+	{
+		"addAuthors": "Jason Killingsworth",
+		"author": "Keza MacDonald",
+		"authorLastFirst": "MacDonald, Keza",
+		"dateRead": "11-20",
+		"isbn": 1909430226,
+		"isbn13": 9781909430228,
+		"title": "You Died: The Dark Souls Companion",
+		"yearRead": 2021
+	},
+	{
+		"asin": "B08V51PF91",
+		"author": "Alan W. Watts",
+		"authorLastFirst": "Watts, Alan W.",
+		"dateRead": "10-03",
+		"title": "The Book: On the Taboo Against Knowing Who You Are",
+		"yearRead": 2021
+	},
+	{
+		"author": "Jane McGonigal",
+		"authorLastFirst": "McGonigal, Jane",
+		"dateRead": "09-02",
+		"isbn13": 9780143120612,
+		"title": "Reality Is Broken",
+		"yearRead": 2021
+	},
+	{
+		"addAuthors": "Cora E. Lutz, Gretchen Reydams-Schils",
+		"author": "Musonius Rufus",
+		"authorLastFirst": "Rufus, Musonius",
+		"dateRead": "08-01",
+		"isbn": 300226039,
+		"isbn13": 9780300226034,
+		"title": "That One Should Disdain Hardships: The Teachings of a Roman Stoic",
+		"yearRead": 2021
+	},
+	{
+		"author": "Nathan W. Pyle",
+		"authorLastFirst": "Pyle, Nathan W.",
+		"dateRead": "06-08",
+		"isbn": 63049740,
+		"isbn13": 9780063049741,
+		"title": "Strange Planet: The Sneaking, Hiding, Vibrating Creature",
+		"yearRead": 2021
+	},
+	{
+		"author": "Matthew Inman",
+		"authorLastFirst": "Inman, Matthew",
+		"dateRead": "05-05",
+		"isbn": 1449433537,
+		"isbn13": 9781449433536,
+		"title": "How to Be Perfectly Unhappy",
+		"yearRead": 2021
+	},
+	{
+		"author": "Josh Mecouch",
+		"authorLastFirst": "Mecouch, Josh",
+		"dateRead": "05-05",
+		"isbn": 63016494,
+		"isbn13": 9780063016491,
+		"title": "Conquer the Day: A Book of Affirmations",
+		"yearRead": 2021
+	},
+	{
+		"author": "Steven Pressfield",
+		"authorLastFirst": "Pressfield, Steven",
+		"dateRead": "04-22",
+		"isbn": 1936891026,
+		"isbn13": 9781936891023,
+		"title": "The War of Art: Break Through the Blocks and Win Your Inner Creative Battles",
+		"yearRead": 2021
+	},
+	{
+		"addAuthors": "Hobonichi",
+		"author": "Satoru Iwata",
+		"authorLastFirst": "Iwata, Satoru",
+		"dateRead": "04-19",
+		"isbn": "197472154X",
+		"isbn13": 9781974721542,
+		"title": "Ask Iwata: Words of Wisdom from Satoru Iwata, Nintendo's Legendary CEO",
+		"yearRead": 2021
+	},
+	{
+		"asin": "B07PS16XY9",
+		"author": "Mike Monteiro",
+		"authorLastFirst": "Monteiro, Mike",
+		"dateRead": "03-07",
+		"isbn": 0,
+		"isbn13": 0,
+		"title": "Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It",
+		"yearRead": 2021
+	},
+	{
+		"addAuthors": "Christopher Hitchens",
+		"author": "Aldous Huxley",
+		"authorLastFirst": "Huxley, Aldous",
+		"dateRead": "11-28",
+		"isbn": 60776099,
+		"isbn13": 9780060776091,
+		"title": "Brave New World / Brave New World Revisited",
+		"yearRead": 2020
+	},
+	{
+		"author": "Ray Bradbury",
+		"authorLastFirst": "Bradbury, Ray",
+		"dateRead": "07-31",
+		"title": "Fahrenheit 451",
+		"yearRead": 2020
+	},
+	{
+		"author": "Malcolm Gladwell",
+		"authorLastFirst": "Gladwell, Malcolm",
+		"dateRead": "06-16",
+		"title": "Talking to Strangers: What We Should Know About the People We Don't Know",
+		"yearRead": 2020
+	},
+	{
+		"author": "Robert Greene",
+		"authorLastFirst": "Greene, Robert",
+		"dateRead": "01-23",
+		"isbn": 525428143,
+		"isbn13": 9780525428145,
+		"title": "The Laws of Human Nature",
+		"yearRead": 2020
+	},
+	{
+		"addAuthors": "Stephen Klasko, Kevin Maney",
+		"author": "Hemant Taneja",
+		"authorLastFirst": "Taneja, Hemant",
+		"dateRead": "11-26",
+		"isbn13": 9781716996511,
+		"title": "UnHealthcare",
+		"yearRead": 2020
+	},
+	{
+		"author": "George Orwell",
+		"authorLastFirst": "Orwell, George",
+		"dateRead": "10-18",
+		"title": 1984,
+		"yearRead": 2020
+	},
+	{
+		"addAuthors": "Andrew Postman",
+		"author": "Neil Postman",
+		"authorLastFirst": "Postman, Neil",
+		"dateRead": "07-26",
+		"isbn": "014303653X",
+		"isbn13": 9780143036531,
+		"title": "Amusing Ourselves to Death: Public Discourse in the Age of Show Business",
+		"yearRead": 2020
+	},
+	{
+		"addAuthors": "Jordan B. Peterson",
+		"author": "Dave Rubin",
+		"authorLastFirst": "Rubin, Dave",
+		"dateRead": "07-08",
+		"title": "Don't Burn This Book: Thinking for Yourself in the Age of Unreason",
+		"yearRead": 2020
+	},
+	{
+		"author": "Nathan W. Pyle",
+		"authorLastFirst": "Pyle, Nathan W.",
+		"dateRead": "06-24",
+		"isbn": 63022605,
+		"isbn13": 9780063022607,
+		"title": "Stranger Planet (Strange Planet, #2)",
+		"yearRead": 2020
+	},
+	{
+		"author": "Edward Snowden",
+		"authorLastFirst": "Snowden, Edward",
+		"dateRead": "06-14",
+		"isbn": 1250237238,
+		"isbn13": 9781250237231,
+		"title": "Permanent Record",
+		"yearRead": 2020
+	},
+	{
+		"author": "Steve Krug",
+		"authorLastFirst": "Krug, Steve",
+		"dateRead": "01-30",
+		"isbn": 321965515,
+		"isbn13": 9780321965516,
+		"title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+		"yearRead": 2020
+	},
+	{
+		"author": "Yuval Noah Harari",
+		"authorLastFirst": "Harari, Yuval Noah",
+		"dateRead": "12-06",
+		"isbn": 525512179,
+		"isbn13": 9780525512172,
+		"title": "21 Lessons for the 21st Century",
+		"yearRead": 2019
+	},
+	{
+		"author": "Ryan Holiday",
+		"authorLastFirst": "Holiday, Ryan",
+		"dateRead": "11-04",
+		"isbn": 525538585,
+		"isbn13": 9780525538585,
+		"title": "Stillness Is the Key",
+		"yearRead": 2019
+	},
+	{
+		"author": "Yuval Noah Harari",
+		"authorLastFirst": "Harari, Yuval Noah",
+		"dateRead": "10-25",
+		"title": "Homo Deus: A History of Tomorrow",
+		"yearRead": 2019
+	},
+	{
+		"author": "Anat Baniel",
+		"authorLastFirst": "Baniel, Anat",
+		"dateRead": "10-04",
+		"isbn": 399537368,
+		"isbn13": 9780399537363,
+		"title": "Kids Beyond Limits: The Anat Baniel Method for Awakening the Brain and Transforming the Life of Your  Child With Special Needs",
+		"yearRead": 2019
+	},
+	{
+		"author": "Brad Frost",
+		"authorLastFirst": "Frost, Brad",
+		"dateRead": "10-04",
+		"isbn": 998296600,
+		"isbn13": 9780998296609,
+		"title": "Atomic Design",
+		"yearRead": 2019
+	},
+	{
+		"author": "Yuval Noah Harari",
+		"authorLastFirst": "Harari, Yuval Noah",
+		"dateRead": "09-23",
+		"title": "Sapiens: A Brief History of Humankind",
+		"yearRead": 2019
+	},
+	{
+		"author": "Jonathan Haidt",
+		"authorLastFirst": "Haidt, Jonathan",
+		"dateRead": "09-07",
+		"title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
+		"yearRead": 2019
+	},
+	{
+		"author": "James Clear",
+		"authorLastFirst": "Clear, James",
+		"dateRead": "05-24",
+		"isbn": 735211299,
+		"isbn13": 9780735211292,
+		"title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+		"yearRead": 2019
+	},
+	{
+		"author": "Jim Gaffigan",
+		"authorLastFirst": "Gaffigan, Jim",
+		"dateRead": "02-08",
+		"title": "Dad Is Fat",
+		"yearRead": 2019
+	},
+	{
+		"author": "Nathan W. Pyle",
+		"authorLastFirst": "Pyle, Nathan W.",
+		"dateRead": "12-02",
+		"isbn": 62970690,
+		"isbn13": 9780062970695,
+		"title": "Strange Planet (Strange Planet #1)",
+		"yearRead": 2019
+	},
+	{
+		"author": "Andrew  Yang",
+		"authorLastFirst": "Yang, Andrew",
+		"dateRead": "09-11",
+		"isbn": 316414247,
+		"isbn13": 9780316414241,
+		"title": "The War on Normal People: The Truth About America's Disappearing Jobs and Why Universal Basic Income Is Our Future",
+		"yearRead": 2019
+	},
+	{
+		"author": "Jonathan Kaplan",
+		"authorLastFirst": "Kaplan, Jonathan",
+		"dateRead": "01-17",
+		"isbn": 1572247495,
+		"isbn13": 9781572247499,
+		"title": "Urban Mindfulness: Cultivating Peace, Presence, and Purpose in the Middle of It All",
+		"yearRead": 2019
+	},
+	{
+		"author": "Exurb1a",
+		"authorLastFirst": "Exurb1a",
+		"dateRead": "12-19",
+		"title": "The Fifth Science",
+		"yearRead": 2018
+	},
+	{
+		"addAuthors": "Mark Reiter",
+		"author": "Marshall Goldsmith",
+		"authorLastFirst": "Goldsmith, Marshall",
+		"dateRead": "11-29",
+		"isbn13": 9781781251560,
+		"title": "What Got You Here Won't Get You There: How Successful People Become Even More Successful",
+		"yearRead": 2018
+	},
+	{
+		"author": "Gary John Bishop",
+		"authorLastFirst": "Bishop, Gary John",
+		"dateRead": "07-20",
+		"title": "Unfu*k Yourself: Get Out of Your Head and Into Your Life",
+		"yearRead": 2018
+	},
+	{
+		"author": "Exurb1a",
+		"authorLastFirst": "Exurb1a",
+		"dateRead": "07-13",
+		"title": "Logic Beach: Part I",
+		"yearRead": 2018
+	},
+	{
+		"addAuthors": "Gregory Hays",
+		"author": "Marcus Aurelius",
+		"authorLastFirst": "Aurelius, Marcus",
+		"dateRead": "06-11",
+		"isbn": 812968255,
+		"isbn13": 9780812968255,
+		"title": "Meditations",
+		"yearRead": 2018
+	},
+	{
+		"author": "Ernest Cline",
+		"authorLastFirst": "Cline, Ernest",
+		"dateRead": "05-03",
+		"isbn": 307887448,
+		"isbn13": 9780307887443,
+		"title": "Ready Player One (Ready Player One, #1)",
+		"yearRead": 2018
+	},
+	{
+		"author": "Ryan Holiday",
+		"authorLastFirst": "Holiday, Ryan",
+		"dateRead": "01-31",
+		"isbn": 1591847818,
+		"isbn13": 9781591847816,
+		"title": "Ego Is the Enemy",
+		"yearRead": 2018
+	},
+	{
+		"addAuthors": "Donald O. Clifton",
+		"author": "Tom Rath",
+		"authorLastFirst": "Rath, Tom",
+		"dateRead": "12-20",
+		"isbn": 1595620036,
+		"isbn13": 9781595620033,
+		"title": "How Full Is Your Bucket?",
+		"yearRead": 2018
+	},
+	{
+		"author": "Paul A. Offit",
+		"authorLastFirst": "Offit, Paul A.",
+		"dateRead": "12-03",
+		"isbn": 231186983,
+		"isbn13": 9780231186988,
+		"title": "Bad Advice: Or Why Celebrities, Politicians, and Activists Aren't Your Best Source of Health Information",
+		"yearRead": 2018
+	},
+	{
+		"addAuthors": "Kenneth H. Blanchard",
+		"author": "Spencer Johnson",
+		"authorLastFirst": "Johnson, Spencer",
+		"dateRead": "11-29",
+		"isbn": 399144463,
+		"isbn13": 9780399144462,
+		"title": "Who Moved My Cheese?",
+		"yearRead": 2018
+	},
+	{
+		"author": "Neil deGrasse Tyson",
+		"authorLastFirst": "Tyson, Neil deGrasse",
+		"dateRead": "07-06",
+		"title": "Astrophysics for People in a Hurry",
+		"yearRead": 2018
+	},
+	{
+		"addAuthors": "Norman Doidge, Ethan Van Sciver",
+		"author": "Jordan B. Peterson",
+		"authorLastFirst": "Peterson, Jordan B.",
+		"dateRead": "03-15",
+		"isbn": 345816021,
+		"isbn13": 9780345816023,
+		"title": "12 Rules for Life: An Antidote to Chaos",
+		"yearRead": 2018
+	},
+	{
+		"author": "Kurt Vonnegut Jr.",
+		"authorLastFirst": "Vonnegut, Kurt, Jr.",
+		"dateRead": "01-27",
+		"title": "Cat's Cradle",
+		"yearRead": 2018
+	},
+	{
+		"author": "Kurt Vonnegut Jr.",
+		"authorLastFirst": "Vonnegut, Kurt, Jr.",
+		"dateRead": "01-19",
+		"title": "Slaughterhouse-Five",
+		"yearRead": 2018
+	},
+	{
+		"author": "Ken Liu",
+		"authorLastFirst": "Liu, Ken",
+		"dateRead": "01-15",
+		"title": "The Paper Menagerie and Other Stories",
+		"yearRead": 2018
+	},
+	{
+		"author": "Exurb1a",
+		"authorLastFirst": "Exurb1a",
+		"dateRead": "12-18",
+		"title": "The Prince of Milk",
+		"yearRead": 2017
+	},
+	{
+		"addAuthors": "George Long",
+		"author": "Epictetus",
+		"authorLastFirst": "Epictetus, Epictetus",
+		"dateRead": "12-13",
+		"isbn": 486433595,
+		"isbn13": 9780486433592,
+		"title": "Enchiridion",
+		"yearRead": 2016
+	},
+	{
+		"author": "Exurb1a",
+		"authorLastFirst": "Exurb1a",
+		"dateRead": "07-12",
+		"title": "The Bridge to Lucy Dunne",
+		"yearRead": 2016
+	},
+	{
+		"author": "Ryan Holiday",
+		"authorLastFirst": "Holiday, Ryan",
+		"dateRead": "05-20",
+		"isbn": 1591846358,
+		"isbn13": 9781591846352,
+		"title": "The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph",
+		"yearRead": 2016
+	},
+	{
+		"author": "Sam Harris",
+		"authorLastFirst": "Harris, Sam",
+		"dateRead": "04-04",
+		"title": "Free Will",
+		"yearRead": 2016
+	},
+	{
+		"author": "Douglas Adams",
+		"authorLastFirst": "Adams, Douglas",
+		"dateRead": "02-11",
+		"isbn": 345418905,
+		"isbn13": 9780345418906,
+		"title": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy, #3)",
+		"yearRead": 2016
+	},
+	{
+		"author": "Douglas Adams",
+		"authorLastFirst": "Adams, Douglas",
+		"dateRead": "01-13",
+		"title": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)",
+		"yearRead": 2016
+	},
+	{
+		"author": "Douglas Adams",
+		"authorLastFirst": "Adams, Douglas",
+		"dateRead": "01-09",
+		"title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+		"yearRead": 2016
+	},
+	{
+		"addAuthors": "Lauren Darcey, Shane Conder",
+		"author": "Joseph Annuzzi Jr.",
+		"authorLastFirst": "Annuzzi, Joseph, Jr.",
+		"dateRead": "01-01",
+		"title": "Introduction to Android Application Development: Android Essentials (Developer's Library)",
+		"yearRead": 2016
+	},
+	{
+		"author": "Dr. Seuss",
+		"authorLastFirst": "Seuss, Dr.",
+		"dateRead": "03-21",
+		"isbn": 679805273,
+		"isbn13": 9780679805274,
+		"title": "Oh, the Places You'll Go!",
+		"yearRead": 2016
+	},
+	{
+		"author": "J.K. Rowling",
+		"authorLastFirst": "Rowling, J.K.",
+		"dateRead": "03-05",
+		"isbn": "043965548X",
+		"isbn13": 9780439655484,
+		"title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+		"yearRead": 2016
+	},
+	{
+		"author": "J.K. Rowling",
+		"authorLastFirst": "Rowling, J.K.",
+		"dateRead": "02-29",
+		"title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+		"yearRead": 2016
+	},
+	{
+		"author": "J.K. Rowling",
+		"authorLastFirst": "Rowling, J.K.",
+		"dateRead": "02-25",
+		"title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+		"yearRead": 2016
+	},
+	{
+		"author": "Joe Rawlinson",
+		"authorLastFirst": "Rawlinson, Joe",
+		"dateRead": "01-11",
+		"title": "Dad's Guide to Twins: How to Survive the Twin Pregnancy and Prepare for Your Twins",
+		"yearRead": 2016
+	},
+	{
+		"author": "Matthew Inman",
+		"authorLastFirst": "Inman, Matthew",
+		"dateRead": "01-01",
+		"isbn": 1449437524,
+		"isbn13": 9781449437527,
+		"title": "My Dog: The Paradox: A Lovable Discourse about Man's Best Friend",
+		"yearRead": 2016
+	},
+	{
+		"addAuthors": "R.J. Hollingdale, Michael Tanner",
+		"author": "Friedrich Nietzsche",
+		"authorLastFirst": "Nietzsche, Friedrich",
+		"dateRead": "10-21",
+		"isbn": "014044923X",
+		"isbn13": 9780140449235,
+		"title": "Beyond Good and Evil",
+		"yearRead": 2015
+	},
+	{
+		"addAuthors": "Justin O'Brien",
+		"author": "Albert Camus",
+		"authorLastFirst": "Camus, Albert",
+		"dateRead": "09-10",
+		"title": "The Myth of Sisyphus and Other Essays",
+		"yearRead": 2015
+	},
+	{
+		"author": "Walter Isaacson",
+		"authorLastFirst": "Isaacson, Walter",
+		"dateRead": "09-08",
+		"isbn": 1451648537,
+		"isbn13": 9781451648539,
+		"title": "Steve Jobs",
+		"yearRead": 2015
+	},
+	{
+		"author": "Matthew Inman",
+		"authorLastFirst": "Inman, Matthew",
+		"dateRead": "08-31",
+		"isbn": 1449459951,
+		"isbn13": 9781449459956,
+		"title": "The Terrible and Wonderful Reasons Why I Run Long Distances",
+		"yearRead": 2015
+	},
+	{
+		"addAuthors": "Stephen J. Dubner",
+		"author": "Steven D. Levitt",
+		"authorLastFirst": "Levitt, Steven D.",
+		"dateRead": "12-03",
+		"isbn": 61234001,
+		"isbn13": 9780061234002,
+		"title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+		"yearRead": 2012
+	},
+	{
+		"author": "Sam Harris",
+		"authorLastFirst": "Harris, Sam",
+		"dateRead": "03-01",
+		"title": "Lying",
+		"yearRead": 2012
+	},
+	{
+		"addAuthors": "Anthony Bonner",
+		"author": "Jules Verne",
+		"authorLastFirst": "Verne, Jules",
+		"dateRead": "07-17",
+		"isbn": "076072850X",
+		"isbn13": 9780760728505,
+		"title": "Twenty Thousand Leagues Under the Sea (Extraordinary Voyages, #6)",
+		"yearRead": 2011
+	},
+	{
+		"addAuthors": "Ann Druyan",
+		"author": "Carl Sagan",
+		"authorLastFirst": "Sagan, Carl",
+		"dateRead": "01-14",
+		"isbn": 345409469,
+		"isbn13": 9780345409461,
+		"title": "The Demon-Haunted World: Science as a Candle in the Dark",
+		"yearRead": 2011
+	}
 ]
