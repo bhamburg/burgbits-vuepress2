@@ -1,5 +1,6 @@
 [
 	{
+    "asin": "B01HNJIJB2",
 		"author": "Ryan Holiday",
 		"authorLastFirst": "Holiday, Ryan",
 		"title": "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living",
@@ -9,20 +10,24 @@
 		"asin": "B00555X8OA",
 		"author": "Daniel Kahneman",
 		"authorLastFirst": "Kahneman, Daniel",
-		"dateRead": "",
-		"isbn": 0,
-		"isbn13": 0,
 		"title": "Thinking, Fast and Slow",
 		"url": "https://www.goodreads.com/book/show/12385458-thinking-fast-and-slow"
 	},
-	{
-		"author": "Alan W. Watts",
-		"authorLastFirst": "Watts, Alan W.",
-		"dateRead": "",
-		"isbn": 9780375705,
-		"isbn13": 0,
-		"title": "The Way of Zen",
-		"url": "https://www.goodreads.com/book/show/50233662-the-way-of-zen"
+  {
+		"author": "Edward Ross",
+		"authorLastFirst": "Ross, Edward",
+    "isbn": "1846149487",
+    "isbn13": "9781846149481",
+		"title": "Gamish: A Graphic History of Gaming",
+		"url": "https://www.goodreads.com/book/show/50374028-gamish"
+	},
+  {
+		"author": "Eli Cymet",
+		"authorLastFirst": "Cymet, Eli",
+    "isbn": "1506713203",
+    "isbn13": "9781506713205",
+		"title": "The Art of Cuphead",
+		"url": "https://www.goodreads.com/book/show/44175853-the-art-of-cuphead"
 	},
 	{
 		"author": "Ryan Holiday",
