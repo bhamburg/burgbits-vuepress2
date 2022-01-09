@@ -76,6 +76,9 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         id: 'G-30HMKNVJE0',
       },
-    ]
+    ],
+    [
+      '@vuepress/plugin-search',
+    ],
   ]
 })
