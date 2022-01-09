@@ -7,18 +7,6 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: 'en-US',
   title: 'BurgBits',
   description: 'Brian Hamburg: Software Engineer, Designer, and Musician',
-  extendsPageOptions: ({ filePath }, app) => {
-    if (!filePath?.endsWith('README.md') && filePath?.startsWith(app.dir.source('blog/'))) {
-        return {
-            frontmatter: {
-                permalinkPattern: 'blog/:year/:month/:slug.html',
-                sidebar: false,
-                layout: 'BlogLayout',
-            },
-        }
-    }
-    return {}
-  },
   head: [
     ['script', { src: `https://www.instagram.com/embed.js` }], // for Instagram Embed
   ],
@@ -76,9 +64,6 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         id: 'G-30HMKNVJE0',
       },
-    ],
-    [
-      '@vuepress/plugin-search',
     ],
   ]
 })

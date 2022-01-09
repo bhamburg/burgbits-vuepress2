@@ -354,19 +354,6 @@
     "@vuepress/utils" "2.0.0-beta.32"
     chokidar "^3.5.2"
 
-"@vuepress/plugin-search@2.0.0-beta.32":
-  version "2.0.0-beta.32"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-2.0.0-beta.32.tgz#9397e71d739ef782875451a252c0595e1be90b0d"
-  integrity sha512-9vB0mKG5806M5pMoV6Y5bVx8LesGULxWDyvnQ1tUIXCG9Q8nS272PFGxoCV/ntKv/X2+msTwPpTjCiHAaXmqEQ==
-  dependencies:
-    "@vuepress/client" "2.0.0-beta.32"
-    "@vuepress/core" "2.0.0-beta.32"
-    "@vuepress/shared" "2.0.0-beta.32"
-    "@vuepress/utils" "2.0.0-beta.32"
-    chokidar "^3.5.2"
-    vue "^3.2.24"
-    vue-router "^4.0.12"
-
 "@vuepress/plugin-theme-data@2.0.0-beta.32":
   version "2.0.0-beta.32"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-theme-data/-/plugin-theme-data-2.0.0-beta.32.tgz#ce2bf86772163bcc2132d3e1cc9cb32a59049a82"
@@ -1417,16 +1404,6 @@ ts-debounce@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/ts-debounce/-/ts-debounce-4.0.0.tgz#33440ef64fab53793c3d546a8ca6ae539ec15841"
   integrity sha512-+1iDGY6NmOGidq7i7xZGA4cm8DAa6fqdYcvO5Z6yBevH++Bdo9Qt/mN0TzHUgcCcKv1gmh9+W5dHqz8pMWbCbg==
-
-typeface-inter@^3.18.1:
-  version "3.18.1"
-  resolved "https://registry.npmjs.org/typeface-inter/-/typeface-inter-3.18.1.tgz"
-  integrity sha512-c+TBanYFCvmg3j5vPk+zxK4ocMZbPxMEmjnwG7rPQoV87xvQ6b07VbAOC0Va0XBbbZCGw6cWNeFuLeg1YQru3Q==
-
-typeface-jetbrains-mono@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.npmjs.org/typeface-jetbrains-mono/-/typeface-jetbrains-mono-2.0.1.tgz"
-  integrity sha512-r5ehb53K0x7VWFkk35jD1Hpnk09qm26wJM7H+mclj+eXX35IAoDC7x1NDDCKy0kpyvLo7xoEEY3d9Slj1Ar8vQ==
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.6"
