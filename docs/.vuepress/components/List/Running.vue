@@ -10,7 +10,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-bind:key="i" v-for="i in items">
+      <tr :key="i" v-for="i in items">
         <td>{{ i.name }}</td>
         <td style="text-align:center">{{ i.date }}</td>
         <td>{{ i.distance }}</td>

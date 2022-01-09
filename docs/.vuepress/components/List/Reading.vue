@@ -12,7 +12,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-bind:key="i" v-for="i in itemsSorted">
+      <tr :key="i" v-for="i in itemsSorted">
         <td>
           <span v-if="!i.url">{{ i.title }}</span>
           <a v-if="i.url" :href="i.url" target="_blank" rel="noopener noreferrer">
@@ -38,7 +38,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-bind:key="i" v-for="i in itemsSorted">
+      <tr :key="i" v-for="i in itemsSorted">
         <td>
           <span v-if="!i.url">{{ i.title }}</span>
           <a v-if="i.url" :href="i.url" target="_blank" rel="noopener noreferrer">

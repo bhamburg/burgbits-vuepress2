@@ -1,5 +1,17 @@
 [
 	{
+		"firstTime": "yes",
+		"platform": "PS5",
+		"title": "Star Wars Jedi: Fallen Order",
+    "url": "https://www.grouvee.com/games/64175-star-wars-jedi-fallen-order/"
+	},
+  {
+		"firstTime": "yes",
+		"platform": "PS4",
+		"title": "NieR:Automata",
+    "url": "https://www.grouvee.com/games/46509-nierautomata/"
+	},
+  {
 		"firstTime": "no",
     "notes": "attempting platinum trophy",
 		"platform": "PS5",
