@@ -9,7 +9,7 @@
 <List-Reading currently sortable />
 
 ### Books Read in 2022
-<List-Reading :year="2022" />
+<List-Reading :year="2022" sortable />
 
 ### Books Read in 2021
 <List-Reading :year="2021" sortable />
