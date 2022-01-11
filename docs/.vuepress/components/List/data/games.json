@@ -1,40 +1,21 @@
 [
 	{
 		"firstTime": "yes",
-		"platform": "PS5",
-		"title": "Star Wars Jedi: Fallen Order",
-    "url": "https://www.grouvee.com/games/64175-star-wars-jedi-fallen-order/"
+		"platform": "PS4",
+		"title": "Dark Souls III",
+    "url": "https://www.grouvee.com/games/46413-dark-souls-iii/"
+	},
+	{
+    "notes": "attempting platinum trophy",
+		"platform": "PS4",
+		"title": "Doom (2016)",
+    "url": "https://www.grouvee.com/games/18984-doom/"
 	},
   {
 		"firstTime": "yes",
 		"platform": "PS4",
 		"title": "NieR:Automata",
     "url": "https://www.grouvee.com/games/46509-nierautomata/"
-	},
-  {
-		"firstTime": "no",
-    "notes": "attempting platinum trophy",
-		"platform": "PS5",
-		"title": "Demon's Souls",
-    "url": "https://www.grouvee.com/games/82813-demons-souls/"
-	},
-	{
-		"platform": "PS4",
-		"title": "Doom (2016)",
-    "url": "https://www.grouvee.com/games/18984-doom/"
-	},
-	{
-		"firstTime": "yes",
-		"platform": "PC",
-		"title": "Doom Eternal",
-    "url": "https://www.grouvee.com/games/67185-doom-eternal/"
-	},
-	{
-		"firstTime": "yes",
-		"notes": "MiSTer",
-		"platform": "GBA",
-		"title": "Metroid: Zero Mission",
-    "url": "https://www.grouvee.com/games/16024-metroid-zero-mission/"
 	},
 	{
 		"dateFinished": "12-17",

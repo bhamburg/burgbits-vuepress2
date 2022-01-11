@@ -1,4 +1,12 @@
 [
+  {
+		"addAuthors": "Fumitake Koga",
+		"author": "Ichiro Kishimi",
+		"authorLastFirst": "Kishimi, Ichiro",
+    "isbn13": 9781501197277,
+		"title": "The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness",
+		"url": "https://www.goodreads.com/book/show/36622739-the-courage-to-be-disliked"
+	},
 	{
     "asin": "B01HNJIJB2",
 		"author": "Ryan Holiday",
@@ -16,10 +24,12 @@
   {
 		"author": "Edward Ross",
 		"authorLastFirst": "Ross, Edward",
+    "dateRead": "01-10",
     "isbn": "1846149487",
     "isbn13": "9781846149481",
 		"title": "Gamish: A Graphic History of Gaming",
-		"url": "https://www.goodreads.com/book/show/50374028-gamish"
+		"url": "https://www.goodreads.com/book/show/50374028-gamish",
+    "yearRead": 2022
 	},
   {
 		"author": "Eli Cymet",
