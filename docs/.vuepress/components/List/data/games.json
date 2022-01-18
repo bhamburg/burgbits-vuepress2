@@ -2,14 +2,32 @@
 	{
 		"firstTime": "yes",
 		"platform": "PS4",
-		"title": "Dark Souls III",
-    "url": "https://www.grouvee.com/games/46413-dark-souls-iii/"
+		"title": "Dark Souls III: The Fire Fades Edition",
+    "url": "https://www.grouvee.com/games/46413-dark-souls-iii/",
+    "notes":" playing on PS5"
+	},
+  {
+		"firstTime": "yes",
+		"platform": "GBA",
+		"title": "Metroid: Zero Mission",
+    "url": "https://www.grouvee.com/games/16024-metroid-zero-mission/",
+    "notes": " playing on MiSTer"
 	},
 	{
-    "notes": "attempting platinum trophy",
+    "notes": "attempting platinum trophy on PS5",
 		"platform": "PS4",
 		"title": "Doom (2016)",
     "url": "https://www.grouvee.com/games/18984-doom/"
+	},
+  {
+		"platform": "PC",
+		"title": "Doom Eternal",
+    "url": "https://www.grouvee.com/games/67185-doom-eternal/"
+	},
+  {
+		"platform": "PS5",
+		"title": "Star Wars Jedi: Fallen Order",
+    "url": "https://www.grouvee.com/games/64175-star-wars-jedi-fallen-order/"
 	},
   {
 		"firstTime": "yes",
@@ -52,7 +70,7 @@
 	{
 		"completed": "yes",
 		"dateFinished": "08-22",
-		"notes": "MiSTer",
+		"notes": " played on MiSTer",
 		"platform": "SNES",
 		"title": "The Legend of Zelda: A Link to the Past",
 		"yearFinished": 2021
@@ -92,7 +110,7 @@
 	{
 		"dateFinished": "05-30",
 		"firstTime": "yes",
-		"notes": "MiSTer",
+		"notes": " played on MiSTer",
 		"platform": "SNES",
 		"title": "Street Fighter Alpha 2",
 		"yearFinished": 2021
@@ -128,7 +146,7 @@
 	},
 	{
 		"dateFinished": "04-25",
-		"notes": "Super Nt, with Nintendo Power Strategy Guide",
+		"notes": "played on Super Nt, with Nintendo Power Strategy Guide",
 		"platform": "SNES",
 		"title": "Super Mario Bros. 3 (Super Mario All-Stars)",
 		"yearFinished": 2021
@@ -136,7 +154,7 @@
 	{
 		"completed": "yes",
 		"dateFinished": "04-15",
-		"notes": "Super Nt",
+		"notes": "played on Super Nt",
 		"platform": "SNES",
 		"title": "Mega Man X",
 		"yearFinished": 2021
@@ -167,7 +185,7 @@
 	{
 		"dateFinished": "02-28",
 		"firstTime": "yes",
-		"notes": "MiSTer",
+		"notes": " played on MiSTer",
 		"platform": "Arcade",
 		"title": "Double Dragon II: The Revenge",
 		"yearFinished": 2021
@@ -182,7 +200,7 @@
 	{
 		"dateFinished": "01-30",
 		"firstTime": "yes",
-		"notes": "MiSTer",
+		"notes": " played on MiSTer",
 		"platform": "Arcade",
 		"title": "Cadillacs and Dinosaurs",
 		"yearFinished": 2021
@@ -206,14 +224,14 @@
 	{
 		"dateFinished": "01-13",
 		"firstTime": "yes",
-		"notes": "MiSTer",
+		"notes": " played on MiSTer",
 		"platform": "Arcade",
 		"title": "DoDonPachi",
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "01-11",
-		"notes": "MiSTer, with Phil Summers' hand-drawn guide",
+		"notes": " played on MiSTer, with Phil Summers' hand-drawn guide",
 		"platform": "NES",
 		"title": "The Legend of Zelda",
 		"yearFinished": 2021
@@ -241,14 +259,14 @@
 	},
 	{
 		"dateFinished": "12-11",
-		"notes": "MiSTer",
+		"notes": " played on MiSTer",
 		"platform": "NES",
 		"title": "Super Mario Bros.",
 		"yearFinished": 2020
 	},
 	{
 		"dateFinished": "12-08",
-		"notes": "MiSTer",
+		"notes": " played on MiSTer",
 		"platform": "GBA",
 		"title": "Mother 3",
 		"yearFinished": 2020
@@ -271,7 +289,7 @@
 	{
 		"dateFinished": "08-24",
 		"firstTime": "yes",
-		"notes": "Super Nt",
+		"notes": "played on Super Nt",
 		"platform": "SNES",
 		"title": "Super Mario World 2: Yoshi's Island",
 		"yearFinished": 2020
@@ -298,7 +316,7 @@
 	},
 	{
 		"dateFinished": "04-15",
-		"notes": "MiSTer",
+		"notes": " played on MiSTer",
 		"platform": "SNES",
 		"title": "The Legend of Zelda: A Link to the Past",
 		"yearFinished": 2020
@@ -442,7 +460,7 @@
 	},
 	{
 		"dateFinished": "03-04",
-		"notes": "Super Nt",
+		"notes": "played on Super Nt",
 		"platform": "SNES",
 		"title": "Disney's Aladdin",
 		"yearFinished": 2019
@@ -500,7 +518,7 @@
 	{
 		"completed": "yes",
 		"dateFinished": "07-21",
-		"notes": "Super Nt",
+		"notes": "played on Super Nt",
 		"platform": "SNES",
 		"title": "The Legend of Zelda: A Link to the Past",
 		"yearFinished": 2018
@@ -547,7 +565,7 @@
 	},
 	{
 		"dateFinished": "04-29",
-		"notes": "Super Nt",
+		"notes": "played on Super Nt",
 		"platform": "SNES",
 		"title": "Donkey Kong Country",
 		"yearFinished": 2018
@@ -575,7 +593,7 @@
 	},
 	{
 		"dateFinished": "03-23",
-		"notes": "Super Nt",
+		"notes": "played on Super Nt",
 		"platform": "SNES",
 		"title": "EarthBound",
 		"yearFinished": 2018
