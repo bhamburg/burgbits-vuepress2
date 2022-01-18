@@ -11,9 +11,6 @@
 ### Books Read in 2022
 <List-Reading :year="2022" sortable />
 
-### Books Read in 2021
-<List-Reading :year="2021" sortable />
-
 [View More at Goodreads](https://www.goodreads.com/user/show/4284038-brian-hamburg)
 
 ## Running
@@ -33,11 +30,6 @@
 <List-Gaming currently sortable />
 
 ### Games Finished in 2021
-
-::: tip KEY
-:white_check_mark: &nbsp;First playthrough  
-:100: &nbsp;Completed 100%
-:::
 
 <List-Gaming :year="2021" sortable />
 
