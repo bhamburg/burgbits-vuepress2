@@ -6,6 +6,7 @@
     "isbn13": 9781501197277,
 		"title": "The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness",
 		"url": "https://www.goodreads.com/book/show/36622739-the-courage-to-be-disliked",
+    "rating": 4,
     "dateRead": "01-17",
     "yearRead": 2022
 	},
@@ -31,6 +32,7 @@
     "isbn13": "9781846149481",
 		"title": "Gamish: A Graphic History of Gaming",
 		"url": "https://www.goodreads.com/book/show/50374028-gamish",
+    "rating": 5,
     "yearRead": 2022
 	},
   {
@@ -39,6 +41,7 @@
     "isbn": "1506713203",
     "isbn13": "9781506713205",
 		"title": "The Art of Cuphead",
+    "rating": 5,
 		"url": "https://www.goodreads.com/book/show/44175853-the-art-of-cuphead"
 	},
 	{
@@ -47,6 +50,7 @@
 		"dateRead": "01-07",
 		"title": "Courage Is Calling: Fortune Favors the Brave",
 		"url": "https://www.goodreads.com/book/show/58145670-courage-is-calling",
+    "rating": 5,
 		"yearRead": 2022
 	},
 	{

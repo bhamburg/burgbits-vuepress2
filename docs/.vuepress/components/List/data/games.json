@@ -1,22 +1,30 @@
 [
 	{
 		"firstTime": "yes",
-		"platform": "PS4",
+		"platform": "PS4 (PS5)",
 		"title": "Dark Souls III: The Fire Fades Edition",
     "url": "https://www.grouvee.com/games/46413-dark-souls-iii/",
-    "notes":" playing on PS5"
+    "notes":"playing on PS5"
+	},
+  {
+		"platform": "PS5",
+		"title": "Demon's Souls",
+    "rating": 4,
+    "url": "https://www.grouvee.com/games/82813-demons-souls/",
+    "notes": "attempting platinum trophy"
 	},
   {
 		"firstTime": "yes",
-		"platform": "GBA",
+		"platform": "GBA (MiSTer)",
 		"title": "Metroid: Zero Mission",
     "url": "https://www.grouvee.com/games/16024-metroid-zero-mission/",
     "notes": " playing on MiSTer"
 	},
 	{
-    "notes": "attempting platinum trophy on PS5",
-		"platform": "PS4",
+    "notes": "playing on PS5",
+		"platform": "PS4 (PS5)",
 		"title": "Doom (2016)",
+    "rating": 4,
     "url": "https://www.grouvee.com/games/18984-doom/"
 	},
   {
@@ -31,7 +39,7 @@
 	},
   {
 		"firstTime": "yes",
-		"platform": "PS4",
+		"platform": "PS4 (PS5)",
 		"title": "NieR:Automata",
     "url": "https://www.grouvee.com/games/46509-nierautomata/"
 	},
@@ -40,15 +48,18 @@
 		"firstTime": "yes",
 		"platform": "PS5",
 		"title": "Demon's Souls",
-    "url": "",
+    "rating": 4,
+    "url": "https://www.grouvee.com/games/82813-demons-souls/",
 		"yearFinished": 2021
 	},
 	{
 		"completed": "yes",
 		"dateFinished": "11-08",
-		"notes": "\"The Old Hunters\" DLC, completed on PS5",
-		"platform": "PS4",
-		"title": "Bloodborne",
+		"notes": "completed on PS5",
+		"platform": "PS4 (PS5)",
+		"title": "Bloodborne (\"The Old Hunters\" DLC)",
+    "rating": 5,
+    "url": "https://www.grouvee.com/games/43025-bloodborne/",
 		"yearFinished": 2021
 	},
 	{
@@ -57,6 +68,7 @@
 		"notes": "11:49:59 for 45% completion",
 		"platform": "Switch",
 		"title": "Metroid: Dread",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
@@ -65,14 +77,16 @@
 		"notes": "pacifist run",
 		"platform": "Switch",
 		"title": "Deltarune: Chapter 2",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
 		"completed": "yes",
 		"dateFinished": "08-22",
 		"notes": " played on MiSTer",
-		"platform": "SNES",
+		"platform": "SNES (MiSTer)",
 		"title": "The Legend of Zelda: A Link to the Past",
+    "rating": 5,
 		"yearFinished": 2021
 	},
 	{
@@ -81,6 +95,7 @@
 		"notes": "button controls",
 		"platform": "Switch",
 		"title": "The Legend of Zelda: Skyward Sword HD",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
@@ -89,14 +104,17 @@
 		"notes": "used Konami code (30 lives)",
 		"platform": "Switch",
 		"title": "Contra (NES version, Contra Anniversary Collection)",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
 		"completed": "yes",
 		"dateFinished": "06-16",
 		"notes": "platinum trophy, completed on PS5",
-		"platform": "PS4",
+		"platform": "PS4 (PS5)",
 		"title": "Bloodborne",
+    "rating": 5,
+    "url": "https://www.grouvee.com/games/43025-bloodborne/",
 		"yearFinished": 2021
 	},
 	{
@@ -105,21 +123,25 @@
 		"notes": "with both Lizzy and Lou",
 		"platform": "Switch",
 		"title": "Battle Circuit (Capcom Beat 'Em Ups Bundle)",
+    "rating": 3,
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "05-30",
 		"firstTime": "yes",
 		"notes": " played on MiSTer",
-		"platform": "SNES",
+		"platform": "SNES (MiSTer)",
 		"title": "Street Fighter Alpha 2",
+    "rating": 3,
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "05-16",
 		"notes": "Honoring Wishes\" ending on NG+",
-		"platform": "PS4",
+		"platform": "PS4 (PS5)",
 		"title": "Bloodborne",
+    "rating": 5,
+    "url": "https://www.grouvee.com/games/43025-bloodborne/",
 		"yearFinished": 2021
 	},
 	{
@@ -127,6 +149,7 @@
 		"firstTime": "yes",
 		"platform": "3DS",
 		"title": "SteamWorld Dig",
+    "rating": 3,
 		"yearFinished": 2021
 	},
 	{
@@ -135,6 +158,7 @@
 		"notes": "platinum trophy",
 		"platform": "PS5",
 		"title": "Marvel's Spider-Man Remastered",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
@@ -142,21 +166,24 @@
 		"firstTime": "yes",
 		"platform": "Switch",
 		"title": "Limbo",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "04-25",
 		"notes": "played on Super Nt, with Nintendo Power Strategy Guide",
-		"platform": "SNES",
+		"platform": "SNES (Super Nt)",
 		"title": "Super Mario Bros. 3 (Super Mario All-Stars)",
+    "rating": 5,
 		"yearFinished": 2021
 	},
 	{
 		"completed": "yes",
 		"dateFinished": "04-15",
 		"notes": "played on Super Nt",
-		"platform": "SNES",
+		"platform": "SNES (Super Nt)",
 		"title": "Mega Man X",
+    "rating": 5,
 		"yearFinished": 2021
 	},
 	{
@@ -164,6 +191,7 @@
 		"firstTime": "yes",
 		"platform": "PS5",
 		"title": "Maquette",
+    "rating": 2,
 		"yearFinished": 2021
 	},
 	{
@@ -172,6 +200,7 @@
 		"notes": "story mode",
 		"platform": "PS5",
 		"title": "Mortal Kombat 11 Ultimate",
+    "rating": 3,
 		"yearFinished": 2021
 	},
 	{
@@ -180,14 +209,16 @@
 		"notes": "finished Bowser's Fury story",
 		"platform": "Switch",
 		"title": "Super Mario 3D World + Bowser's Fury",
+    "rating": 5,
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "02-28",
 		"firstTime": "yes",
 		"notes": " played on MiSTer",
-		"platform": "Arcade",
+		"platform": "Arcade (MiSTer)",
 		"title": "Double Dragon II: The Revenge",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
@@ -195,14 +226,16 @@
 		"notes": "finished base game story",
 		"platform": "Switch",
 		"title": "Super Mario 3D World + Bowser's Fury",
+    "rating": 5,
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "01-30",
 		"firstTime": "yes",
 		"notes": " played on MiSTer",
-		"platform": "Arcade",
+		"platform": "Arcade (MiSTer)",
 		"title": "Cadillacs and Dinosaurs",
+    "rating": 3,
 		"yearFinished": 2021
 	},
 	{
@@ -211,6 +244,7 @@
 		"notes": "with Lizzy as Toadette (2P)",
 		"platform": "Switch",
 		"title": "New Super Mario Bros. U Deluxe",
+    "rating": 3,
 		"yearFinished": 2021
 	},
 	{
@@ -219,27 +253,31 @@
 		"notes": "main story",
 		"platform": "PS5",
 		"title": "Marvel's Spider-Man Remastered",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "01-13",
 		"firstTime": "yes",
 		"notes": " played on MiSTer",
-		"platform": "Arcade",
+		"platform": "Arcade (MiSTer)",
 		"title": "DoDonPachi",
+    "rating": 4,
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "01-11",
-		"notes": " played on MiSTer, with Phil Summers' hand-drawn guide",
-		"platform": "NES",
+		"notes": " played on MiSTer",
+		"platform": "NES (MiSTer)",
 		"title": "The Legend of Zelda",
+    "rating": 5,
 		"yearFinished": 2021
 	},
 	{
 		"dateFinished": "12-31",
 		"platform": "Switch",
 		"title": "Super Mario 64 (Super Mario 3D All-Stars)",
+    "rating": 4,
 		"yearFinished": 2020
 	},
 	{
@@ -248,6 +286,7 @@
 		"notes": "Ken, MiSTer",
 		"platform": "Arcade",
 		"title": "Street Fighter Zero",
+    "rating": 3,
 		"yearFinished": 2020
 	},
 	{
@@ -456,6 +495,8 @@
 		"notes": "Childhood's Beginning\" ending",
 		"platform": "PS4",
 		"title": "Bloodborne",
+    "rating": 5,
+    "url": "https://www.grouvee.com/games/43025-bloodborne/",
 		"yearFinished": 2019
 	},
 	{
