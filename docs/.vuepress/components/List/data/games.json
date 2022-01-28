@@ -43,7 +43,23 @@
 		"title": "NieR:Automata",
     "url": "https://www.grouvee.com/games/46509-nierautomata/"
 	},
-	{
+  {
+		"dateFinished": "01-25",
+		"platform": "NES (MiSTer)",
+		"title": "Super Mario Bros. 3",
+    "rating": 5,
+    "url": "https://www.grouvee.com/games/9575-super-mario-bros-3/",
+		"yearFinished": 2022
+	},
+  {
+		"dateFinished": "01-26",
+		"platform": "SNES (MiSTer)",
+		"title": "Super Street Figher II",
+    "rating": 4,
+    "url": "https://www.grouvee.com/games/6233-super-street-fighter-ii/",
+		"yearFinished": 2022
+	},
+  {
 		"dateFinished": "12-17",
 		"firstTime": "yes",
 		"platform": "PS5",

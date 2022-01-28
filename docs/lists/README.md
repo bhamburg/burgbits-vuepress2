@@ -29,8 +29,10 @@
 ### Currently Playing
 <List-Gaming currently sortable />
 
-### Games Finished in 2021
+### Games Finished in 2022
+<List-Gaming :year="2022" sortable />
 
+### Games Finished in 2021
 <List-Gaming :year="2021" sortable />
 
 [View More at Grouvee](https://www.grouvee.com/user/burgbits/shelves/148221-finished/)
