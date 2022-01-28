@@ -7,25 +7,11 @@
     "notes":"playing on PS5"
 	},
   {
-		"platform": "PS5",
-		"title": "Demon's Souls",
-    "rating": 4,
-    "url": "https://www.grouvee.com/games/82813-demons-souls/",
-    "notes": "attempting platinum trophy"
-	},
-  {
 		"firstTime": "yes",
 		"platform": "GBA (MiSTer)",
 		"title": "Metroid: Zero Mission",
     "url": "https://www.grouvee.com/games/16024-metroid-zero-mission/",
     "notes": " playing on MiSTer"
-	},
-	{
-    "notes": "playing on PS5",
-		"platform": "PS4 (PS5)",
-		"title": "Doom (2016)",
-    "rating": 4,
-    "url": "https://www.grouvee.com/games/18984-doom/"
 	},
   {
 		"platform": "PC",
@@ -38,12 +24,6 @@
     "url": "https://www.grouvee.com/games/64175-star-wars-jedi-fallen-order/"
 	},
   {
-		"firstTime": "yes",
-		"platform": "PS4 (PS5)",
-		"title": "NieR:Automata",
-    "url": "https://www.grouvee.com/games/46509-nierautomata/"
-	},
-  {
 		"dateFinished": "01-25",
 		"platform": "NES (MiSTer)",
 		"title": "Super Mario Bros. 3",
@@ -53,8 +33,9 @@
 	},
   {
 		"dateFinished": "01-26",
+		"firstTime": "yes",
 		"platform": "SNES (MiSTer)",
-		"title": "Super Street Figher II",
+		"title": "Super Street Fighter II",
     "rating": 4,
     "url": "https://www.grouvee.com/games/6233-super-street-fighter-ii/",
 		"yearFinished": 2022
