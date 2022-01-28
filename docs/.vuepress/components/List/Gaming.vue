@@ -46,10 +46,10 @@
         <td style="text-align:center">{{ i.platform }}</td>
         <td style="text-align:center">{{ i.dateFinished }}</td>
         <td style="text-align:center; font-size:1.5em;">
-          <span v-if="i.firstTime" title="first playthrough">✓</span>
+          <span v-if="i.firstTime === 'yes'" title="first playthrough">✓</span>
         </td>
         <td style="text-align:center; font-size:1.5em;">
-          <span v-if="i.completed" title="completed 100%">💯</span>
+          <span v-if="i.completed === 'yes'" title="completed 100%">💯</span>
         </td>
         <td style="text-align:center; font-size:2em;">
           <span v-if="i.rating == 5" title="5/5 stars, loved it">🤩</span>
