@@ -50,6 +50,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     docsRepo: 'bhamburg/burgbits-vuepress2',
     docsDir: 'docs',
     contributors: false,
+    lastUpdated: false,
   },
 
   plugins: [

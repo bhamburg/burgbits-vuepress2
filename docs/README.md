@@ -15,8 +15,9 @@ features:
   - title: Software Engineer
     details: With over a decade of experience building user interfaces for the Web and providing technical support,  my focus has always been to remove friction from the user experience.
   - title: Designer
-    details: My background in graphic design gives me a strong appreciation for both accessibility and aesthetics. I'm a big fan of clean layouts and clean code. Design is how it works!
+    details: My background in graphic design gives me an appreciation for both accessibility and aesthetics. I strive to create components that are useable and reusable. Design is how it works!
   - title: Musician
     details: When I'm not behind my laptop, you can often find me behind my four-string, plectrum banjo, plunking out traditional jazz favorites written circa a century ago.
-footer: Copyright © 2022 Brian Hamburg
+footer: "Copyright © 2022 Brian Hamburg"
 ---
+<HomeHeroFlipper />
