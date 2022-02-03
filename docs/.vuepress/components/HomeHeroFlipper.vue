@@ -24,12 +24,12 @@
     visibility: hidden;
   }
   @media (max-width: 419px) {
-    .home .hero img {
+    .home .hero .flip-card img {
       max-height: 210px;
       margin: 1.2rem auto 2rem;
     }
   }
-  .home .hero img {
+  .home .hero .flip-card img {
     max-height: 280px;
     margin: 1.5rem auto 3rem;
   }
