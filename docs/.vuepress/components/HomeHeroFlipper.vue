@@ -67,87 +67,88 @@
 <script>
   export default {
     data () {
-      let flipped = false;
-      let flipping = false;
-      let photoIndex = 0;
-      let photos = [
-        {
-          'src': '/images/hero/2015-mummers-parade.jpg',
-          'alt': '2015 Mummers Parade'
-        },
-        {
-          'src': '/images/hero/2022-mummers-parade.jpg',
-          'alt': '2022 Mummers Parade'
-        },
-        {
-          'src': '/images/hero/at-cannstatters.jpg',
-          'alt': 'Summer with the Twins'
-        },
-        {
-          'src': '/images/hero/christmas-2020.jpg',
-          'alt': 'Christmas 2020'
-        },
-        {
-          'src': '/images/hero/disney-world.jpg',
-          'alt': 'Magic Kingdom'
-        },
-        {
-          'src': '/images/hero/Hamburg-family-beach.jpg',
-          'alt': 'On the beach'
-        },
-        {
-          'src': '/images/hero/july-4th-2020.jpg',
-          'alt': 'Fourth of July'
-        },
-        {
-          'src': '/images/hero/love-phila.jpg',
-          'alt': 'With Love, Philadelphia'
-        },
-        {
-          'src': '/images/hero/midnight-society.jpg',
-          'alt': 'Drew Nugent and the Midnight Society gig'
-        },
-        {
-          'src': '/images/hero/night-out.jpg',
-          'alt': 'fancy night out'
-        },
-        {
-          'src': '/images/hero/ramblers-bookstore.jpg',
-          'alt': 'Red Hot Ramblers at the Bookstore Speakeasy'
-        },
-        {
-          'src': '/images/hero/the-claw.jpg',
-          'alt': 'claw machine halloween costume'
-        },
-        {
-          'src': '/images/hero/vegavox.jpg',
-          'alt': 'Vegavox banjo'
-        },
-        {
-          'src': '/images/hero/wedding-city-hall.jpg',
-          'alt': 'wedding photo at city hall'
-        },
-        {
-          'src': '/images/hero/with-fralinger-shades.jpg',
-          'alt': 'banjo with shades'
-        },
-        {
-          'src': '/images/hero/work-at-dice.jpg',
-          'alt': 'at work'
-        },
-        {
-          'src': '/images/hero/java-bean-hamburg.jpg',
-          'alt': 'Java the Bunny'
-        },
-        {
-          'src': '/images/hero/ludwig-banjo.jpg',
-          'alt': 'Ludwig with banjo'
-        },
-        {
-          'src': '/images/hero/ludwig-graduation.jpg',
-          'alt': 'Ludwig at graduation'
-        },
-      ];
+      let flipped  = false,
+          flipping = false,
+          photos   = [
+            {
+              'src': '/images/hero/2015-mummers-parade.jpg',
+              'alt': '2015 Mummers Parade'
+            },
+            {
+              'src': '/images/hero/2022-mummers-parade.jpg',
+              'alt': '2022 Mummers Parade'
+            },
+            {
+              'src': '/images/hero/at-cannstatters.jpg',
+              'alt': 'Summer with the Twins'
+            },
+            {
+              'src': '/images/hero/christmas-2020.jpg',
+              'alt': 'Christmas 2020'
+            },
+            {
+              'src': '/images/hero/disney-world.jpg',
+              'alt': 'Magic Kingdom'
+            },
+            {
+              'src': '/images/hero/Hamburg-family-beach.jpg',
+              'alt': 'On the beach'
+            },
+            {
+              'src': '/images/hero/july-4th-2020.jpg',
+              'alt': 'Fourth of July'
+            },
+            {
+              'src': '/images/hero/love-phila.jpg',
+              'alt': 'With Love, Philadelphia'
+            },
+            {
+              'src': '/images/hero/midnight-society.jpg',
+              'alt': 'Drew Nugent and the Midnight Society gig'
+            },
+            {
+              'src': '/images/hero/night-out.jpg',
+              'alt': 'fancy night out'
+            },
+            {
+              'src': '/images/hero/ramblers-bookstore.jpg',
+              'alt': 'Red Hot Ramblers at the Bookstore Speakeasy'
+            },
+            {
+              'src': '/images/hero/the-claw.jpg',
+              'alt': 'claw machine halloween costume'
+            },
+            {
+              'src': '/images/hero/vegavox.jpg',
+              'alt': 'Vegavox banjo'
+            },
+            {
+              'src': '/images/hero/wedding-city-hall.jpg',
+              'alt': 'wedding photo at city hall'
+            },
+            {
+              'src': '/images/hero/with-fralinger-shades.jpg',
+              'alt': 'banjo with shades'
+            },
+            {
+              'src': '/images/hero/work-at-dice.jpg',
+              'alt': 'at work'
+            },
+            {
+              'src': '/images/hero/java-bean-hamburg.jpg',
+              'alt': 'Java the Bunny'
+            },
+            {
+              'src': '/images/hero/ludwig-banjo.jpg',
+              'alt': 'Ludwig with banjo'
+            },
+            {
+              'src': '/images/hero/ludwig-graduation.jpg',
+              'alt': 'Ludwig at graduation'
+            },
+          ],
+          photoIndex = Math.floor(Math.random() * photos.length); // start with random photo from array
+
       return {
         flipped,
         flipping,
@@ -182,7 +183,7 @@
           this.flipped = !this.flipped;
           if (!this.flipped) {
             setTimeout(() => {
-              this.photoIndex = Math.floor(Math.random() * this.photos.length); // choose random photo from array
+              this.photoIndex = Math.floor(Math.random() * this.photos.length); // choose another random photo from array
             }, 800); // wait until animation finishes to load next image
           }
           setTimeout(() => { this.flipping = false }, 1000); // throttle flipping
