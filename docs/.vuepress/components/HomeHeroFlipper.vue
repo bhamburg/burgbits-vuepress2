@@ -142,10 +142,6 @@
               'src': '/images/hero/ludwig-banjo.jpg',
               'alt': 'Ludwig with banjo'
             },
-            {
-              'src': '/images/hero/ludwig-graduation.jpg',
-              'alt': 'Ludwig at graduation'
-            },
           ],
           photoIndex = Math.floor(Math.random() * photos.length); // start with random photo from array
 
