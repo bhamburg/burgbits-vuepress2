@@ -5,13 +5,13 @@
     title="Click me!"
   >
     <div class="flip-card-inner">
-      <a class="flip-card-front">
+      <a href="#" class="flip-card-front">
         <img 
           src="/images/brian-hamburg-profile-photo-DICE2019.jpeg" 
           alt="Brian Hamburg"
         />
       </a>
-      <a class="flip-card-back">
+      <a href="#" class="flip-card-back">
         <img :src="photos[photoIndex].src" :alt="photos[photoIndex].alt" />
       </a>
     </div>
@@ -135,6 +135,18 @@
           'src': '/images/hero/work-at-dice.jpg',
           'alt': 'at work'
         },
+        {
+          'src': '/images/hero/java-bean-hamburg.jpg',
+          'alt': 'Java the Bunny'
+        },
+        {
+          'src': '/images/hero/ludwig-banjo.jpg',
+          'alt': 'Ludwig with banjo'
+        },
+        {
+          'src': '/images/hero/ludwig-graduation.jpg',
+          'alt': 'Ludwig at graduation'
+        },
       ];
       return {
         flipped,
@@ -148,7 +160,7 @@
       this.$nextTick(function () {
         for (var i = 0; i < this.photos.length; i++) {
           let tempImage = new Image();
-          tempImage.src = this.photos[i];
+          tempImage.src = this.photos[i].src;
         }
       })
 

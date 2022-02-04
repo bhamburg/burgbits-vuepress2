@@ -13,7 +13,7 @@ actions:
     type: secondary
 features: 
   - title: Software Engineer
-    details: With over a decade of experience building user interfaces for the Web and providing technical support,  my focus has always been to remove friction from the user experience.
+    details: With over a decade of experience building user interfaces for the Web and providing technical support, my focus has always been to remove friction from the user experience.
   - title: Designer
     details: My background in graphic design gives me an appreciation for both accessibility and aesthetics. I strive to create components that are useable and reusable. Design is how it works!
   - title: Musician

@@ -22,7 +22,7 @@ Ultimately I'm just trying to balance being a father, husband, son, web professi
 
 ### Summary
 
-With over a decade of experience building user interfaces for the Web and providing technical support, my focus has always been to remove friction from the user experience, with a strong appreciation for both accessibility and aesthetics.
+With over a decade of experience building user interfaces for the Web and providing technical support, my focus has always been to remove friction from the user experience with an appreciation for both accessibility and aesthetics. I strive to create components that are useable and reusable.
 
 ### Professional Experience
 
@@ -78,9 +78,9 @@ When I'm not behind my laptop, you can often find me behind my four-string, plec
   <iframe src="https://www.youtube.com/embed/B62Kw4nDD88?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Some of the great artists who have inspired my playing and interest in the instrument include but are certainly not limited to [Eddie Peabody](https://en.wikipedia.org/wiki/Eddie_Peabody), [Harry Reser](https://en.wikipedia.org/wiki/Harry_Reser), and [Buddy Wachter](https://www.youtube.com/watch?v=pAViBbCtmoI).
+Some of the great artists who have inspired my playing and interest in the instrument include but are certainly not limited to [Eddie Peabody](https://www.youtube.com/watch?v=2kf3Cx_odqY), [Ken Aoki](https://www.youtube.com/watch?v=j714N05_SeQ), and [Buddy Wachter](https://www.youtube.com/watch?v=pAViBbCtmoI).
 
-I've been fortunate enough to play with great musicians in the Philadelphia area while gigging with [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4) and the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc).
+I've also been fortunate to have the chance to play with some great traditional jazz musicians in the Philadelphia area while gigging with [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4) and the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc).
 
 ## Other Hobbies
 
