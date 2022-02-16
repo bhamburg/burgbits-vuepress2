@@ -67,18 +67,14 @@
 <script>
   import Parse from 'parse/dist/parse.min.js';
 
-  Parse.initialize('nXKjWFWz0noFDDV5kX101uKB4nImJyIDSjqoVPFG', 'TyfKd1IfKTYN6UZrQx9nDOU97maRlaNmt0ClVE85');
-  Parse.serverURL = "https://parseapi.back4app.com/";
+  Parse.initialize('nXKjWFWz0noFDDV5kX101uKB4nImJyIDSjqoVPFG', 'TyfKd1IfKTYN6UZrQx9nDOU97maRlaNmt0ClVE85')
+  Parse.serverURL = "https://parseapi.back4app.com/"
 
   const Game = Parse.Object.extend("Game")
   const query = new Parse.Query(Game)
   query.limit(9999)
+
   let list = []
-  try {
-    list = await query.find()
-  } catch(error) {
-    console.log(error)
-  }
   
   export default {
     props: { 
@@ -95,9 +91,7 @@
             {key: 'title', name: 'Title'},
             {key: 'platform', name: 'Platform'},
           ],
-          items: list.filter((game) => {
-            return !game.attributes.yearFinished
-          })
+          items: []
         };
       } else if (this.year) {
         return {
@@ -111,10 +105,24 @@
             {key: 'completed', name: '100%'},
             {key: 'rating', name: "My Rating"},
           ],
-          items: list.filter((game) => {
+          items: []
+        };
+      }
+    },
+    async created() {
+      try {
+        list = await query.find()
+        if (this.currently) {
+          this.items = list.filter((game) => {
+            return !game.attributes.yearFinished
+          })
+        } else if (this.year) {
+          this.items = list.filter((game) => {
             return game.attributes.yearFinished == this.year;
           })
-        };
+        }
+      } catch(error) {
+        console.log(error)
       }
     },
     computed: {

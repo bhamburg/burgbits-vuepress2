@@ -30,12 +30,8 @@
   const Run = Parse.Object.extend("Run")
   const query = new Parse.Query(Run)
   query.limit(9999)
+
   let list = []
-  try {
-    list = await query.find()
-  } catch(error) {
-    console.log(error)
-  }
   
   export default {
     props: { 
@@ -43,13 +39,20 @@
       year: Number
     },
     data () {
-      let sortedList = list.sort((a, b) => {
-        if (a.attributes.date && b.attributes.date) {
-          return b.attributes.date.localeCompare(b.attributes.date)
-        }
-      })
       return {
-        items: sortedList
+        items: []
+      }
+    },
+    async created() {
+      try {
+        list = await query.find()
+        this.items = list.sort((a, b) => {
+          if (a.attributes.date && b.attributes.date) {
+            return b.attributes.date.localeCompare(b.attributes.date)
+          }
+        })
+      } catch(error) {
+        console.log(error)
       }
     }
   }

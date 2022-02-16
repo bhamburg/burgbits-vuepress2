@@ -73,12 +73,8 @@
   const Book = Parse.Object.extend("Book")
   const query = new Parse.Query(Book)
   query.limit(9999)
+
   let list = []
-  try {
-    list = await query.find()
-  } catch(error) {
-    console.log(error)
-  }
   
   export default {
     props: { 
@@ -95,9 +91,7 @@
             {key: 'title', name: 'Title'},
             {key: 'authorLastFirst', name: 'Author(s)'},
           ],
-          items: list.filter((book) => {
-            return !book.attributes.dateRead;
-          })
+          items: []
         };
       } else if (this.year) {
         return {
@@ -109,11 +103,25 @@
             {key: 'dateRead', name: 'Date Finished'},
             {key: 'rating', name: 'My Rating'}
           ],
-          items: list.filter((book) => {
+          items: []
+        }
+      };
+    },
+    async created() {
+      try {
+        list = await query.find()
+        if (this.currently) {
+          this.items = list.filter((book) => {
+            return !book.attributes.dateRead;
+          })
+        } else if (this.year) {
+          this.items = list.filter((book) => {
             return book.attributes.yearRead == this.year;
           })
         }
-      };
+      } catch(error) {
+        console.log(error)
+      }
     },
     computed: {
       itemsSorted: function() {
