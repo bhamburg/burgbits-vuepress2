@@ -26,12 +26,16 @@ With over a decade of experience building user interfaces for the Web and provid
 
 ### Professional Experience
 
+#### Disney Streaming
+##### Senior Software Engineer – Front End
+**February 2022 – Present**  
+
 #### American Red Cross
 ##### Full-stack Developer
-**February 2021 – Present**  
-Maintaining and creating editable components for the enterprise content management system and associated APIs for [redcross.org](https://redcross.org) and [redcrossblood.org](https://redcrossblood.org) as a member of a fully-remote software development team.
+**February 2021 – February 2022**  
+Maintained and created editable components for the enterprise content management system and associated APIs for [redcross.org](https://redcross.org) and [redcrossblood.org](https://redcrossblood.org) as a member of a fully-remote software development team.
 
-Key technologies include Adobe Experience Manager (AEM) running on Amazon Web Services (AWS), HTL (Sightly) templates using vanilla JS, Angular, jQuery, and Bootstrap on the front end, with Java/Sling/OSGi on the back end, automated testing with Cypress, JUnit, and Jasmine, and CI/CD via Bitbucket and Jenkins.
+Key technologies included Adobe Experience Manager (AEM) running on Amazon Web Services (AWS), HTL (Sightly) templates using vanilla JS, Angular, jQuery, and Bootstrap on the front end, with Java/Sling/OSGi on the back end, automated testing with Cypress, JUnit, and Jasmine, and CI/CD via Bitbucket and Jenkins.
 
 #### Thomas Jefferson University and Jefferson Health
 ##### Web Developer
@@ -90,7 +94,7 @@ I'm always trying to read more. Mostly sci-fi, pop-sci, philosophy, and self-hel
 
 Taking a proactive approach with my health and running when I can has become a priority, with a target goal of running a half marathon (13.1 miles) before my 40th birthday.
 
-Playing video games has been one of my favorite pastimes since I first made Mario take a shortcut through a green pipe in the late 80s. I like to think it's what drove my interest in technology, and specifically interactive digital experiences. My tastes gravitate towards games from and inspired by that 8- and 16-bit age of pixel art. Also, the heavily-syncopated, early-jazz-inspired soundtracks of the games from the NES/SNES era definitely affected my musical taste in a positive way. I love cathode-ray tube scan lines in 240p RGB, and keeping up with the latest advances in FPGA-based systems with near-perfect accuracy and zero-to-low input latency, particularly the [MiSTer FPGA](https://github.com/MiSTer-devel/Main_MiSTer/wiki) project. I've also more recently become a huge fan of the [*Soulsborne*](https://en.wikipedia.org/wiki/Souls_(series)) lineage of games by FromSoftware, mostly playing them on PlayStation 5.
+I like to think playing Super Mario Bros. and arcade games in the late 80s, and tinkering with DOS and Windows 95 to get multiplayer Doom going, is what initially drove my interest in technology, and specifically interactive digital experiences. My tastes gravitate towards games from and inspired by that 8- and 16-bit age of pixel art. Also, the heavily-syncopated, early-jazz-inspired soundtracks of the games from the NES/SNES era definitely affected my musical taste in a positive way. I love cathode-ray tube scan lines in 240p RGB, and keeping up with the latest advances in FPGA-based systems with near-perfect accuracy and zero-to-low input latency, particularly the [MiSTer FPGA](https://github.com/MiSTer-devel/Main_MiSTer/wiki) project. I've also more recently become a huge fan of the [*Soulsborne*](https://en.wikipedia.org/wiki/Souls_(series)) lineage of games by FromSoftware, mostly playing them on PlayStation 5.
 
 ![Zelda on PVM via MiSTer FPGA](/images/mister-zelda.jpeg)
 *The Legend of Zelda on my PVM via MiSTer FPGA*
