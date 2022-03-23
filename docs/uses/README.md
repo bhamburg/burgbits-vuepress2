@@ -27,7 +27,7 @@
 - [AirPods Pro](https://en.wikipedia.org/wiki/AirPods_Pro)
 - [Blue Yeti X microphone](https://www.bluemic.com/en-us/products/yeti-x/)
 - [Logitech C922 Pro HD Stream Webcam](https://www.logitech.com/en-us/products/webcams/c922-pro-stream-webcam.960-001087.html)
-- Many, many gaming controllers and dongles, mostly OEM and by [8BitDo](https://www.8bitdo.com/)
+- Many gaming controllers, sticks, and dongles that are mostly OEM or by [8BitDo](https://www.8bitdo.com/)
 
 ### Mobile Devices
 - [iPhone 12 Pro Max](https://en.wikipedia.org/wiki/IPhone_12_Pro)
