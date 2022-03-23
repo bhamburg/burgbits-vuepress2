@@ -30,7 +30,7 @@ Mobile:
 - [Apple Watch Series 4](https://en.wikipedia.org/wiki/Apple_Watch#Fourth_generation_(Series_4))
 
 ## Software
-### Local Environment
+Local Environment:
 - Code editor: [Visual Studio Code](https://code.visualstudio.com/)
   - Font: MesloLGS NF
   - Theme: GitHub Dark Default
@@ -44,7 +44,7 @@ Mobile:
 - [NPM](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
 
-### Creative Tools
+Creative Tools:
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) (Photoshop, Illustrator)
 - [GarageBand](https://www.apple.com/mac/garageband/)
 - [MuseScore](https://musescore.org/)
