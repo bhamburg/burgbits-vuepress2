@@ -1,6 +1,6 @@
 import Parse from 'parse/dist/parse.min.js';
 
-Parse.initialize('nXKjWFWz0noFDDV5kX101uKB4nImJyIDSjqoVPFG', 'TyfKd1IfKTYN6UZrQx9nDOU97maRlaNmt0ClVE85');
+Parse.initialize(import.meta.env.VITE_APP_ID, import.meta.env.VITE_JS_KEY);
 Parse.serverURL = "https://parseapi.back4app.com/";
 
 export default async function parseList(listType) {
