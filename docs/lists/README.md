@@ -18,8 +18,11 @@
 > “But when I run, the world grows quiet. Demons are forgotten, Krakens are slain, and Blerches are silenced.”  
   *—The Oatmeal*
 
-### Official Races
-<List-Running />
+### 2022 Runs
+<List-Running :year="2022" sortable />
+
+### 2021 Runs
+<List-Running :year="2021" sortable />
 
 ## Gaming
 
@@ -31,8 +34,5 @@
 
 ### Games Finished in 2022
 <List-Gaming :year="2022" sortable />
-
-### Games Finished in 2021
-<List-Gaming :year="2021" sortable />
 
 [View More at Grouvee](https://www.grouvee.com/user/burgbits/shelves/148221-finished/)
