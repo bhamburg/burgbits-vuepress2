@@ -65,14 +65,7 @@
 </template>
 
 <script>
-  import Parse from 'parse/dist/parse.min.js';
-
-  Parse.initialize('nXKjWFWz0noFDDV5kX101uKB4nImJyIDSjqoVPFG', 'TyfKd1IfKTYN6UZrQx9nDOU97maRlaNmt0ClVE85')
-  Parse.serverURL = "https://parseapi.back4app.com/"
-
-  const Game = Parse.Object.extend("Game")
-  const query = new Parse.Query(Game)
-  query.limit(9999)
+  import parseList from './api.js';
 
   let list = []
   
@@ -111,10 +104,10 @@
     },
     async created() {
       try {
-        list = await query.find()
+        list = await parseList('Game');
         if (this.currently) {
           this.items = list.filter((game) => {
-            return !game.attributes.yearFinished
+            return !game.attributes.yearFinished;
           })
         } else if (this.year) {
           this.items = list.filter((game) => {
@@ -122,7 +115,7 @@
           })
         }
       } catch(error) {
-        console.log(error)
+        console.log(error);
       }
     },
     computed: {

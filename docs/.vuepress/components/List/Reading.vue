@@ -65,14 +65,7 @@
 </template>
 
 <script>
-  import Parse from 'parse/dist/parse.min.js';
-
-  Parse.initialize('nXKjWFWz0noFDDV5kX101uKB4nImJyIDSjqoVPFG', 'TyfKd1IfKTYN6UZrQx9nDOU97maRlaNmt0ClVE85');
-  Parse.serverURL = "https://parseapi.back4app.com/";
-
-  const Book = Parse.Object.extend("Book")
-  const query = new Parse.Query(Book)
-  query.limit(9999)
+  import parseList from './api.js';
 
   let list = []
   
@@ -109,7 +102,7 @@
     },
     async created() {
       try {
-        list = await query.find()
+        list = await parseList('Book');
         if (this.currently) {
           this.items = list.filter((book) => {
             return !book.attributes.dateRead;
@@ -120,7 +113,7 @@
           })
         }
       } catch(error) {
-        console.log(error)
+        console.log(error);
       }
     },
     computed: {
