@@ -28,7 +28,8 @@ With over a decade of experience building user interfaces for the Web and provid
 
 #### Disney Streaming
 ##### Senior Software Engineer – Front End
-**February 2022 – Present**  
+**February 2022 – Present**
+Building and maintaining user interfaces with Vue.js for internal software that controls the  content delivery server ecosystem for properties including Disney+, ESPN+, and Star+.
 
 #### American Red Cross
 ##### Full-stack Developer
@@ -82,9 +83,7 @@ When I'm not behind my laptop, you can often find me behind my four-string, plec
   <iframe src="https://www.youtube.com/embed/B62Kw4nDD88?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Some of the great artists who have inspired my playing and interest in the instrument include but are certainly not limited to [Eddie Peabody](https://www.youtube.com/watch?v=2kf3Cx_odqY), [Ken Aoki](https://www.youtube.com/watch?v=j714N05_SeQ), and [Buddy Wachter](https://www.youtube.com/watch?v=pAViBbCtmoI).
-
-I've also been fortunate to have the chance to play with some great traditional jazz musicians in the Philadelphia area while gigging with [Drew Nugent and the Midnight Society](https://www.youtube.com/watch?v=xNOZTVwBa_4) and the [Red Hot Ramblers](https://www.youtube.com/watch?v=8COWgA1Hcxc).
+I've been a member of the world-renowned [Fralinger String Band](https://www.fralinger.org) for over 20 years, a perennial favorite in the New Year's Day Mummers Parade. Fralinger has traveled literally around the world with performances that have taken us to Mardi Gras in New Orleans, and as far as Hong Kong for the Chinese New Year celebration. I've also been fortunate to have the chance to play with some great traditional jazz musicians as part of small hot jazz and Dixieland ensembles in the Philadelphia area.
 
 ## Other Hobbies
 
