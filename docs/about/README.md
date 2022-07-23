@@ -29,7 +29,7 @@ With over a decade of experience building user interfaces for the Web and provid
 #### Disney Streaming
 ##### Senior Software Engineer – Front End
 **February 2022 – Present**  
-Building and maintaining user interfaces with Vue.js for internal software that controls the  content delivery server ecosystem for properties including Disney+, ESPN+, and Star+.
+Building and maintaining user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+.
 
 #### American Red Cross
 ##### Full-stack Developer
@@ -83,7 +83,7 @@ When I'm not behind my laptop, you can often find me behind my four-string, plec
   <iframe src="https://www.youtube.com/embed/B62Kw4nDD88?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-I've been a member of the world-renowned [Fralinger String Band](https://www.fralinger.org) for over 20 years, a perennial favorite in the New Year's Day Mummers Parade. Fralinger has traveled literally around the world with performances that have taken us to Mardi Gras in New Orleans, and as far as Hong Kong for the Chinese New Year celebration. I've also been fortunate to have the chance to play with some great traditional jazz musicians as part of small hot jazz and Dixieland ensembles in the Philadelphia area.
+I've been a member of the world-renowned [Fralinger String Band](https://www.fralinger.org) for over 20 years, a perennial favorite in the New Year's Day [Mummers Parade](https://www.fralinger.org/mummers-history). Fralinger has traveled literally around the world with performances that have taken us to Mardi Gras in New Orleans, and as far as Hong Kong for the Chinese New Year celebration. I've also been fortunate to have the chance to play with some great traditional jazz musicians as part of small hot jazz and Dixieland ensembles in the Philadelphia area.
 
 ## Other Hobbies
 
