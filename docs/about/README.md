@@ -28,7 +28,7 @@ With over a decade of experience building user interfaces for the Web and provid
 
 #### Disney Streaming
 ##### Senior Software Engineer – Front End
-**February 2022 – Present**
+**February 2022 – Present**  
 Building and maintaining user interfaces with Vue.js for internal software that controls the  content delivery server ecosystem for properties including Disney+, ESPN+, and Star+.
 
 #### American Red Cross
