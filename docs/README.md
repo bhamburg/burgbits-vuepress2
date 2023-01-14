@@ -18,6 +18,6 @@ features:
     details: My background in graphic design gives me an appreciation for both accessibility and aesthetics. I strive to create components that are useable and reusable. Design is how it works!
   - title: Musician
     details: When I'm not behind my laptop, you can often find me behind my four-string, plectrum banjo, plunking out traditional jazz favorites written circa a century ago.
-footer: "Copyright © 2022 Brian Hamburg"
+footer: "Copyright © 2023 Brian Hamburg"
 ---
 <HomeHeroFlipper />
