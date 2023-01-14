@@ -8,6 +8,9 @@
 ### Currently Reading
 <List-Reading currently sortable />
 
+### Books Read in 2023
+<List-Reading :year="2023" sortable />
+
 ### Books Read in 2022
 <List-Reading :year="2022" sortable />
 
@@ -31,6 +34,9 @@
 
 ### Currently Playing
 <List-Gaming currently sortable />
+
+### Games Finished in 2023
+<List-Gaming :year="2023" sortable />
 
 ### Games Finished in 2022
 <List-Gaming :year="2022" sortable />
