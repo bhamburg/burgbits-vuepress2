@@ -29,20 +29,36 @@ export default defineUserConfig<DefaultThemeOptions>({
         text: 'Social',
         children: [
           {
-            text: 'Twitter',
-            link: 'https://twitter.com/burgbits/',
+            text: 'GitHub',
+            link: 'https://github.com/bhamburg/',
+          },
+          {
+            text: 'Goodreads',
+            link: 'https://www.goodreads.com/user/show/4284038-brian-hamburg',
+          },
+          {
+            text: 'Grouvee',
+            link: 'https://www.grouvee.com/user/21384-burgbits/',
+          },
+          {
+            text: 'Instagram',
+            link: 'https://www.instagram.com/burgbits/',
           },
           {
             text: 'LinkedIn',
             link: 'https://www.linkedin.com/in/brianhamburg/',
           },
           {
-            text: 'GitHub',
-            link: 'https://github.com/bhamburg/',
+            text: 'MetaGamerScore',
+            link: 'https://metagamerscore.com/profile/6067',
           },
           {
-            text: 'CodePen',
-            link: 'https://codepen.io/bhamburg/',
+            text: 'Playlist',
+            link: 'https://www.ign.com/playlist/burgbits',
+          },
+          {
+            text: 'Twitter',
+            link: 'https://twitter.com/burgbits/',
           },
         ],
       },
