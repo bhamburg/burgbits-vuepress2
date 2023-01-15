@@ -82,7 +82,7 @@
           sortOrder: ['asc'],
           columns: [
             {key: 'title', name: 'Title'},
-            {key: 'authorLastFirst', name: 'Author(s)'},
+            {key: 'authorLast', name: 'Author(s)'},
           ],
           items: []
         };
