@@ -36,7 +36,7 @@
     },
     data () {
       return {
-        sortKey: ['dateRun'],
+        sortKey: ['date'],
         sortOrder: ['asc'],
         columns: [
           {key: 'name', name: 'Race Name'},
