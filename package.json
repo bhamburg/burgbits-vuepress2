@@ -1,22 +1,19 @@
 {
-  "name": "burgbits-vuepress2",
-  "version": "2.0.0",
-  "description": "Software Engineer, Designer, and Musician",
-  "main": "index.js",
-  "repository": "burgbits-vuepress2",
-  "author": "Brian Hamburg",
-  "license": "MIT",
-  "private": false,
-  "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.32",
-    "@vuepress/plugin-register-components": "^2.0.0-beta.32",
-    "vuepress": "^2.0.0-beta.32"
-  },
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "parse": "^3.4.1"
-  }
+    "name": "burgbits-vuepress2",
+    "version": "2.0.0",
+    "description": "Software Engineer, Designer, and Musician",
+    "main": "index.js",
+    "repository": "burgbits-vuepress2",
+    "author": "Brian Hamburg",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+      "@vuepress/plugin-google-analytics": "^2.0.0-beta.32",
+      "@vuepress/plugin-register-components": "^2.0.0-beta.32",
+      "vuepress": "^2.0.0-beta.32"
+    },
+    "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    }
 }
