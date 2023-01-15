@@ -41,6 +41,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: 'https://www.grouvee.com/user/21384-burgbits/',
           },
           {
+            text: 'IGN Playlist',
+            link: 'https://www.ign.com/playlist/burgbits',
+          },
+          {
             text: 'Instagram',
             link: 'https://www.instagram.com/burgbits/',
           },
@@ -53,8 +57,12 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: 'https://metagamerscore.com/profile/6067',
           },
           {
-            text: 'Playlist',
-            link: 'https://www.ign.com/playlist/burgbits',
+            text: 'PSNProfiles',
+            link: 'https://psnprofiles.com/burgbits'
+          },
+          {
+            text: 'Steam Community',
+            link: 'https://steamcommunity.com/id/bhamburg/'
           },
           {
             text: 'Twitter',

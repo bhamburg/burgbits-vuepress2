@@ -13,18 +13,18 @@
     </thead>
     <tbody>
       <tr :key="i" v-for="i in itemsSorted">
-        <td>{{ i.attributes.name }}</td>
-        <td style="text-align:center">{{ i.attributes.dateRun }}</td>
-        <td>{{ i.attributes.distance }}</td>
-        <td style="text-align:right">{{ i.attributes.time }}</td>
-        <td style="text-align:right">{{ i.attributes.pace }}</td>
+        <td>{{ i.name }}</td>
+        <td style="text-align:center">{{ i.date.substring(5) }}</td>
+        <td>{{ i.miles }}</td>
+        <td style="text-align:right">{{ i.time }}</td>
+        <td style="text-align:right">{{ i.pace }}</td>
       </tr>
     </tbody>
   </table>
 </template>
 
 <script>
-  import parseList from './api.js';
+  import parseSheet from './GoogleSheetsAPI.js'
 
   let list = []
   
@@ -36,12 +36,12 @@
     },
     data () {
       return {
-        sortKey: ['dateRun'],
+        sortKey: ['date'],
         sortOrder: ['asc'],
         columns: [
           {key: 'name', name: 'Race Name'},
-          {key: 'dateRun', name: 'Date'},
-          {key: 'distance', name: 'Distance'},
+          {key: 'date', name: 'Date'},
+          {key: 'miles', name: 'Miles'},
           {key: 'time', name: 'Time'},
           {key: 'pace', name: 'Pace/Mile'},
         ],
@@ -50,10 +50,10 @@
     },
     async created() {
       try {
-        list = await parseList('Run');
+        list = await parseSheet('Runs');
         if (this.year) {
           this.items = list.filter((run) => {
-            return run.attributes.yearRun == this.year;
+            return run.date.includes(`${this.year}-`);
           });
         }
       } catch(error) {
@@ -63,19 +63,13 @@
     computed: {
       itemsSorted: function() {
         return this.items.sort((a, b) => {
-          if (a.attributes[this.sortKey] && b.attributes[this.sortKey]) {
-            if (typeof a.attributes[this.sortKey] === 'string') {
-              return this.sortOrder === 'desc'
-              ? b.attributes[this.sortKey].localeCompare(a.attributes[this.sortKey])
-              : a.attributes[this.sortKey].localeCompare(b.attributes[this.sortKey]);
-            } else {
-              return this.sortOrder === 'asc'
-              ? b.attributes[this.sortKey] - a.attributes[this.sortKey]
-              : a.attributes[this.sortKey] - b.attributes[this.sortKey];
-            }
-          } else if (!a.attributes[this.sortKey]) {
+          if (a[this.sortKey] && b[this.sortKey]) {
+            return this.sortOrder === 'desc'
+            ? b[this.sortKey].localeCompare(a[this.sortKey])
+            : a[this.sortKey].localeCompare(b[this.sortKey]);
+          } else if (!a[this.sortKey]) {
             return this.sortOrder === 'desc' ? -1 : 1;
-          } else if (!b.attributes[this.sortKey]) {
+          } else if (!b[this.sortKey]) {
             return this.sortOrder === 'desc' ? 1 : -1;
           }
         })
