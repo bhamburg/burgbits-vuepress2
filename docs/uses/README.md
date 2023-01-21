@@ -20,6 +20,7 @@
 - [Olympus 13" OEV142 HR Trinitron CRT monitor (rebranded Sony PVM)](https://www.youtube.com/watch?v=CjB6D8HrU7E&list=PL_Hm88_bscLQMTL_PB7iUP_wYiTayzZp7&index=1)
 
 ### Peripherals
+- [Drop ALT mechanical keyboard](https://drop.com/buy/drop-alt-mechanical-keyboard)
 - [Royal Kludge RK84 wireless mechanical keyboard](https://rkgamingstore.com/products/rk84-keyboard-red-switch)
 - [Drop MT3 Camillo keycaps](https://drop.com/buy/drop-mt3-camillo-keycap-set)
 - [Magic Trackpad 2](https://en.wikipedia.org/wiki/Magic_Trackpad_2)
@@ -58,7 +59,7 @@
 
 ### This Site
 - [VuePress](https://v2.vuepress.vuejs.org/) <Badge type="tip" text="v2" vertical="top" />
-- [Back4App](https://www.back4app.com)
+- [Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2nbU2EQmkeReaRu9oI9wBMAvH9j-2S0TM787O8X8S6wQ2zh1Clbdhp2lmzwZ9AiN-a6YJQqYnEpxj/pubhtml)
+- [Google Analytics](https://marketingplatform.google.com/about/analytics)
 - [GitHub](https://github.com/bhamburg/burgbits-vuepress2)
 - [Netlify](https://netlify.com/)
-- [Google Analytics 4](https://support.google.com/analytics/answer/10089681?hl=en)
