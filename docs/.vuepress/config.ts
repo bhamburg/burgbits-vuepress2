@@ -61,6 +61,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: 'https://psnprofiles.com/burgbits'
           },
           {
+            text: 'RetroAchievements',
+            link: 'https://retroachievements.org/user/bhamburg'
+          },
+          {
             text: 'Steam Community',
             link: 'https://steamcommunity.com/id/bhamburg/'
           },
