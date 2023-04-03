@@ -31,15 +31,18 @@
 
 > “Video games are bad for you? That’s what they said about rock and roll.”  
   *—Shigeru Miyamoto*
-  
+
+### Exophase Gamercard
+
 <a href="https://www.exophase.com/user/burgbits/" target="_blank"><img src="https://card.exophase.com/2/0/207782.png?1680528536"></a>
 
 ### Games Finished in 2023
 <List-Gaming :year="2023" sortable />
 
-### Games Finished in 2022
-<List-Gaming :year="2022" sortable />
+### More Gaming Links
 
 [View More at Grouvee](https://www.grouvee.com/user/burgbits/shelves/148221-finished/)
+
 [View My Board Game Arena Profile](https://boardgamearena.com/player?id=94080961)
+
 [View My Physical Video Game Collection on PriceCharting](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection)
