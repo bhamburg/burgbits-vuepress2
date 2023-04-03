@@ -41,3 +41,5 @@
 <List-Gaming :year="2022" sortable />
 
 [View More at Grouvee](https://www.grouvee.com/user/burgbits/shelves/148221-finished/)
+
+[View My Physical Video Game Collection on PriceCharting](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection)
