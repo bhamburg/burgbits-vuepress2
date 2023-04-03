@@ -12,7 +12,7 @@
 - [Steam Deck (512 GB)](https://store.steampowered.com/steamdeck)
 - [MiSTer FPGA with analog I/O board](https://misteraddons.com/collections/kits-1/products/mister-pre-configured-bundle-with-aluminum-case?variant=39440209084549)
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
-- Many gaming consoles, from [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) to [PS5](https://en.wikipedia.org/wiki/PlayStation_5)
+- [Many](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection) gaming consoles, from [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) to [PS5](https://en.wikipedia.org/wiki/PlayStation_5)
 
 ### Monitors
 - [Gigabyte 31.5" M32U IPS HDR gaming monitor with KVM](https://www.gigabyte.com/Monitor/M32U)
@@ -31,7 +31,7 @@
 - [AirPods Pro](https://en.wikipedia.org/wiki/AirPods_Pro)
 - [Blue Yeti X microphone](https://www.bluemic.com/en-us/products/yeti-x/)
 - [Logitech C922 Pro HD Stream Webcam](https://www.logitech.com/en-us/products/webcams/c922-pro-stream-webcam.960-001087.html)
-- Many gaming controllers, sticks, and dongles that are mostly OEM or by [8BitDo](https://www.8bitdo.com/)
+- [Many](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection) gaming controllers, sticks, and dongles that are mostly OEM or by [8BitDo](https://www.8bitdo.com/)
 
 ### Mobile Devices
 - [iPhone 12 Pro Max](https://en.wikipedia.org/wiki/IPhone_12_Pro)
@@ -64,3 +64,6 @@
 - [Google Analytics](https://marketingplatform.google.com/about/analytics)
 - [GitHub](https://github.com/bhamburg/burgbits-vuepress2)
 - [Netlify](https://netlify.com/)
+
+### Collection
+[View My Physical Video Game Collection](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection)
