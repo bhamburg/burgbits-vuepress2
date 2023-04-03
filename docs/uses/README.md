@@ -66,4 +66,4 @@
 - [Netlify](https://netlify.com/)
 
 ### Collection
-[View My Physical Video Game Collection](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection)
+[View My Physical Video Game Collection on PriceCharting](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection)
