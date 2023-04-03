@@ -31,6 +31,8 @@
 
 > “Video games are bad for you? That’s what they said about rock and roll.”  
   *—Shigeru Miyamoto*
+  
+<a href="https://www.exophase.com/user/burgbits/"><img src="https://card.exophase.com/2/0/207782.png?1680528536"></a>
 
 ### Games Finished in 2023
 <List-Gaming :year="2023" sortable />
