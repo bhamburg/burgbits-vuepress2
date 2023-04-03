@@ -32,7 +32,7 @@
 > “Video games are bad for you? That’s what they said about rock and roll.”  
   *—Shigeru Miyamoto*
 
-### Exophase Gamercard
+### Most Recent Games and Achievements
 
 <a href="https://www.exophase.com/user/burgbits/" target="_blank"><img src="https://card.exophase.com/2/0/207782.png?1680528536"></a>
 
