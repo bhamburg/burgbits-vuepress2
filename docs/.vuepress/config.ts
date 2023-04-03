@@ -29,6 +29,18 @@ export default defineUserConfig<DefaultThemeOptions>({
         text: 'Social',
         children: [
           {
+            text: 'Board Game Arena',
+            link: 'https://boardgamearena.com/player?id=94080961',
+          },
+          {
+            text: 'Discord',
+            link: 'https://discord.com/users/burgbits#2358',
+          },
+          {
+            text: 'Exophase',
+            link: 'https://www.exophase.com/user/burgbits/',
+          },
+          {
             text: 'GitHub',
             link: 'https://github.com/bhamburg/',
           },
