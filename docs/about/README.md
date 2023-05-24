@@ -24,32 +24,34 @@ Ultimately I'm just trying to balance being a father, husband, son, web professi
 
 With over a decade of experience building user interfaces for the Web and providing technical support, my focus has always been to remove friction from the user experience with an appreciation for both accessibility and aesthetics. I strive to create components that are usable and reusable.
 
+Key technologies used include vanilla JS, Vue, Angular, React, jQuery, Sass/CSS, and Bootstrap on the front end; Adobe Experience Manager (AEM) with HTL (Sightly) templates written in Java/Apache Sling on the back end; automated testing with Cypress, Vitest/Vue Test Utils, JUnit, and Jasmine; and Git and Jenkins for CI/CD.
+
 ### Professional Experience
 
 #### The Walt Disney Company
 ##### Senior Software Engineer – Front End
 **February 2022 – Present**  
-Building and maintaining user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+.
+Built and maintained user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+. Implemented new automated testing with Vitest/Vue Test Utils and Cypress.
 
 #### American Red Cross
 ##### Full-Stack Developer
 **February 2021 – February 2022**  
-Maintained and created editable components for the enterprise content management system and associated APIs for [redcross.org](https://redcross.org) and [redcrossblood.org](https://redcrossblood.org) as a member of a fully-remote software development team.
+Maintained and created editable components for the enterprise content management system and associated APIs for [redcross.org](https://redcross.org) and [redcrossblood.org](https://redcrossblood.org). Implemented new automated testing with JUnit, Jasmine, and Cypress.
 
 Key technologies included Adobe Experience Manager (AEM) running on Amazon Web Services (AWS), HTL (Sightly) templates using vanilla JS, Angular, jQuery, and Bootstrap on the front end, with Java/Sling/OSGi on the back end, automated testing with Cypress, JUnit, and Jasmine, and CI/CD via Bitbucket and Jenkins.
 
 #### Thomas Jefferson University and Jefferson Health
 ##### Web Developer
 **July 2015 – February 2021**  
-As a member of Jefferson’s IS&T department, created and maintained editable web templates and components for [public-facing websites](https://jeffersonhealth.org) built within AEM with HTL (Sightly), server-side JavaScript, and Java. Often contributed to the development of other front-end web applications as needed, utilizing vanilla JS and React, Sass/CSS, and HTML.
+As a member of Jefferson’s IS&T department, created and maintained editable web templates and components for [public-facing websites](https://jeffersonhealth.org) built within AEM with HTL (Sightly), server-side JavaScript, and Java. Often contributed to the development of other front-end web applications as needed.
 ##### Front-End Web Developer
 **September 2012 – July 2015**  
-As a member of Jefferson's marketing team, created landing pages, microsites, WordPress themes, banner ads, and email campaigns for clinical and university clients. Updated existing Sitecore templates for the main hospital website. Redesigned the hospital "JEFF NOW" appointment request form with a responsive layout, enhancing usability and decreasing the abandonment rate. Administered and trained users in WordPress, SurveyGizmo, and MailChimp.
+As a member of Jefferson's marketing team, created landing pages, microsites, WordPress themes, banner ads, and email campaigns for clinical and university clients. Updated existing Sitecore templates for the main hospital website. Redesigned the hospital appointment request form with a responsive layout, enhancing usability and decreasing the abandonment rate. Trained users in WordPress, SurveyGizmo, and MailChimp.
 
 #### Law School Admission Council
 ##### Web Services Specialist
 **September 2008 – September 2012**  
-Created new and updated existing web pages for [LSAC.org](https://lsac.org) to adhere to accessibility guidelines and strict W3C standards. Converted the intranet portal from a static web site to a Microsoft SharePoint site with custom ASP.NET master pages, page layouts, and style sheets. Administered WebTrends and Google Analytics on LSAC.org and the intranet portal. Created and maintained online surveys in SurveyGizmo with Salesforce integration.
+Created new and updated existing web pages for [LSAC.org](https://lsac.org) to adhere to W3C accessibility standards. Converted the intranet portal from a static web site to a Microsoft SharePoint site. Administered WebTrends and Google Analytics on LSAC.org and the intranet portal. Created and maintained online surveys in SurveyGizmo with Salesforce integration.
 ##### Information Systems Specialist
 **September 2006 – September 2008**  
 Provided technical support to internal employees and external customers, diagnosing and documenting technical issues pertaining to the company’s web site, in-house software, and licensed software. Trained and assisted co-workers to support Macintosh users. Provided quality assurance testing for online law school applications and contributed to documentation for law school application creation and QA processes.
