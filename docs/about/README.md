@@ -22,7 +22,7 @@ Ultimately I'm just trying to balance being a father, husband, son, web professi
 
 ### Summary
 
-With over a decade of experience building user interfaces for the Web and providing technical support, my focus has always been to remove friction from the user experience with an appreciation for both accessibility and aesthetics. I strive to create components that are useable and reusable.
+With over a decade of experience building user interfaces for the Web and providing technical support, my focus has always been to remove friction from the user experience with an appreciation for both accessibility and aesthetics. I strive to create components that are usable and reusable.
 
 ### Professional Experience
 
