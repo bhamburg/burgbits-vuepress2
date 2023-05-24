@@ -26,7 +26,7 @@ With over a decade of experience building user interfaces for the Web and provid
 
 ### Professional Experience
 
-#### Disney Streaming
+#### The Walt Disney Company
 ##### Senior Software Engineer – Front End
 **February 2022 – Present**  
 Building and maintaining user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+.
