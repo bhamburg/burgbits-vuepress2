@@ -18,7 +18,7 @@ Ultimately I'm just trying to balance being a father, husband, son, web professi
 
 ## Résumé
 
-<a href="/Brian-Hamburg-resume.pdf" target="_blank">Download PDF</a> :inbox_tray:
+<a href="/Brian-Hamburg-Resume-5-2023.pdf" target="_blank">Download PDF</a> :inbox_tray:
 
 ### Summary
 
@@ -32,7 +32,7 @@ With over a decade of experience building user interfaces for the Web and provid
 Building and maintaining user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+.
 
 #### American Red Cross
-##### Full-stack Developer
+##### Full-Stack Developer
 **February 2021 – February 2022**  
 Maintained and created editable components for the enterprise content management system and associated APIs for [redcross.org](https://redcross.org) and [redcrossblood.org](https://redcrossblood.org) as a member of a fully-remote software development team.
 
@@ -42,7 +42,7 @@ Key technologies included Adobe Experience Manager (AEM) running on Amazon Web S
 ##### Web Developer
 **July 2015 – February 2021**  
 As a member of Jefferson’s IS&T department, created and maintained editable web templates and components for [public-facing websites](https://jeffersonhealth.org) built within AEM with HTL (Sightly), server-side JavaScript, and Java. Often contributed to the development of other front-end web applications as needed, utilizing vanilla JS and React, Sass/CSS, and HTML.
-##### Front-end Web Developer
+##### Front-End Web Developer
 **September 2012 – July 2015**  
 As a member of Jefferson's marketing team, created landing pages, microsites, WordPress themes, banner ads, and email campaigns for clinical and university clients. Updated existing Sitecore templates for the main hospital website. Redesigned the hospital "JEFF NOW" appointment request form with a responsive layout, enhancing usability and decreasing the abandonment rate. Administered and trained users in WordPress, SurveyGizmo, and MailChimp.
 
@@ -90,8 +90,6 @@ I've been a member of the world-renowned [Fralinger String Band](https://www.fra
 Besides keeping this site up-to-date using the latest tech, I also helped build the [String Band Database](http://stringbanddatabase.com), which is a searchable listing of string band themes from the Mummers Parade with videos and parade data. It was a good exercise in using a Google Sheet as a RESTful backend.
 
 I'm always trying to read more. Mostly sci-fi, pop-sci, philosophy, and self-help books, but I'm open to anything. It's hard to find the time, but I've been doing a pretty good job of keeping up with my reading list. Ryan Holiday and Robert Greene are two of my more recent favorite authors.
-
-Taking a proactive approach with my health and running when I can has become a priority, with a target goal of running a half marathon (13.1 miles) before my 40th birthday.
 
 I like to think playing Super Mario Bros. and arcade games in the late 80s, and tinkering with DOS and Windows 95 to get multiplayer Doom going, is what initially drove my interest in technology, and specifically interactive digital experiences. My tastes gravitate towards games from and inspired by that 8- and 16-bit age of pixel art. Also, the heavily-syncopated, early-jazz-inspired soundtracks of the games from the NES/SNES era definitely affected my musical taste in a positive way. I love cathode-ray tube scan lines in 240p RGB, and keeping up with the latest advances in FPGA-based systems with near-perfect accuracy and zero-to-low input latency, particularly the [MiSTer FPGA](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) hardware emulation project and the [RetroTINK](https://www.retrotink.com/product-page/5x-pro) line of analog-to-digital video upscalers. I've also more recently become a huge fan of the [*Soulsborne*](https://en.wikipedia.org/wiki/Souls_(series)) games by FromSoftware, mostly playing them on PlayStation 5.
 
