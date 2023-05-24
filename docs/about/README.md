@@ -38,8 +38,6 @@ Built and maintained user interfaces with Vue.js for software that controls the 
 **February 2021 – February 2022**  
 Maintained and created editable components for the enterprise content management system and associated APIs for [redcross.org](https://redcross.org) and [redcrossblood.org](https://redcrossblood.org). Implemented new automated testing with JUnit, Jasmine, and Cypress.
 
-Key technologies included Adobe Experience Manager (AEM) running on Amazon Web Services (AWS), HTL (Sightly) templates using vanilla JS, Angular, jQuery, and Bootstrap on the front end, with Java/Sling/OSGi on the back end, automated testing with Cypress, JUnit, and Jasmine, and CI/CD via Bitbucket and Jenkins.
-
 #### Thomas Jefferson University and Jefferson Health
 ##### Web Developer
 **July 2015 – February 2021**  
