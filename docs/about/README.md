@@ -31,7 +31,7 @@ Key technologies used include vanilla JS, Vue, Angular, React, jQuery, Sass/CSS,
 #### The Walt Disney Company
 ##### Senior Software Engineer – Front End
 **February 2022 – Present**  
-Built and maintained user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+. Implemented new automated testing with Vitest/Vue Test Utils and Cypress.
+Led UX software quality initiatives and drove major feature releases. Built and maintained user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN, and Star+. Implemented new automated testing with Vitest / Vue Test Utils and Cypress.
 
 #### American Red Cross
 ##### Full-Stack Developer
@@ -41,7 +41,7 @@ Maintained and created editable components for the enterprise content management
 #### Thomas Jefferson University and Jefferson Health
 ##### Web Developer
 **July 2015 – February 2021**  
-As a member of Jefferson’s IS&T department, created and maintained editable web templates and components for [public-facing websites](https://jeffersonhealth.org) built within AEM with HTL (Sightly), server-side JavaScript, and Java. Often contributed to the development of other front-end web applications as needed.
+As a member of Jefferson’s IS&T department, created and maintained editable web templates and components for [public-facing websites](https://jeffersonhealth.org) built within AEM with HTL (Sightly), server-side JavaScript, and Java. Often contributed to the development of other React web applications as needed.
 ##### Front-End Web Developer
 **September 2012 – July 2015**  
 As a member of Jefferson's marketing team, created landing pages, microsites, WordPress themes, banner ads, and email campaigns for clinical and university clients. Updated existing Sitecore templates for the main hospital website. Redesigned the hospital appointment request form with a responsive layout, enhancing usability and decreasing the abandonment rate. Trained users in WordPress, SurveyGizmo, and MailChimp.
