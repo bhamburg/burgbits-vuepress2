@@ -31,7 +31,7 @@ Key technologies used include vanilla JS, Vue, Angular, React, jQuery, Sass/CSS,
 #### The Walt Disney Company
 ##### Senior Software Engineer – Front End
 **February 2022 – Present**  
-Led UX software quality initiatives and drove major feature releases. Built and maintained user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN, and Star+. Implemented new automated testing with Vitest / Vue Test Utils and Cypress.
+Led UX software quality initiatives and drove major feature releases. Built and maintained user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+. Implemented new automated testing with Vitest / Vue Test Utils and Cypress.
 
 #### American Red Cross
 ##### Full-Stack Developer
