@@ -6,13 +6,12 @@
 
 ## Hardware
 ### Computers
-- [MacBook Pro (16-inch, 2021)](https://en.wikipedia.org/wiki/MacBook_Pro#Second_generation_(Thick_Unibody))
 - [MacBook Air (M1, 2020)](https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon))
 - [Custom-built PC](https://pcpartpicker.com/b/Hq9G3C)
 - [Steam Deck (512 GB)](https://store.steampowered.com/steamdeck)
 - [MiSTer FPGA with analog I/O board](https://misteraddons.com/collections/kits-1/products/mister-pre-configured-bundle-with-aluminum-case?variant=39440209084549)
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
-- [Many](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection) gaming consoles, from [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) to [PS5](https://en.wikipedia.org/wiki/PlayStation_5)
+- [Many](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection) gaming consoles, from [NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) to [PS5](https://en.wikipedia.org/wiki/PlayStation_5) and multiple [Nintendo Switch](https://en.m.wikipedia.org/wiki/Nintendo_Switch) models.
 
 ### Monitors
 - [Gigabyte 31.5" M32U IPS HDR gaming monitor with KVM](https://www.gigabyte.com/Monitor/M32U)
@@ -36,7 +35,7 @@
 ### Mobile Devices
 - [iPhone 12 Pro Max](https://en.wikipedia.org/wiki/IPhone_12_Pro)
 - [iPad Air (4th Generation)](https://en.wikipedia.org/wiki/IPad_Air_(4th_generation))
-- [Apple Watch Series 4](https://en.wikipedia.org/wiki/Apple_Watch#Fourth_generation_(Series_4))
+- [Apple Watch Series 8](https://en.wikipedia.org/wiki/Apple_Watch)
 
 ## Software
 ### Local Environment
