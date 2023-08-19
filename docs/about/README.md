@@ -6,8 +6,7 @@
   Strummer of strings.  
   Wrangler of the Web.  
   Implementer of interfaces.  
-  Purveyor of pixels.  
-  Never bored.
+  Purveyor of pixels.
 
 ![Hamburg Family](/images/pluto-polynesian.jpg)
 *The Hamburgs in Walt Disney World*
@@ -28,10 +27,14 @@ Key technologies used include vanilla JS, Vue, Angular, React, jQuery, Sass/CSS,
 
 ### Professional Experience
 
+#### Oncourse Home Solutions
+##### Senior Software Engineer
+**July 2023 – Present**  
+
 #### The Walt Disney Company
 ##### Senior Software Engineer – Front End
-**February 2022 – Present**  
-Led UX software quality initiatives and drove major feature releases. Built and maintained user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+. Implemented new automated testing with Vitest / Vue Test Utils and Cypress.
+**February 2022 – July 2023**  
+Led front-end software quality initiatives and drove major feature releases. Built and maintained user interfaces with Vue.js for software that controls the content delivery ecosystem for properties including Disney+, ESPN+, and Star+. Implemented new automated testing with Vitest / Vue Test Utils and Cypress.
 
 #### American Red Cross
 ##### Full-Stack Developer
