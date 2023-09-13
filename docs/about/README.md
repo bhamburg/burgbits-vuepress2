@@ -11,13 +11,13 @@
 ![Hamburg Family](/images/pluto-polynesian.jpg)
 *The Hamburgs in Walt Disney World*
 
-I’m a software engineer, designer, and musician. Most of my days are spent working and playing in Philadelphia where I live with my wife, Andrea, and twin daughters, Elizabeth and Louise. We have a young Australian Cattle Dog mix named Ludwig, and an old rabbit named Java. But this is just the tip of the Brian Hamburg iceberg. Within these pages you can learn more about what's going on in my life professionally and recreationally.
+I’m a software engineer, designer, and musician. Most of my days are spent working and playing in Philadelphia where I live with my wife, Andrea, and twin daughters, Elizabeth and Louise. But this is just the tip of the Brian Hamburg iceberg. Within these pages you can learn more about what's going on in my life professionally and recreationally.
 
 Ultimately I'm just trying to balance being a father, husband, son, web professional, musician, nerd, colleague, friend, and decent human being in the crazy world we currently live in.
 
 ## Résumé
 
-<a href="/Brian-Hamburg-Resume-6-2023.pdf" target="_blank">Download PDF</a> :inbox_tray:
+<a href="/Brian-Hamburg-resume-9-2023.pdf" target="_blank">Download PDF</a> :inbox_tray:
 
 ### Summary
 
@@ -30,6 +30,7 @@ Key technologies used include vanilla JS, Vue, Angular, React, jQuery, Sass/CSS,
 #### Oncourse Home Solutions
 ##### Senior Software Engineer
 **July 2023 – Present**  
+Leading UI development of internal- and external-facing web software initiatives for a $100 million-revenue home warranty company with more than 450 employees. Utilizing headless CMS solutions with React (Gatsby.js and Next.js), creating front-end wireframes/mockups with Figma, and contributing to back-end design and implementation as necessary.
 
 #### The Walt Disney Company
 ##### Senior Software Engineer – Front End
