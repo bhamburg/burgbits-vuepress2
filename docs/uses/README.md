@@ -20,9 +20,10 @@
 - [Olympus 13" OEV142 HR Trinitron CRT monitor (rebranded Sony PVM)](https://www.youtube.com/watch?v=CjB6D8HrU7E&list=PL_Hm88_bscLQMTL_PB7iUP_wYiTayzZp7&index=1)
 
 ### Peripherals
-- [Drop ALT mechanical keyboard](https://drop.com/buy/drop-alt-mechanical-keyboard)
-- [Royal Kludge RK84 wireless mechanical keyboard](https://rkgamingstore.com/products/rk84-keyboard-red-switch)
-- [Drop MT3 Camillo keycaps](https://drop.com/buy/drop-mt3-camillo-keycap-set)
+- [Drop ALT Mechanical Keyboard](https://drop.com/buy/drop-alt-mechanical-keyboard)
+- [8BitDo Retro Mechanical Keyboard](https://www.8bitdo.com/retro-mechanical-keyboard)
+- [Royal Kludge RK84 Wireless Mechanical Keyboard](https://rkgamingstore.com/products/rk84-keyboard-red-switch)
+- [Drop MT3 Camillo Keycaps](https://drop.com/buy/drop-mt3-camillo-keycap-set)
 - [Magic Trackpad 2](https://en.wikipedia.org/wiki/Magic_Trackpad_2)
 - [Cooler Master MM711 mouse](https://www.coolermaster.com/catalog/peripheral/mice/mm711/)
 - [Logitech G305 Lightspeed wireless mouse](https://www.logitechg.com/en-us/products/gaming-mice/g305-lightspeed-wireless-gaming-mouse.910-006012.html)
@@ -33,9 +34,9 @@
 - [Many](https://www.pricecharting.com/offers?seller=wpdbc2737xvuig5i5yd3g3bohq&status=collection) gaming controllers, sticks, and dongles that are mostly OEM or by [8BitDo](https://www.8bitdo.com/)
 
 ### Mobile Devices
-- [iPhone 12 Pro Max](https://en.wikipedia.org/wiki/IPhone_12_Pro)
+- [iPhone 14 Pro](https://en.wikipedia.org/wiki/IPhone_14_Pro)
 - [iPad Air (4th Generation)](https://en.wikipedia.org/wiki/IPad_Air_(4th_generation))
-- [Apple Watch Series 8](https://en.wikipedia.org/wiki/Apple_Watch)
+- [Apple Watch Ultra 2](https://en.wikipedia.org/wiki/Apple_Watch)
 
 ## Software
 ### Local Environment
