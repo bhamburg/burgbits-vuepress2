@@ -33,6 +33,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: 'https://boardgamearena.com/player?id=94080961',
           },
           {
+            text: 'Codepen',
+            link: 'https://codepen.io/bhamburg/',
+          },
+          {
             text: 'Discord',
             link: 'https://discord.com/users/burgbits#2358',
           },

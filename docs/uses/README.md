@@ -16,7 +16,7 @@
 ### Monitors
 - [Gigabyte 31.5" M32U IPS HDR gaming monitor with KVM](https://www.gigabyte.com/Monitor/M32U)
 - [LG 27" 4K IPS HDR monitor (27UL600-W)](https://www.lg.com/us/monitors/lg-27UL600-W-4k-uhd-led-monitor)
-- [LG 55" C1 OLED Smart TV (OLED55C1PUB)](https://www.lg.com/us/tvs/lg-oled55c1pub-oled-4k-tv)
+- [LG 65" C1 OLED Smart TV (OLED55C1PUB)](https://www.lg.com/us/tvs/lg-oled55c1pub-oled-4k-tv)
 - [Olympus 13" OEV142 HR Trinitron CRT monitor (rebranded Sony PVM)](https://www.youtube.com/watch?v=CjB6D8HrU7E&list=PL_Hm88_bscLQMTL_PB7iUP_wYiTayzZp7&index=1)
 
 ### Peripherals

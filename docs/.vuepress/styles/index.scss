@@ -4,11 +4,13 @@
 :root {
   scroll-behavior: smooth;
 
-  h1, h2, h3, .black {
-    font-weight: 900;
-  }
-  h4 {
-    font-weight: 800;
+  .vp-doc {
+      h1, h2, h3, .black {
+      font-weight: 900;
+    }
+    h4 {
+      font-weight: 800;
+    }
   }
 
   --c-brand: #e30613;

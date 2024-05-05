@@ -5,6 +5,9 @@
 > “The man who does not read good books is no better than the man who can’t.”  
   *—Mark Twain*
   
+### Books Read in 2024
+<List-Reading :year="2024" sortable />
+
 ### Books Read in 2023
 <List-Reading :year="2023" sortable />
 
@@ -17,6 +20,9 @@
 
 > “But when I run, the world grows quiet. Demons are forgotten, Krakens are slain, and Blerches are silenced.”  
   *—The Oatmeal*
+
+### 2024 Runs
+<List-Running :year="2024" sortable />
 
 ### 2023 Runs
 <List-Running :year="2023" sortable />
@@ -35,6 +41,9 @@
 ### Most Recent Games and Achievements
 
 <a href="https://www.exophase.com/user/burgbits/" target="_blank"><img src="https://card.exophase.com/2/0/207782.png?1680528536"></a>
+
+### Games Finished in 2024
+<List-Gaming :year="2024" sortable />
 
 ### Games Finished in 2023
 <List-Gaming :year="2023" sortable />
