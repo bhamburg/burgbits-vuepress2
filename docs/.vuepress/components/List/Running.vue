@@ -14,7 +14,7 @@
     <tbody>
       <tr :key="i" v-for="i in itemsSorted">
         <td>{{ i.name }}</td>
-        <td style="text-align:center">{{ i.date.substring(5) }}</td>
+        <td style="text-align:center">{{ i.date }}</td>
         <td>{{ i.miles }}</td>
         <td style="text-align:right">{{ i.time }}</td>
         <td style="text-align:right">{{ i.pace }}</td>
@@ -30,7 +30,6 @@
   
   export default {
     props: { 
-      currently: Boolean,
       sortable: Boolean,
       year: Number
     },
@@ -50,12 +49,7 @@
     },
     async created() {
       try {
-        list = await parseSheet('Runs');
-        if (this.year) {
-          this.items = list.filter((run) => {
-            return run.date.includes(`${this.year}-`);
-          });
-        }
+        this.items = await parseSheet('Runs');
       } catch(error) {
         console.log(error);
       }

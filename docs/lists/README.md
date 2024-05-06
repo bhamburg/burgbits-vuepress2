@@ -21,17 +21,8 @@
 > “But when I run, the world grows quiet. Demons are forgotten, Krakens are slain, and Blerches are silenced.”  
   *—The Oatmeal*
 
-### 2024 Runs
+### Officially Sanctioned Runs
 <List-Running :year="2024" sortable />
-
-### 2023 Runs
-<List-Running :year="2023" sortable />
-
-### 2022 Runs
-<List-Running :year="2022" sortable />
-
-### 2021 Runs
-<List-Running :year="2021" sortable />
 
 ## Gaming
 
@@ -50,7 +41,7 @@
 
 ### More Gaming Links
 
-[View More at Grouvee](https://www.grouvee.com/user/burgbits/shelves/148221-finished/)
+[View More at IGN Playlist](https://www.ign.com/playlist/burgbits)
 
 [View My Board Game Arena Profile](https://boardgamearena.com/player?id=94080961)
 
