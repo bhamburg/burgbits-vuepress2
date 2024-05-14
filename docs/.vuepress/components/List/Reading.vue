@@ -78,8 +78,8 @@
     data () {
       if (this.currently) {
         return {
-          sortKey: ['authorLast'],
-          sortOrder: ['asc'],
+          sortKey: 'authorLast',
+          sortOrder: 'asc',
           columns: [
             {key: 'title', name: 'Title'},
             {key: 'authorLast', name: 'Author(s)'},

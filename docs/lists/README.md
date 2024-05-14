@@ -24,6 +24,8 @@
 ### Officially Sanctioned Runs
 <List-Running :year="2024" sortable />
 
+[View my Strava Runner Profile](https://www.strava.com/athletes/108266568)
+
 ## Gaming
 
 > “Video games are bad for you? That’s what they said about rock and roll.”  

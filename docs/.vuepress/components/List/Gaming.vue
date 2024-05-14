@@ -88,8 +88,8 @@
         };
       } else if (this.year) {
         return {
-          sortKey: ['dateFinished'],
-          sortOrder: ['asc'],
+          sortKey: 'dateFinished',
+          sortOrder: 'asc',
           columns: [
             {key: 'title', name: 'Title'},
             {key: 'platform', name: 'Platform'},

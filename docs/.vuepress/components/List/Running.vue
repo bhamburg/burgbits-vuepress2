@@ -35,8 +35,8 @@
     },
     data () {
       return {
-        sortKey: ['date'],
-        sortOrder: ['asc'],
+        sortKey: 'date',
+        sortOrder: 'desc',
         columns: [
           {key: 'name', name: 'Race Name'},
           {key: 'date', name: 'Date'},
