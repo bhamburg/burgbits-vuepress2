@@ -6,8 +6,9 @@
 
 ## Hardware
 ### Computers
-- [MacBook Air (M1, 2020)](https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon))
+- [Razer Blade 14 (2023)](https://www.razer.com/mena-en/gaming-laptops/razer-blade-14)
 - [Custom-built PC](https://pcpartpicker.com/b/Hq9G3C)
+- [MacBook Air (M1, 2020)](https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon))
 - [Steam Deck (512 GB)](https://store.steampowered.com/steamdeck)
 - [MiSTer FPGA with analog I/O board](https://misteraddons.com/collections/kits-1/products/mister-pre-configured-bundle-with-aluminum-case?variant=39440209084549)
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
@@ -20,8 +21,8 @@
 - [Olympus 13" OEV142 HR Trinitron CRT monitor (rebranded Sony PVM)](https://www.youtube.com/watch?v=CjB6D8HrU7E&list=PL_Hm88_bscLQMTL_PB7iUP_wYiTayzZp7&index=1)
 
 ### Peripherals
-- [Drop ALT Mechanical Keyboard](https://drop.com/buy/drop-alt-mechanical-keyboard)
 - [8BitDo Retro Mechanical Keyboard](https://www.8bitdo.com/retro-mechanical-keyboard)
+- [Drop ALT Mechanical Keyboard](https://drop.com/buy/drop-alt-mechanical-keyboard)
 - [Royal Kludge RK84 Wireless Mechanical Keyboard](https://rkgamingstore.com/products/rk84-keyboard-red-switch)
 - [Drop MT3 Camillo Keycaps](https://drop.com/buy/drop-mt3-camillo-keycap-set)
 - [Magic Trackpad 2](https://en.wikipedia.org/wiki/Magic_Trackpad_2)
@@ -48,13 +49,16 @@
   - Shell: Oh My Zsh (powerlevel10k, shell completion)
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 - [Git](https://git-scm.com/)
-- [Homebrew](https://brew.sh/) (Mac)
 - [Node.js](https://nodejs.org/)
 - [NPM](https://www.npmjs.com/)
-- [Yarn](https://yarnpkg.com/)
+- [Docker](https://www.docker.com) 
+- [Homebrew](https://brew.sh/) (Mac)
 
 ### Creative Tools
-- [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) (Photoshop, Illustrator)
+- [Affinity Designer 2](https://affinity.serif.com/en-us/designer/)
+- [Affinity Photo 2](https://affinity.serif.com/en-us/photo/)
+- [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/)
+- [Figma](https://www.figma.com)
 - [GarageBand](https://www.apple.com/mac/garageband/)
 - [MuseScore](https://musescore.org/)
 
