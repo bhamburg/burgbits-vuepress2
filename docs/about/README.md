@@ -30,7 +30,7 @@ Key technologies used include vanilla JS, Vue, Angular, React, jQuery, Sass/CSS,
 #### Oncourse Home Solutions
 ##### Senior Software Engineer
 **July 2023 – Present**  
-Leading UI development of internal- and external-facing web software initiatives for a $100 million-revenue home warranty company with more than 450 employees. Utilizing headless CMS solutions with React (Gatsby.js and Next.js), creating front-end wireframes/mockups with Figma, and contributing to back-end design and implementation as necessary.
+Leading UI development of internal and external-facing web software initiatives. Utilizing headless CMS solutions with React (Gatsby.js and Next.js) for a nationwide home warranty e-commerce platform, creating front-end wireframes/mockups with Figma, and contributing to back-end design and implementation.
 
 #### The Walt Disney Company
 ##### Senior Software Engineer – Front End
