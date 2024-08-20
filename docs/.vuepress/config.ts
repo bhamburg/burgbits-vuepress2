@@ -53,10 +53,6 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: 'https://www.goodreads.com/user/show/4284038-brian-hamburg',
           },
           {
-            text: 'Grouvee',
-            link: 'https://www.grouvee.com/user/21384-burgbits/',
-          },
-          {
             text: 'IGN Playlist',
             link: 'https://www.ign.com/playlist/burgbits',
           },
@@ -83,10 +79,6 @@ export default defineUserConfig<DefaultThemeOptions>({
           {
             text: 'Steam Community',
             link: 'https://steamcommunity.com/id/bhamburg/'
-          },
-          {
-            text: 'Twitter',
-            link: 'https://twitter.com/burgbits/',
           },
         ],
       },
