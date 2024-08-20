@@ -17,7 +17,7 @@ Ultimately I'm just trying to balance being a father, husband, son, web professi
 
 ## Résumé
 
-<a href="/Brian-Hamburg-resume-9-2023.pdf" target="_blank">Download PDF</a> :inbox_tray:
+<a href="/Brian-Hamburg-resume.pdf" target="_blank">Download PDF</a> :inbox_tray:
 
 ### Summary
 
