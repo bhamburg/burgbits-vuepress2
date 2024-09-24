@@ -37,7 +37,6 @@
 ### Mobile Devices
 - [iPhone 14 Pro](https://en.wikipedia.org/wiki/IPhone_14_Pro)
 - [iPad Air (4th Generation)](https://en.wikipedia.org/wiki/IPad_Air_(4th_generation))
-- [Apple Watch Ultra 2](https://en.wikipedia.org/wiki/Apple_Watch)
 
 ## Software
 ### Local Environment
